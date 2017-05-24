@@ -24,6 +24,11 @@ Explanation
 Case 1: 1 bulb can be lit in only 1 way. 
 Case 2: 2 bulbs can be lit in -*, *-, ** i.e. 3 ways.
 
+![alt text][explain]
+[explain]:Images/f1.PNG
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
 ## Solutions
 
 * C++1
@@ -109,7 +114,10 @@ public static void main(String[] args) {
 }
 ```
 
+
 ## Explanation
 
 ![alt text][explain]
 [explain]:Images/f1.PNG
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
