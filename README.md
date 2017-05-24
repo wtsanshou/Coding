@@ -45,11 +45,11 @@
 * LC221 Maximal Square
 * LC54 Spiral Matrix
 >>>#### 1.3.1.2 Linear Equations
-* Summing the N Series
+* <a href="Mathmatic/LinearEquations/SummingTheNSeries.md">Summing the N Series</a>
 >>### 1.3.2 Probability Theory
 >>>#### 1.3.2.1 Random
 >>>#### 1.3.2.2 Permutation and Combination
-* Diwali Lights
+* <a href="Mathmatic/LinearEquations/DiwaliLights.md">Diwali Lights</a>
 >>### 1.3.2 Analytic Geometry
 >>### 1.3.3 Advanced Mathmatic
 >>>#### 1.3.3.1 Dot Product
