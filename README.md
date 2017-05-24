@@ -49,7 +49,7 @@
 >>### 1.3.2 Probability Theory
 >>>#### 1.3.2.1 Random
 >>>#### 1.3.2.2 Permutation and Combination
-* <a href="Mathmatic/LinearEquations/DiwaliLights.md">Diwali Lights</a>
+* <a href="Mathmatic/PermutationAndCombination/DiwaliLights.md">Diwali Lights</a>
 >>### 1.3.2 Analytic Geometry
 >>### 1.3.3 Advanced Mathmatic
 >>>#### 1.3.3.1 Dot Product
