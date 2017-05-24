@@ -53,4 +53,4 @@ public static void main(String[] args) {
 
 ## Explanation
 
-![Kiku](Images/SummingtheNseriesE.png)
+![Explanation](Images/SummingtheNseriesE.PNG)
