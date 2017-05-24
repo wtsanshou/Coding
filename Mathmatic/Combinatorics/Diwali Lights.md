@@ -113,4 +113,4 @@ public static void main(String[] args) {
 ![alt text][explain]
 [explain]:https://github.com/wtsanshou/Coding/blob/master/Mathmatic/Combinatorics/Images/f1.PNG "explanation"
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/wtsanshou/Coding/blob/master/Mathmatic/Combinatorics/Images/f1.PNG "explanation")
