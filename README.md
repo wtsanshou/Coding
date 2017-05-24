@@ -90,5 +90,5 @@
 >>>#### 2.1.5.11 IP
 >>>#### 2.1.5.12 Operation
 >>>#### 2.1.5.13 Conversion
-* LC8 String to Integer (atoi)
+* <a href="DataStructure/String/LC8StringToInteger(atoi).md">LC8 String to Integer (atoi)</a>
 >>### 2.1.6 General List
