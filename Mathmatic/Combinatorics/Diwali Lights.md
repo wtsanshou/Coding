@@ -111,6 +111,6 @@ public static void main(String[] args) {
 
 ## Explanation
 ![alt text][explain]
-[explain]:Images/f1.PNG "explanation"
+[explain]:Coding/Mathmatic/Combinatorics/Images/f1.PNG "explanation"
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
