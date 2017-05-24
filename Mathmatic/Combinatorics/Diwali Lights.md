@@ -108,9 +108,6 @@ public static void main(String[] args) {
 }
 ```
 
-
 ## Explanation
-![alt text][explain]
-[explain]:https://github.com/wtsanshou/Coding/blob/master/Mathmatic/Combinatorics/Images/f1.PNG "explanation"
 
-![alt text](https://github.com/wtsanshou/Coding/blob/master/Mathmatic/Combinatorics/Images/f1.PNG "explanation")
+![alt text](https://github.com/wtsanshou/Coding/blob/master/Mathmatic/Combinatorics/Images/DiwaliLightsE.PNG "explanation")
