@@ -3,8 +3,8 @@
 ### HackerRank
 
 ## Question
-![Kiku](Images/Summing the N series Q.png)
-![Test](Images/test.png)
+
+![Question](Images/SummingtheNseriesQ.png)
 
 ## Solutions
 
@@ -53,4 +53,4 @@ public static void main(String[] args) {
 
 ## Explanation
 
-![Kiku](Images/Summing the N series E.png)
+![Kiku](Images/SummingtheNseriesE.png)
