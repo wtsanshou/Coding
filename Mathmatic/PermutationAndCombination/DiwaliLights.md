@@ -110,4 +110,4 @@ public static void main(String[] args) {
 
 ## Explanation
 
-![alt text](https://github.com/wtsanshou/Coding/blob/master/Mathmatic/Combinatorics/Images/DiwaliLightsE.PNG "explanation")
+![alt text](https://github.com/wtsanshou/Coding/blob/master/Mathmatic/PermutationAndCombination/Images/DiwaliLightsE.PNG "explanation")
