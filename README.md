@@ -58,7 +58,37 @@
 >>>#### 1.3.3.4 Differential
 
 # 2. Data Structure
-> ##2.1 Linear Structure
->> ###2.1.1 Linear List
->> ###2.1.2 Stack
->> ###2.1.3 Queue
+>##2.1 Linear Structure
+>>###2.1.1 Linear List
+>>###2.1.2 Stack
+>>###2.1.3 Queue
+>>>#### 2.1.3.1 Priority Queue
+>>###2.1.4 Array
+>>>#### 2.1.4.1 Rotation
+>>>#### 2.1.4.2 Duplicate
+>>>#### 2.1.4.3 Permutations
+>>>#### 2.1.4.4 Stock Buy and Sell
+>>>#### 2.1.4.5 SubArray
+>>>>##### 2.1.4.5.1 Continuous
+>>>>##### 2.1.4.5.2 Uncontinuous
+>>>#### 2.1.4.6 Moving elements
+>>>#### 2.1.4.7 Traversal
+>>>#### 2.1.4.8 Prefix Sums
+>>>#### 2.1.4.9 Count
+>>>#### 2.1.4.10 Window Slice
+>>>#### 2.1.4.11 Interval
+>>###2.1.5 String
+>>>#### 2.1.5.1 IO
+>>>#### 2.1.5.2 Anagrams
+>>>#### 2.1.5.3 Duplicate
+>>>#### 2.1.5.4 Matching
+>>>#### 2.1.5.5 Counting Letters
+>>>#### 2.1.5.7 Palindrom
+>>>#### 2.1.5.8 Parentheses
+>>>#### 2.1.5.9 Reverse
+>>>#### 2.1.5.10 SubString
+>>>#### 2.1.5.11 IP
+>>>#### 2.1.5.12 Operation
+>>>#### 2.1.5.13 Conversion
+* LC8 String to Integer (atoi)
+>>###2.1.6 General List
