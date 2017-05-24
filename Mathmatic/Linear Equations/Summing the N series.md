@@ -4,6 +4,7 @@
 
 ## Question
 ![Kiku](Images/Summing the N series Q.png)
+![Test](Images/test.png)
 
 ## Solutions
 
@@ -52,4 +53,4 @@ public static void main(String[] args) {
 
 ## Explanation
 
-![Kuki](Images/Summing the N series E.png)
+![Kiku](Images/Summing the N series E.png)
