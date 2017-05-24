@@ -58,12 +58,12 @@
 >>>#### 1.3.3.4 Differential
 
 # 2. Data Structure
->##2.1 Linear Structure
->>###2.1.1 Linear List
->>###2.1.2 Stack
->>###2.1.3 Queue
+>## 2.1 Linear Structure
+>>### 2.1.1 Linear List
+>>### 2.1.2 Stack
+>>### 2.1.3 Queue
 >>>#### 2.1.3.1 Priority Queue
->>###2.1.4 Array
+>>### 2.1.4 Array
 >>>#### 2.1.4.1 Rotation
 >>>#### 2.1.4.2 Duplicate
 >>>#### 2.1.4.3 Permutations
@@ -77,7 +77,7 @@
 >>>#### 2.1.4.9 Count
 >>>#### 2.1.4.10 Window Slice
 >>>#### 2.1.4.11 Interval
->>###2.1.5 String
+>>### 2.1.5 String
 >>>#### 2.1.5.1 IO
 >>>#### 2.1.5.2 Anagrams
 >>>#### 2.1.5.3 Duplicate
@@ -91,4 +91,4 @@
 >>>#### 2.1.5.12 Operation
 >>>#### 2.1.5.13 Conversion
 * LC8 String to Integer (atoi)
->>###2.1.6 General List
+>>### 2.1.6 General List
