@@ -3,6 +3,7 @@
 #### HackerRank
 
 ## Question
+```
 On the eve of Diwali, Hari is decorating his house with a serial light bulb set. The serial light bulb set has N bulbs placed sequentially on a string which is programmed to change patterns every second. If at least one bulb in the set is on at any given instant of time, how many different patterns of light can the serial light bulb set produce?
 Note: Lighting two bulbs *-* is different from **-
 Input Format 
@@ -23,11 +24,12 @@ Sample Output
 Explanation
 Case 1: 1 bulb can be lit in only 1 way. 
 Case 2: 2 bulbs can be lit in -*, *-, ** i.e. 3 ways.
+```
 
 ## Solutions
 * C++1
 ```bash
-int CountFormats(int N) {
+int CountPatterns(int N) {
     int res = 1;
     for(int i=0; i<N; ++i)
         res = (res << 1) % 100000;
@@ -39,7 +41,7 @@ int main() {
     cin>>T;
     for(int i=0; i<T; ++i){
         cin>>N;
-        cout<< CountFormats(N)<< endl;
+        cout<< CountPatterns(N)<< endl;
     }
     return 0;
 }
@@ -47,9 +49,9 @@ int main() {
 
 * C++2
 ```bash
-int CountFormats(int N) {
+int CountPatterns(int N) {
     if(N==0) return 1;
-    long res = CountFormats(N/2);
+    long res = CountPatterns(N/2);
     res = (res*res) % 100000;
     return N%2==0 ? res : (res*2)% 100000;
 }
@@ -60,7 +62,7 @@ int main() {
     cin>>T;
     for(int i=0; i<T; ++i){
         cin>> N;
-        cout<< CountFormats(N) - 1<< endl;
+        cout<< CountPatterns(N) - 1<< endl;
     }
     return 0;
 }
@@ -75,11 +77,11 @@ public static void main(String[] args) {
         T = sc.nextInt();
         for(int i=0; i<T && sc.hasNextInt(); ++i){
             N = sc.nextInt();
-            System.out.println(CountFormats(N));
+            System.out.println(CountPatterns(N));
         }   
     }
     
-    private static int CountFormats(int N){
+    private static int CountPatterns(int N){
         int res = 1;
         for(int i=0; i<N; ++i)
             res = (res<< 1) % 100000;
@@ -96,13 +98,13 @@ public static void main(String[] args) {
         T = sc.nextInt();
         for(int i=0; i<T && sc.hasNextInt(); ++i){
             N = sc.nextInt();
-            System.out.println(CountFormats(N)-1);
+            System.out.println(CountPatterns(N)-1);
         }   
     }
     
-    private static long CountFormats(int N){
+    private static long CountPatterns(int N){
         if(N==0) return 1;
-        long res = CountFormats(N/2);
+        long res = CountPatterns(N/2);
         res = (res*res) % 100000;
         return N%2==0 ? res : (res*2) % 100000;
 }
