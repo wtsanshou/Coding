@@ -1,4 +1,7 @@
 # Coding
+This Folder includes some programming contest questions. I am trying to summarize the questions, solutions, and my thinking.
+**From:** LeetCode, Codility, HackerRank
+**Languages:** C++, Java, Python
 
 ## Table of Contents
 

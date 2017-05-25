@@ -3,8 +3,10 @@
 ### LeetCode
 
 ## Question
+```
 Follow up for <a href="">N-Queens</a> problem.
 Now, instead outputting board configurations, return the total number of distinct solutions.
+```
 ![N-Queens](Images/NQueensII.png)
 
 ## Solutions
