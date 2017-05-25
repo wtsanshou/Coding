@@ -12,8 +12,8 @@
 >>>#### 1.1.1.5 Transitive Closure
 >>>#### 1.1.1.6 Articulation Point - undiGraph
 >>>#### 1.1.1.7 Topological Sort-AOV-Network
->>>>##### 1.1.1.7.1 DFS
->>>>##### 1.1.1.7.2 BFS  
+>>>>##### 1.1.1.7.1 Depth First Search (DFS)
+>>>>##### 1.1.1.7.2 Breadth First Search (BFS)  
 >>>#### 1.1.1.8 Critical Path-AOV-Netword
 >>>#### 1.1.1.9 Euler Path, Hamilton Tour
 >>>#### 1.1.1.10 Difference Constraints (Bellman-Ford)
@@ -92,3 +92,48 @@
 >>>#### 2.1.5.13 Conversion
 * <a href="DataStructure/String/LC8StringToInteger(atoi).md">LC8 String to Integer (atoi)</a>
 >>### 2.1.6 General List
+>## 2.2 Non-Linear Structure
+>>### 2.2.1 Tree
+>>>#### 2.2.1.1 Binary Tree
+>>>#### 2.2.1.2 Binary Search Tree (BST)
+>>>#### 2.2.1.3 Balanced Binary Tree
+>>>#### 2.2.1.4 Complete Tree
+>>>#### 2.2.1.5 Traversal
+>>>#### 2.2.1.6 Top to Down
+>>>#### 2.2.1.7 Down to Top
+>>>#### 2.2.1.8 Normal Tree
+>>### 2.2.2 Heap
+>>### 2.2.3 Graph
+>>>#### 2.2.3.1 Undirected Graph
+>>>#### 2.2.3.2 Directed Graph
+>## 2.3 Sort
+>>### 2.3.1 Insert Sort
+>>>#### 2.3.1.1 Directly Insert
+>>>#### 2.3.1.2 Binary Insert
+>>>#### 2.3.1.3 Shell Sort
+>>### 2.3.2 Exchange Sort
+>>### 2.3.3 Select Sort
+>>### 2.3.4 Merge Sort
+>>### 2.3.5 Radix Sort
+>>### 2.3.6 Bucket Sort
+>## 2.4 Search
+>>### 2.4.1 Binary Search
+>>### 2.4.2 Tree Search
+>>>#### 2.4.2.1 Binary Tree
+>>>#### 2.4.2.2 BST
+>>>#### 2.4.2.3 Self-balancing BST (AVL BST)
+>>>#### 2.4.2.4 Union-Find Set
+>>>#### 2.4.2.5 Trie
+>>### 2.4.3 Hashing
+
+# 3. Algorithm
+>## 3.1 Simulated Algorithm
+>## 3.2 Search Algorithm
+>>### 3.2.1 Enumeration
+>>### 3.2.2 DFS
+>>### 3.2.3 BFS
+>>### 3.2.4 Heuristic Search
+>## 3.3 Recursion Algorithm
+>>### 3.3.1 Back Tracking
+>## 3.4 Greedy Algorithm
+>## 3.5 Dynamic Programming (DP)
