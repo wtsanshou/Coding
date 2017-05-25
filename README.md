@@ -53,12 +53,14 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.3.2.1 Random
 >>>#### 1.3.2.2 Permutation and Combination
 * <a href="Mathmatic/PermutationAndCombination/DiwaliLights.md">Diwali Lights</a>
->>### 1.3.2 Analytic Geometry
->>### 1.3.3 Advanced Mathmatic
->>>#### 1.3.3.1 Dot Product
->>>#### 1.3.3.2 Cross Product
->>>#### 1.3.3.3 Integral
->>>#### 1.3.3.4 Differential
+>>### 1.3.3 Analytic Geometry
+* <a href="Mathmatic/ComputationalFeometry/AnalyticGeometry/FindThePoint.md">Find the Point</a>
+
+>>### 1.3.4 Advanced Mathmatic
+>>>#### 1.3.4.1 Dot Product
+>>>#### 1.3.4.2 Cross Product
+>>>#### 1.3.4.3 Integral
+>>>#### 1.3.4.4 Differential
 
 # 2. Data Structure
 >## 2.1 Linear Structure
@@ -141,3 +143,5 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
 >## 3.4 Greedy Algorithm
 >## 3.5 Dynamic Programming (DP)
+* <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
+Algorithm\DynamicProgramming
