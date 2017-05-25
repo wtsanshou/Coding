@@ -135,5 +135,6 @@
 >>### 3.2.4 Heuristic Search
 >## 3.3 Recursion Algorithm
 >>### 3.3.1 Back Tracking
+* <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
 >## 3.4 Greedy Algorithm
 >## 3.5 Dynamic Programming (DP)
