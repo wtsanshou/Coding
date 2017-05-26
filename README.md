@@ -64,7 +64,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.3.4.4 Differential
 >## 1.4 Foundation
 * <a href="Mathmatic/Foundation/HrMaximumDraws.md">Maximum Draws</a>
-
+* <a href="Mathmatic/Foundation/HrHandShake.md">Hand Shake</a>
+* <a href="Mathmatic/Foundation/HrArmyGame.md">Army Game</a>
 
 # 2. Data Structure
 >## 2.1 Linear Structure
