@@ -99,11 +99,11 @@ I saw the result of 10000000000 is just 10. So, I can guess the result of 10<sup
 
 To reduce duplicated primes multiply operations, I use an array to save the results of each product range. 
 
-So that, I just need to compare N with the these product ranges from the beginning of the array. When we found a product is equal or larger than N, we can return the index of the array as output.
+So that, I just need to compare N with these product ranges from the beginning of the array. When we found a product is equal or larger than N, we can return the index of the array as output.
 
 **Note:** For the specific case `N=1`, I put `1` at the begining of the array.
 
-**return**
+**Return**
 * j, if equal
 * j-1, if product > N
 

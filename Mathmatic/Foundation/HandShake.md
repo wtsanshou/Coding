@@ -19,7 +19,7 @@ Print the number of handshakes for each test-case in a new line.
 
 * 1 <= T <= 1000 
 
-* 0 < N < 10<sup>6</sup>
+* 0 < N < 106
 
 **Sample Input**
 
