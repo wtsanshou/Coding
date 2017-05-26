@@ -48,7 +48,7 @@ public static void main(String[] args) {
         int T = in.nextInt();
         for(int a0 = 0; a0 < T; a0++){
             int N = in.nextInt();
-            System.out.println((long)N*(N-1)/2);
+            System.out.println( (long)N*(N-1) / 2 );
         }
     }
 ```

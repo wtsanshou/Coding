@@ -11,14 +11,11 @@
 * C++1
 ```bash
 int SN(long double N){
-    //long double x = N*(N+1)/2;
-    //long double y = N*(N-1)/2;
     long double x = fmod(N, 1e9 + 7);
     return (int) fmod(x*x,  1e9 + 7);
 }
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int T;
     long double N;
     cin>>T;
@@ -33,7 +30,6 @@ int main() {
 * Java1
 ```bash
 public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
         BigInteger N;

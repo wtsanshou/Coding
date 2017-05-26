@@ -53,7 +53,6 @@ Thus, we print `Rx` and `Ry`  as 3 3 on a new line.
 * C++1
 ```bash
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int n;
     int p[4];
     cin >> n;
@@ -69,7 +68,6 @@ int main() {
 * Java1
 ```bash
 public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int [] p = new int[4];

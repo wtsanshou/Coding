@@ -150,4 +150,3 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 3.4 Greedy Algorithm
 >## 3.5 Dynamic Programming (DP)
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
-Algorithm\DynamicProgramming

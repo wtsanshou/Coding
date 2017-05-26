@@ -40,7 +40,7 @@ Print the total number of patterns modulo 10<sup>5</sup>
 **Explanation**
 
 * Case 1: 1 bulb can be lit in only 1 way. 
-* Case 2: 2 bulbs can be lit in -*, *-, ** i.e. 3 ways.
+* Case 2: 2 bulbs can be lit in `-*`, `*-`, `**`` i.e. 3 ways.
 
 ## Solutions
 * C++1
@@ -52,7 +52,6 @@ int CountPatterns(int N) {
     return res-1;
 }
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int T, N;
     cin>>T;
     for(int i=0; i<T; ++i){
@@ -73,7 +72,6 @@ int CountPatterns(int N) {
 }
 
 int main() {
-    /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int T, N;
     cin>>T;
     for(int i=0; i<T; ++i){
@@ -87,7 +85,6 @@ int main() {
 * Java1
 ```bash
 public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
         int T, N;
         T = sc.nextInt();
@@ -108,7 +105,6 @@ public static void main(String[] args) {
 * Java2
 ```bash
 public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
         Scanner sc = new Scanner(System.in);
         int T, N;
         T = sc.nextInt();
