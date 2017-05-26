@@ -18,7 +18,7 @@ Print the number of Draws (x) Jim makes in the worst case scenario.
 
 **Constraints**
 * 1 <= T <= 1000
-* 0 < N < 106
+* 0 < N < 10<sup>6</sup>
 
 **Sample Input**
 
