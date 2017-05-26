@@ -67,6 +67,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathmatic/Foundation/HrHandShake.md">Hand Shake</a>
 * <a href="Mathmatic/Foundation/HrArmyGame.md">Army Game</a>
 * <a href="Mathmatic/Foundation/HrLeonardosPrimeFactors.md">Leonardo's Prime Factors</a>
+* <a href="Mathmatic/Foundation/HrConnectingTowns.md">Connecting Towns</a>
 
 # 2. Data Structure
 >## 2.1 Linear Structure
