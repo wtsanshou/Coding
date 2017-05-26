@@ -56,14 +56,14 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.3.2.2 Permutation and Combination
 * <a href="Mathmatic/PermutationAndCombination/DiwaliLights.md">Diwali Lights</a>
 >>### 1.3.3 Analytic Geometry
-* <a href="Mathmatic/ComputationalFeometry/AnalyticGeometry/HrMaximumDraws.md">Maximum Draws</a>
+* <a href="Mathmatic/ComputationalFeometry/AnalyticGeometry/FindThePoint.md">Find the Point</a>
 >>### 1.3.4 Advanced Mathmatic
 >>>#### 1.3.4.1 Dot Product
 >>>#### 1.3.4.2 Cross Product
 >>>#### 1.3.4.3 Integral
 >>>#### 1.3.4.4 Differential
 >## 1.4 Foundation
-* <a href="Mathmatic/Foundation/FindThePoint.md">
+* <a href="Mathmatic/Foundation/HrMaximumDraws.md">Maximum Draws</a>
 
 
 # 2. Data Structure
