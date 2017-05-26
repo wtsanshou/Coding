@@ -1,6 +1,8 @@
 # Coding
 This Folder includes some programming contest questions. I am trying to summarize the questions, solutions, and my thinking.
+
 **From:** LeetCode, Codility, HackerRank
+
 **Languages:** C++, Java, Python
 
 ## Table of Contents
@@ -54,13 +56,15 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.3.2.2 Permutation and Combination
 * <a href="Mathmatic/PermutationAndCombination/DiwaliLights.md">Diwali Lights</a>
 >>### 1.3.3 Analytic Geometry
-* <a href="Mathmatic/ComputationalFeometry/AnalyticGeometry/FindThePoint.md">Find the Point</a>
-
+* <a href="Mathmatic/ComputationalFeometry/AnalyticGeometry/HrMaximumDraws.md">Maximum Draws</a>
 >>### 1.3.4 Advanced Mathmatic
 >>>#### 1.3.4.1 Dot Product
 >>>#### 1.3.4.2 Cross Product
 >>>#### 1.3.4.3 Integral
 >>>#### 1.3.4.4 Differential
+>## 1.4 Foundation
+* <a href="Mathmatic/Foundation/FindThePoint.md">
+
 
 # 2. Data Structure
 >## 2.1 Linear Structure
