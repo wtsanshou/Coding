@@ -11,6 +11,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 1.1 Discrete Mathematics
 >>### 1.1.1 Graph Theory
 >>>#### 1.1.1.1 Graph Traversal (BFS, DFS)
+* <a href="Mathematics/DiscreteMathematics/Graph Theory/GraphTraversal/LC399EvaluateDivision.md">LC399 Evaluate Division</a>
 >>>#### 1.1.1.2 Minimum Spanning Tree (Prim, Kruskal)
 >>>#### 1.1.1.3 Shortest Path (Dijkstra, Floyd)
 >>>#### 1.1.1.4 Longest Path
