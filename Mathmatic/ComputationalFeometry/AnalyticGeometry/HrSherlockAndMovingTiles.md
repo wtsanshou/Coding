@@ -83,11 +83,11 @@ We know the velocities (S1, S2), the moving direction (**along line y=x**). The 
 
 First, we will find the distance `x`. We know the area of the overlapping area q<sub>i</sub>, so the edge `x` of the overlapping area is **sqrt(q<sub>i</sub>)**. 
 
-Second, the diagnal's distance of the overlapping area is x*sqrt(2).
+Second, the diagnal's distance of the overlapping area is x * sqrt(2).
 
-Third, the diagnal's distance of the slow tile is L*sqrt(2);
+Third, the diagnal's distance of the slow tile is L * sqrt(2);
 
-Then, we can get the relative distance between the two tiles (L*sqrt(2) - x*sqrt(2)).
+Then, we can get the relative distance between the two tiles (L * sqrt(2) - x * sqrt(2)).
 
 Finally, we just need to use the relative distance divided by the relative velocity `(abs(S1 - S2))`.
 
