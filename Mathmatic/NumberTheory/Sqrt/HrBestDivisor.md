@@ -76,6 +76,6 @@ This question is to find the `best` number from the divisors of a number **n**.
 
 **Note:** `1` and `n` itself are included.
 
-The most straightforward way is to check from 1 to n. This will take O(n) time.
+The most straightforward way is to check from 1 to n. This will take **O(n)** time.
 
-A O(log(n)) solution is just checking from `1` to `sqrt(n)`. For each divisor `i` in the range, we check `n/i` as well. After `sqrt(n)`, all divisors of `n` will be checked. Because `n/i` will be less than `sqrt(n)`, when `i` is larger than `sqrt(n)`.
+A **O(log(n))** solution is just checking from `1` to `sqrt(n)`. For each divisor `i` in the range, we check `n/i` as well. After `sqrt(n)`, all divisors of `n` will be checked. Because `n/i` will be less than `sqrt(n)`, when `i` is larger than `sqrt(n)`.

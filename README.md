@@ -30,6 +30,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.1 Prime
 >>### 1.2.2 Bit
 >>### 1.2.3 Greatest Common Divisor (GCD)
+* <a href="Mathmatic/NumberTheory/GCD/HrRestaurant.md">Hr Restaurant</a>
 >>### 1.2.4 Least Common Demominator (LCD)
 >>### 1.2.5 Congruence Modulo
 >>### 1.2.6 Factorial
@@ -38,7 +39,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.9 Base
 >>### 1.2.10 Sqrt
 * <a href="Mathmatic/NumberTheory/Sqrt/HrBestDivisor.md">Hr Best Divisor</a>
-
 
 >## 1.3 Computational Geometry
 >>### 1.3.1 Linear Algebra
