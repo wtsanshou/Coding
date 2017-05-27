@@ -7,8 +7,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 ## Table of Contents
 
-# 1. Mathmatic
->## 1.1 Discrete Mathmatic
+# 1. Mathematics
+>## 1.1 Discrete Mathematics
 >>### 1.1.1 Graph Theory
 >>>#### 1.1.1.1 Graph Traversal (BFS, DFS)
 >>>#### 1.1.1.2 Minimum Spanning Tree (Prim, Kruskal)
@@ -30,7 +30,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.1 Prime
 >>### 1.2.2 Bit
 >>### 1.2.3 Greatest Common Divisor (GCD)
-* <a href="Mathmatic/NumberTheory/GCD/HrRestaurant.md">Hr Restaurant</a>
+* <a href="Mathematic/NumberTheory/GCD/HrRestaurant.md">Hr Restaurant</a>
 >>### 1.2.4 Least Common Demominator (LCD)
 >>### 1.2.5 Congruence Modulo
 >>### 1.2.6 Factorial
@@ -38,7 +38,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.8 Power
 >>### 1.2.9 Base
 >>### 1.2.10 Sqrt
-* <a href="Mathmatic/NumberTheory/Sqrt/HrBestDivisor.md">Hr Best Divisor</a>
+* <a href="Mathematic/NumberTheory/Sqrt/HrBestDivisor.md">Hr Best Divisor</a>
 
 >## 1.3 Computational Geometry
 >>### 1.3.1 Linear Algebra
@@ -52,25 +52,25 @@ This Folder includes some programming contest questions. I am trying to summariz
 * LC221 Maximal Square
 * LC54 Spiral Matrix
 >>>#### 1.3.1.2 Linear Equations
-* <a href="Mathmatic/ComputationalFeometry/LinearAlgebra/LinearEquations/HrSummingTheNSeries.md">Hr Summing the N Series</a>
+* <a href="Mathematic/ComputationalFeometry/LinearAlgebra/LinearEquations/HrSummingTheNSeries.md">Hr Summing the N Series</a>
 >>### 1.3.2 Probability Theory
 >>>#### 1.3.2.1 Random
 >>>#### 1.3.2.2 Permutation and Combination
-* <a href="Mathmatic/ComputationalFeometry/ProbabilityTheory/PermutationAndCombination/DiwaliLights.md">Hr Diwali Lights</a>
+* <a href="Mathematic/ComputationalFeometry/ProbabilityTheory/PermutationAndCombination/DiwaliLights.md">Hr Diwali Lights</a>
 >>### 1.3.3 Analytic Geometry
-* <a href="Mathmatic/ComputationalFeometry/AnalyticGeometry/FindThePoint.md">Hr Find the Point</a>
-* <a href="Mathmatic/ComputationalFeometry/AnalyticGeometry/HrSherlockAndMovingTiles.md">Hr Sherlock and Moving Tiles</a>
->>### 1.3.4 Advanced Mathmatic
+* <a href="Mathematic/ComputationalFeometry/AnalyticGeometry/FindThePoint.md">Hr Find the Point</a>
+* <a href="Mathematic/ComputationalFeometry/AnalyticGeometry/HrSherlockAndMovingTiles.md">Hr Sherlock and Moving Tiles</a>
+>>### 1.3.4 Advanced Mathematic
 >>>#### 1.3.4.1 Dot Product
 >>>#### 1.3.4.2 Cross Product
 >>>#### 1.3.4.3 Integral
 >>>#### 1.3.4.4 Differential
 >## 1.4 Foundation
-* <a href="Mathmatic/Foundation/HrMaximumDraws.md">Hr Maximum Draws</a>
-* <a href="Mathmatic/Foundation/HrHandShake.md">Hr Hand Shake</a>
-* <a href="Mathmatic/Foundation/HrArmyGame.md">Hr Army Game</a>
-* <a href="Mathmatic/Foundation/HrLeonardosPrimeFactors.md">Hr Leonardo's Prime Factors</a>
-* <a href="Mathmatic/Foundation/HrConnectingTowns.md">Hr Connecting Towns</a>
+* <a href="Mathematic/Foundation/HrMaximumDraws.md">Hr Maximum Draws</a>
+* <a href="Mathematic/Foundation/HrHandShake.md">Hr Hand Shake</a>
+* <a href="Mathematic/Foundation/HrArmyGame.md">Hr Army Game</a>
+* <a href="Mathematic/Foundation/HrLeonardosPrimeFactors.md">Hr Leonardo's Prime Factors</a>
+* <a href="Mathematic/Foundation/HrConnectingTowns.md">Hr Connecting Towns</a>
 
 # 2. Data Structure
 >## 2.1 Linear Structure

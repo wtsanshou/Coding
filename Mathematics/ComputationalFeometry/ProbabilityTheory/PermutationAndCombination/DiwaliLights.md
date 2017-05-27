@@ -24,18 +24,17 @@ Print the total number of patterns modulo 10<sup>5</sup>
 * 0< N < 10<sup>4</sup>
 
 **Sample Input**
-
+```
 2
-
 1
-
 2
+```
 
 **Sample Output**
-
+```
 1
-
 3
+```
 
 **Explanation**
 
