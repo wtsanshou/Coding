@@ -57,6 +57,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathmatic/PermutationAndCombination/DiwaliLights.md">Diwali Lights</a>
 >>### 1.3.3 Analytic Geometry
 * <a href="Mathmatic/ComputationalFeometry/AnalyticGeometry/FindThePoint.md">Find the Point</a>
+* <a href="Mathmatic/ComputationalFeometry/AnalyticGeometry/HrSherlockAndMovingTiles.md">Sherlock and Moving Tiles</a>
 >>### 1.3.4 Advanced Mathmatic
 >>>#### 1.3.4.1 Dot Product
 >>>#### 1.3.4.2 Cross Product
