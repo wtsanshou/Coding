@@ -121,7 +121,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.2.2 Heap
 >>### 2.2.3 Graph
 * <a href="DataStructure/NonlinearStrcuture/Graph/LC565ArrayNesting.md">
-LC565. Array Nesting\Graph
+LC565. Array Nesting</a>
 >>>#### 2.2.3.1 Undirected Graph
 >>>#### 2.2.3.2 Directed Graph
 >## 2.3 Sort
@@ -143,6 +143,8 @@ LC565. Array Nesting\Graph
 >>>#### 2.4.2.4 Union-Find Set
 >>>#### 2.4.2.5 Trie
 >>### 2.4.3 Hashing
+* <a href="DataStructure/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">
+LC599. Minimum Index Sum Of Two Lists</a>
 
 # 3. Algorithm
 >## 3.1 Simulated Algorithm
