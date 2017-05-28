@@ -18,14 +18,14 @@ A strange grid has been recovered from an old book. It has 5 columns and infinit
 
 The grid grows upwards forever!
 
-Your task is to find the integer in cth column in rth row of the grid.
+Your task is to find the integer in c<super>th</super> column in r<super>th</super> row of the grid.
 
 **Input Format**
 
 There will be two integers r and c separated by a single space.
 
 **Constraints**
-* 1 <= r <= 2*109
+* 1 <= r <= 2*10<super>9</super>
 * 1 <= c <= 5
 
 Rows are indexed from bottom to top and columns are indexed from left to right.
@@ -44,7 +44,7 @@ Output the answer in a single line.
 
 **Explanation**
 
-The number in the 6th row and 3rd column is 25.
+The number in the 6<super>th</super> row and 3<super>rd</super> column is 25.
 
 ## Solutions
 * Java1
