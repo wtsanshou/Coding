@@ -58,7 +58,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.3.2 Probability Theory
 >>>#### 1.3.2.1 Random
 >>>#### 1.3.2.2 Permutation and Combination
-* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/PermutationAndCombination/DiwaliLights.md">Hr. Diwali Lights</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/PermutationAndCombination/HrDiwaliLights.md">Hr. Diwali Lights</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/PermutationAndCombination/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 >>### 1.3.3 Analytic Geometry
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/FindThePoint.md">Hr. Find the Point</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrSherlockAndMovingTiles.md">Hr. Sherlock and Moving Tiles</a>
@@ -159,3 +160,4 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 3.4 Greedy Algorithm
 >## 3.5 Dynamic Programming (DP)
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
+* <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
