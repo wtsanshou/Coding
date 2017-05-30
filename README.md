@@ -37,10 +37,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.6 Factorial
 >>### 1.2.7 Fibonacci
 >>### 1.2.8 Power
+* <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 >>### 1.2.9 Base
 >>### 1.2.10 Sqrt
 * <a href="Mathematics/NumberTheory/Sqrt/HrBestDivisor.md">Hr. Best Divisor</a>
-
+* <a href="Mathematics/NumberTheory/Sqrt/HrSherlockAndDivisors.md">Hr. Sherlock And Divisors</a>
 >## 1.3 Computational Geometry
 >>### 1.3.1 Linear Algebra
 >>>#### 1.3.1.1 Matrix
@@ -61,7 +62,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/PermutationAndCombination/HrDiwaliLights.md">Hr. Diwali Lights</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/PermutationAndCombination/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 >>### 1.3.3 Analytic Geometry
-* <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/FindThePoint.md">Hr. Find the Point</a>
+* <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrFindThePoint.md">Hr. Find the Point</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrSherlockAndMovingTiles.md">Hr. Sherlock and Moving Tiles</a>
 >>### 1.3.4 Advanced Mathematics
 >>>#### 1.3.4.1 Dot Product
