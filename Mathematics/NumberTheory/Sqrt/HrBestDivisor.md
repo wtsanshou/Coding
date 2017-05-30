@@ -14,7 +14,7 @@ A single integer denoting n.
 
 **Constraints**
 
-* 0 <= n <= 10<super>5</super>
+* 0 <= n <= 10<sup>5</sup>
 
 **Output Format**
 

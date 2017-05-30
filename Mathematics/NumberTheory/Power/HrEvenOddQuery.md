@@ -27,12 +27,12 @@ The line after that contains a positive integer, Q , the denotes the number of q
 
 **Output Format**
 
-For each query, display 'Even' if the value returned is Even, otherwise display 'Odd'.
+For each query, display **'Even'** if the value returned is Even, otherwise display **'Odd'**.
 
 **Constraints**
 
-* 2 ≤ N ≤ 10<super>5</super> 
-* 2 ≤ Q ≤ 10<super>5</super>  
+* 2 ≤ N ≤ 10<sup>5</sup> 
+* 2 ≤ Q ≤ 10<sup>5</sup>  
 * 1 ≤ x,y ≤ N 
 * x ≤ y
 
@@ -82,9 +82,9 @@ public static void main(String[] args) {
 
 ## Explanation
 
-At first, I was thinking using dp[i][j] to save find[i][j]. But, since `2 ≤ N ≤ 10<super>5</super>`, the size of dp might be too big. So, I realized this must be a wrong direction.
+At first, I was thinking using dp[i][j] to save find[i][j]. But, since **2 ≤ N ≤ 10<sup>5</sup>**, the size of dp might be too big. So, I realized this must be a wrong direction.
 
 O(1) solution:
 * The result is Odd if `A[x-1]` is Odd
 * The result is Even if `A[x-1]` is Even
-* **Corner case:** The result is Odd if the number next to `A[x-1]` is *0* (N<super>0</super> = 1)
+* **Corner case:** The result is Odd if the number next to `A[x-1]` is *0* (N<sup>0</sup> = 1)

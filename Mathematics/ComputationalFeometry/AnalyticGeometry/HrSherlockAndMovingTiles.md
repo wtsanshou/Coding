@@ -19,9 +19,9 @@ For each query of form qi, Sherlock has to report the time at which the overlapp
 First line contains integers L, S1, S2. Next line contains Q, the number of queries. Each of the next Q lines consists of one integer qi in one line.
 
 **Constraints** 
-* 1 <= L, S1, S2 <= 10<super>9</super>
-* 1 <= Q <= 10<super>5</super>
-* 1 <= qi <= L<super>2</super>
+* 1 <= L, S1, S2 <= 10<sup>9</sup>
+* 1 <= Q <= 10<sup>5</sup>
+* 1 <= qi <= L<sup>2</sup>
 
 **Output Format**
 

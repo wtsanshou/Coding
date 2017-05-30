@@ -7,7 +7,7 @@ Watson asks Sherlock:
 
 Given a string S of N 0's and M 1's, how many unique permutations of this string start with 1?
 
-Help Sherlock by printing the answer modulo (10<super>9</super>+7).
+Help Sherlock by printing the answer modulo (10<sup>9</sup>+7).
 
 **Input Format** 
 
@@ -17,7 +17,7 @@ Each test case consists of N and M separated by a space.
 
 **Output Format** 
 
-For each test case, print the answer modulo (10<super>9</super>+7).
+For each test case, print the answer modulo (10<sup>9</sup>+7).
 
 **Constraints** 
 

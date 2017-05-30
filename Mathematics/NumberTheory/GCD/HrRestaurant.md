@@ -33,8 +33,8 @@ T lines, each containing an integer that denotes the number of squares of maximu
 
 **Explanation**
 
-The 1<super>st</super> testcase has a bread whose original dimensions are `2×2`, the bread is uncut and is a square. Hence the answer is 1. 
-The 2<super>nd</super> testcase has a bread of size `6×9`. We can cut it into 54 squares of size `1×1`, 6 of size `3×3`. For other sizes we will have leftovers. Hence, the number of squares of maximum size that can be cut is 6.
+The 1<sup>st</sup> testcase has a bread whose original dimensions are `2×2`, the bread is uncut and is a square. Hence the answer is 1. 
+The 2<sup>nd</sup> testcase has a bread of size `6×9`. We can cut it into 54 squares of size `1×1`, 6 of size `3×3`. For other sizes we will have leftovers. Hence, the number of squares of maximum size that can be cut is 6.
 
 ## Solution
 * Java1
