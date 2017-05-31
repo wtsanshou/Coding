@@ -2,6 +2,8 @@
 
 ### HackerRank
 
+## Question
+
 You are given an integer N. Can you find the least positive integer X made up of only 9's and 0's, such that, X is a multiple of N?
 
 **Update**
@@ -109,5 +111,7 @@ private static List<Long> mem = new LinkedList<Long>();
 ## Explanation
 
 Integer: 1,  2,  3,   4,   5, ..., n
+
 Binary:  1, 10, 11, 100, 101, ..., n10
+
 90Nums:  9, 90, 99, 900, 909, ..., n90

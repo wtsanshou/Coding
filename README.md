@@ -43,6 +43,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.10 Sqrt
 * <a href="Mathematics/NumberTheory/Sqrt/HrBestDivisor.md">Hr. Best Divisor</a>
 * <a href="Mathematics/NumberTheory/Sqrt/HrSherlockAndDivisors.md">Hr. Sherlock And Divisors</a>
+>>### 1.2.11 Odd and Even
+* <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
+
 >## 1.3 Computational Geometry
 >>### 1.3.1 Linear Algebra
 >>>#### 1.3.1.1 Matrix
