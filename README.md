@@ -30,6 +30,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 1.2 Number Theory
 >>### 1.2.1 Prime
 >>### 1.2.2 Bit
+* <a href="Mathematics/NumberTheory/Bit/HrSpecialMultiple.md">Hr. Special Multiple</a>
 >>### 1.2.3 Greatest Common Divisor (GCD)
 * <a href="Mathematics/NumberTheory/GCD/HrRestaurant.md">Hr. Restaurant</a>
 >>### 1.2.4 Least Common Demominator (LCD)
