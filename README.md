@@ -80,7 +80,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/Foundation/HrLeonardosPrimeFactors.md">Hr. Leonardo's Prime Factors</a>
 * <a href="Mathematics/Foundation/HrConnectingTowns.md">Hr. Connecting Towns</a>
 * <a href="Mathematics/Foundation/HrStrangeGridAgain.md">Hr. Strange Grid Again</a>
-
+* <a href="Mathematics/Foundation/HrFillingJars.md">Hr. Filling Jars</a>
+HrFillingJars
 # 2. Data Structure
 >## 2.1 Linear Structure
 >>### 2.1.1 Linear List
