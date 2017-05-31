@@ -37,6 +37,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.5 Congruence Modulo
 >>### 1.2.6 Factorial
 >>### 1.2.7 Fibonacci
+* <a href="Mathematics/NumberTheory/Fibonacci/HrIsFibo.md">Hr. Is Fibo</a>
 >>### 1.2.8 Power
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 >>### 1.2.9 Base
@@ -81,7 +82,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/Foundation/HrConnectingTowns.md">Hr. Connecting Towns</a>
 * <a href="Mathematics/Foundation/HrStrangeGridAgain.md">Hr. Strange Grid Again</a>
 * <a href="Mathematics/Foundation/HrFillingJars.md">Hr. Filling Jars</a>
-HrFillingJars
+
 # 2. Data Structure
 >## 2.1 Linear Structure
 >>### 2.1.1 Linear List
