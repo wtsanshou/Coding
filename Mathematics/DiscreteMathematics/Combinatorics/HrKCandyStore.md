@@ -18,7 +18,7 @@ The first line (of each testcase) is an integer N and the second line (of each t
 
 For each testcase, print the number of ways Jim can buy candies from the shop in a newline. If the answer has more than 9 digits, print the last 9 digits.
 
-**Note:** This problem may expect you to have solved nCr Table
+**Note:** This problem may expect you to have solved <a href="HrNCrTable.md"><sup>n</sup>C<sub>r</sub> Table</a>
 
 **Constraints** 
 
@@ -82,4 +82,4 @@ The order of the elements does not matter.
 
 The elements are repeated.
 
-C<sup>'</sup>(n, r) = C(n+r−1, n−1) = (n+r−1)! / (n−1)r!
+C<sup>'</sup>(n, k) = C(n+k−1, n−1) = C(n+k−1, k) = (n+k−1)! / (n−1)!*k!
