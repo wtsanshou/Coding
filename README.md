@@ -26,7 +26,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.1.1.11 Bipartite Matching
 >>>#### 1.1.1.12 Network Flow
 >>### 1.1.2 Combinatorics
-
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/HrDiwaliLights.md">Hr. Diwali Lights</a>
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/HrNCrTable.md">Hr. <sup>n</sup>C<sub>r</sub> Table</a>
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/HrKCandyStore.md">Hr. K Candy Store</a>
 >## 1.2 Number Theory
 >>### 1.2.1 Prime
 >>### 1.2.2 Bit
@@ -64,8 +67,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.3.2 Probability Theory
 >>>#### 1.3.2.1 Random
 >>>#### 1.3.2.2 Permutation and Combination
-* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/PermutationAndCombination/HrDiwaliLights.md">Hr. Diwali Lights</a>
-* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/PermutationAndCombination/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
+
 >>### 1.3.3 Analytic Geometry
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrFindThePoint.md">Hr. Find the Point</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrSherlockAndMovingTiles.md">Hr. Sherlock and Moving Tiles</a>

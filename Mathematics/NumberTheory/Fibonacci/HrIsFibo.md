@@ -127,9 +127,9 @@ IsNotFibo
 IsNotFibo
 ```
 
-`317811` should be IsFibo. The first answer is correct. But the final anser is wrong. So, the problem is form `1e10`. I used `long` to handle N and create fibonacci numbers. `long` is 64 bit should be able to handle them. Even `N=1e10`, the maxmum fibonacci should be less than `2e10`.
+`317811` should be IsFibo. The first answer is correct. But the final anser is wrong. So, the problem is from `1e10`. I used `long` to handle N and create fibonacci numbers. `long` is 64 bit should be able to handle them. Even `N=1e10`, the maxmum fibonacci should be less than `2e10`.
 
-Finally, I found my mistake: I declared `T` and `N` together using `int`. When the input is out of range of `int`, there is an overflow. However, I can understan `1e10` is overflow, but why it affects the next input? Hence, I output all values of N:
+Finally, I found my mistake: I declared `T` and `N` together using `int`. When the input is out of range of `int`, there is an overflow. However, I can understand `1e10` is overflow, but why it affects the next input? Hence, I output all values of N:
 ```
 317811
 196418
