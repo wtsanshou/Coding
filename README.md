@@ -44,6 +44,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.8 Power
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 >>### 1.2.9 Base
+* <a href="Mathematics/NumberTheory/Base/HrJimAndTheJokes.md">Hr. Jim And The Jokes</a>
 >>### 1.2.10 Sqrt
 * <a href="Mathematics/NumberTheory/Sqrt/HrBestDivisor.md">Hr. Best Divisor</a>
 * <a href="Mathematics/NumberTheory/Sqrt/HrSherlockAndDivisors.md">Hr. Sherlock And Divisors</a>
