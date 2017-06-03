@@ -137,4 +137,4 @@ The idea of this algorithm is to convert every date to 10 based number, and coun
 
 **Corner case:** A valid date appeared 10<sub>5</sub> times. 
 
-The result will be 10<sub>5</sub> * (10<sub>5</sub> - 1) / 2. It will be out of Integer range.
+The result will be **10<sub>5</sub> * (10<sub>5</sub> - 1) / 2**. It will be out of Integer range.
