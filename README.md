@@ -105,6 +105,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>>##### 2.1.4.5.2 Uncontinuous
 >>>#### 2.1.4.6 Moving elements
 >>>#### 2.1.4.7 Traversal
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC605CanPlaceFlowers.md">LC605. Can Place Flowers</a>
 >>>#### 2.1.4.8 Prefix Sums
 >>>#### 2.1.4.9 Count
 >>>#### 2.1.4.10 Window Slice
@@ -138,7 +139,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.2.1.8 Normal Tree
 >>### 2.2.2 Heap
 >>### 2.2.3 Graph
-* <a href="DataStructure/NonlinearStrcuture/Graph/LC565ArrayNesting.md">LC565. Array Nesting</a>
+* <a href="DataStructure/NonLinearStrcuture/Graph/LC565ArrayNesting.md">LC565. Array Nesting</a>
 >>>#### 2.2.3.1 Undirected Graph
 >>>#### 2.2.3.2 Directed Graph
 >## 2.3 Sort
