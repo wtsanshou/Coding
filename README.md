@@ -128,6 +128,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 2.2 Non-Linear Structure
 >>### 2.2.1 Tree
 >>>#### 2.2.1.1 Binary Tree
+* <a href="DataStructure/NonLinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
 >>>#### 2.2.1.2 Binary Search Tree (BST)
 >>>#### 2.2.1.3 Balanced Binary Tree
 >>>#### 2.2.1.4 Complete Tree
