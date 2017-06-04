@@ -129,7 +129,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 2.2 Non-Linear Structure
 >>### 2.2.1 Tree
 >>>#### 2.2.1.1 Binary Tree
-* <a href="DataStructure/NonLinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
 >>>#### 2.2.1.2 Binary Search Tree (BST)
 >>>#### 2.2.1.3 Balanced Binary Tree
 >>>#### 2.2.1.4 Complete Tree
@@ -139,7 +139,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.2.1.8 Normal Tree
 >>### 2.2.2 Heap
 >>### 2.2.3 Graph
-* <a href="DataStructure/NonLinearStrcuture/Graph/LC565ArrayNesting.md">LC565. Array Nesting</a>
+* <a href="DataStructure/NonlinearStrcuture/Graph/LC565ArrayNesting.md">LC565. Array Nesting</a>
 >>>#### 2.2.3.1 Undirected Graph
 >>>#### 2.2.3.2 Directed Graph
 >## 2.3 Sort
