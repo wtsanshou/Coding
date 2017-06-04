@@ -173,6 +173,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 3.3 Recursion Algorithm
 >>### 3.3.1 Back Tracking
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
+* <a href="Algorithm/Recursion/BackTracking/HrBuildingAList.md">Hr. Building A List</a>
 >## 3.4 Greedy Algorithm
 >## 3.5 Dynamic Programming (DP)
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
