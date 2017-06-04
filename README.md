@@ -48,7 +48,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.10 Sqrt
 * <a href="Mathematics/NumberTheory/Sqrt/HrBestDivisor.md">Hr. Best Divisor</a>
 * <a href="Mathematics/NumberTheory/Sqrt/HrSherlockAndDivisors.md">Hr. Sherlock And Divisors</a>
-* <a href="Mathematics/NumberTheory/Sqrt/HrBusStation.md">Hr. Sherlock And Bus Station</a>
+* <a href="Mathematics/NumberTheory/Sqrt/HrBusStation.md">Hr. Bus Station</a>
 >>### 1.2.11 Odd and Even
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
 
@@ -110,7 +110,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.10 Window Slice
 >>>#### 2.1.4.11 Interval
 >>### 2.1.5 String
->>>#### 2.1.5.1 IO
+>>>#### 2.1.5.1 Path
+* <a href="DataStructure/LinearStructure/String/Path/LC609FindDuplicateFileInSystem.md">LC609. Find Duplicate File In System</a>
 >>>#### 2.1.5.2 Anagrams
 >>>#### 2.1.5.3 Duplicate
 >>>#### 2.1.5.4 Matching
@@ -122,7 +123,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.11 IP
 >>>#### 2.1.5.12 Operation
 >>>#### 2.1.5.13 Conversion
-* <a href="DataStructure/LinearStructure/String/LC8StringToInteger(atoi).md">LC8. String to Integer (atoi)</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC8StringToInteger(atoi).md">LC8. String to Integer (atoi)</a>
 >>### 2.1.6 General List
 >## 2.2 Non-Linear Structure
 >>### 2.2.1 Tree
