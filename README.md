@@ -35,7 +35,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.2 Bit
 * <a href="Mathematics/NumberTheory/Bit/HrSpecialMultiple.md">Hr. Special Multiple</a>
 >>### 1.2.3 Greatest Common Divisor (GCD)
+* <a href="Mathematics/NumberTheory/GCD/HrPossiblePath.md">Hr. Possible Path</a>
+* <a href="Mathematics/NumberTheory/GCD/HrDieHard3.md">Hr. Die Hard 3</a>
 * <a href="Mathematics/NumberTheory/GCD/HrRestaurant.md">Hr. Restaurant</a>
+* <a href="Mathematics/NumberTheory/GCD/HrSumarAndTheFloatingRocks.md">Hr. Sumar And The Floating Rocks</a>
 >>### 1.2.4 Least Common Demominator (LCD)
 >>### 1.2.5 Congruence Modulo
 >>### 1.2.6 Factorial
@@ -43,6 +46,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Fibonacci/HrIsFibo.md">Hr. Is Fibo</a>
 >>### 1.2.8 Power
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
+* <a href="Mathematics/NumberTheory/Power/HrRussianPeasantExponentiation.md">Hr. Russian Peasant Exponentiation</a>
 >>### 1.2.9 Base
 >>### 1.2.10 Sqrt
 * <a href="Mathematics/NumberTheory/Sqrt/HrBestDivisor.md">Hr. Best Divisor</a>
