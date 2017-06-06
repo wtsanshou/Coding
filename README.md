@@ -48,9 +48,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 * <a href="Mathematics/NumberTheory/Power/HrRussianPeasantExponentiation.md">Hr. Russian Peasant Exponentiation</a>
 >>### 1.2.9 Base
+* <a href="Mathematics/NumberTheory/Base/HrJimAndTheJokes.md">Hr. Jim And The Jokes</a>
 >>### 1.2.10 Sqrt
 * <a href="Mathematics/NumberTheory/Sqrt/HrBestDivisor.md">Hr. Best Divisor</a>
 * <a href="Mathematics/NumberTheory/Sqrt/HrSherlockAndDivisors.md">Hr. Sherlock And Divisors</a>
+* <a href="Mathematics/NumberTheory/Sqrt/HrBusStation.md">Hr. Bus Station</a>
 >>### 1.2.11 Odd and Even
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
 
@@ -107,12 +109,14 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>>##### 2.1.4.5.2 Uncontinuous
 >>>#### 2.1.4.6 Moving elements
 >>>#### 2.1.4.7 Traversal
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC605CanPlaceFlowers.md">LC605. Can Place Flowers</a>
 >>>#### 2.1.4.8 Prefix Sums
 >>>#### 2.1.4.9 Count
 >>>#### 2.1.4.10 Window Slice
 >>>#### 2.1.4.11 Interval
 >>### 2.1.5 String
->>>#### 2.1.5.1 IO
+>>>#### 2.1.5.1 Path
+* <a href="DataStructure/LinearStructure/String/Path/LC609FindDuplicateFileInSystem.md">LC609. Find Duplicate File In System</a>
 >>>#### 2.1.5.2 Anagrams
 >>>#### 2.1.5.3 Duplicate
 >>>#### 2.1.5.4 Matching
@@ -124,11 +128,12 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.11 IP
 >>>#### 2.1.5.12 Operation
 >>>#### 2.1.5.13 Conversion
-* <a href="DataStructure/LinearStructure/String/LC8StringToInteger(atoi).md">LC8. String to Integer (atoi)</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC8StringToInteger(atoi).md">LC8. String to Integer (atoi)</a>
 >>### 2.1.6 General List
 >## 2.2 Non-Linear Structure
 >>### 2.2.1 Tree
 >>>#### 2.2.1.1 Binary Tree
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
 >>>#### 2.2.1.2 Binary Search Tree (BST)
 >>>#### 2.2.1.3 Balanced Binary Tree
 >>>#### 2.2.1.4 Complete Tree
@@ -172,6 +177,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 3.3 Recursion Algorithm
 >>### 3.3.1 Back Tracking
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
+* <a href="Algorithm/Recursion/BackTracking/HrBuildingAList.md">Hr. Building A List</a>
 >## 3.4 Greedy Algorithm
 >## 3.5 Dynamic Programming (DP)
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
