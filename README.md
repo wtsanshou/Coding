@@ -120,7 +120,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.2 Anagrams
 >>>#### 2.1.5.3 Duplicate
 >>>#### 2.1.5.4 Matching
+* <a href="DataStructure/LinearStructure/String/Matching/LC616AddBoldTagInString.md">LC616. Add Bold Tag In String</a>
+
 >>>#### 2.1.5.5 Counting Letters
+
 >>>#### 2.1.5.7 Palindrom
 >>>#### 2.1.5.8 Parentheses
 >>>#### 2.1.5.9 Reverse
@@ -134,6 +137,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.2.1 Tree
 >>>#### 2.2.1.1 Binary Tree
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC617MergeTwoBinaryTrees.md">LC617. Merge Two Binary Trees</a>
+
 >>>#### 2.2.1.2 Binary Search Tree (BST)
 >>>#### 2.2.1.3 Balanced Binary Tree
 >>>#### 2.2.1.4 Complete Tree
