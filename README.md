@@ -185,3 +185,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 3.5 Dynamic Programming (DP)
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
 * <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
+
+# 4. Others
+>## Iterator
+* <a href="Others/Iterator/LC604DesignCompressedStringIterator.md">LC604. Design Compressed String Iterator</a>
+
