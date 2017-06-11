@@ -121,9 +121,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.3 Duplicate
 >>>#### 2.1.5.4 Matching
 * <a href="DataStructure/LinearStructure/String/Matching/LC616AddBoldTagInString.md">LC616. Add Bold Tag In String</a>
-
 >>>#### 2.1.5.5 Counting Letters
-
 >>>#### 2.1.5.7 Palindrom
 >>>#### 2.1.5.8 Parentheses
 >>>#### 2.1.5.9 Reverse
@@ -148,7 +146,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.2.1.8 Normal Tree
 >>### 2.2.2 Heap
 >>### 2.2.3 Graph
-* <a href="DataStructure/NonlinearStrcuture/Graph/LC565ArrayNesting.md">LC565. Array Nesting</a>
+* <a href="DataStructure/NonlinearStructure/Graph/LC565ArrayNesting.md">LC565. Array Nesting</a>
 >>>#### 2.2.3.1 Undirected Graph
 >>>#### 2.2.3.2 Directed Graph
 >## 2.3 Sort
