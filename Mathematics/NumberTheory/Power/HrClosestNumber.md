@@ -3,7 +3,7 @@
 ### HackerRank
 
 ## Question
-You are given 3 numbers a, b and x. You need to output the multiple of x which is closest to ab. If more than one answer exists , display the smallest one.
+You are given 3 numbers a, b and x. You need to output the multiple of x which is closest to a<sup>b</sup>. If more than one answer exists , display the smallest one.
 
 **Input Format**
 
@@ -14,13 +14,13 @@ T lines follow, each line contains 3 space separated integers (a, b and x respec
 
 * 1 ≤ T ≤ 10<sup>5</sup>
 * 1 ≤ x ≤ 10<sup>9</sup>
-* 0 < ab ≤ 10<sup>9</sup>
+* 0 < a<sup>b</sup> ≤ 10<sup>9</sup>
 * 1 ≤ a ≤ 10<sup>9</sup>
 * -10<sup>9</sup> ≤ b ≤ 10<sup>9</sup>
 
 **Output Format**
 
-For each test case , output the multiple of x which is closest to ab
+For each test case , output the multiple of x which is closest to a<sup>b</sup>
 
 **Sample Input**
 ```
