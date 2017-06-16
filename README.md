@@ -9,12 +9,17 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 # 1. Mathematics
 >## 1.1 Discrete Mathematics
+
 >>### 1.1.1 Graph Theory
+
 >>>#### 1.1.1.1 Graph Traversal (BFS, DFS)
-* <a href="Mathematics/DiscreteMathematics/Graph Theory/GraphTraversal/LC399EvaluateDivision.md">LC399. Evaluate Division</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/GraphTraversal/LC399EvaluateDivision.md">LC399. Evaluate Division</a>
 >>>#### 1.1.1.2 Minimum Spanning Tree (Prim, Kruskal)
+
 >>>#### 1.1.1.3 Shortest Path (Dijkstra, Floyd)
+
 >>>#### 1.1.1.4 Longest Path
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/LongestPath/LC368LargestDivisibleSubset.md">LC368. Largest Divisible Subset</a>
 >>>#### 1.1.1.5 Transitive Closure
 >>>#### 1.1.1.6 Articulation Point - undiGraph
 >>>#### 1.1.1.7 Topological Sort-AOV-Network
@@ -83,10 +88,15 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrMostDistant.md">Hr. Most Distant</a>
 
 >>### 1.3.4 Advanced Mathematics
+
 >>>#### 1.3.4.1 Dot Product
+
 >>>#### 1.3.4.2 Cross Product
+
 >>>#### 1.3.4.3 Integral
+
 >>>#### 1.3.4.4 Differential
+
 >## 1.4 Foundation
 * <a href="Mathematics/Foundation/HrMaximumDraws.md">Hr. Maximum Draws</a>
 * <a href="Mathematics/Foundation/HrHandShake.md">Hr. Hand Shake</a>
@@ -98,33 +108,55 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 # 2. Data Structure
 >## 2.1 Linear Structure
+
 >>### 2.1.1 Linear List
+
 >>### 2.1.2 Stack
+
 >>### 2.1.3 Queue
+
 >>>#### 2.1.3.1 Priority Queue
+
 >>### 2.1.4 Array
+
 >>>#### 2.1.4.1 Rotation
+
 >>>#### 2.1.4.2 Duplicate
+
 >>>#### 2.1.4.3 Permutations
+
 >>>#### 2.1.4.4 Stock Buy and Sell
+
 >>>#### 2.1.4.5 SubArray
+
 >>>>##### 2.1.4.5.1 Continuous
+
 >>>>##### 2.1.4.5.2 Uncontinuous
+
 >>>#### 2.1.4.6 Moving elements
+
 >>>#### 2.1.4.7 Traversal
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC605CanPlaceFlowers.md">LC605. Can Place Flowers</a>
 >>>#### 2.1.4.8 Prefix Sums
+
 >>>#### 2.1.4.9 Count
+
 >>>#### 2.1.4.10 Window Slice
+
 >>>#### 2.1.4.11 Interval
+
 >>### 2.1.5 String
+
 >>>#### 2.1.5.1 Path
 * <a href="DataStructure/LinearStructure/String/Path/LC609FindDuplicateFileInSystem.md">LC609. Find Duplicate File In System</a>
 >>>#### 2.1.5.2 Anagrams
+
 >>>#### 2.1.5.3 Duplicate
+
 >>>#### 2.1.5.4 Matching
 * <a href="DataStructure/LinearStructure/String/Matching/LC616AddBoldTagInString.md">LC616. Add Bold Tag In String</a>
 >>>#### 2.1.5.5 Counting Letters
+
 >>>#### 2.1.5.7 Palindrom
 >>>#### 2.1.5.8 Parentheses
 >>>#### 2.1.5.9 Reverse
@@ -151,6 +183,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.2.3 Graph
 * <a href="DataStructure/NonlinearStructure/Graph/LC565ArrayNesting.md">LC565. Array Nesting</a>
 >>>#### 2.2.3.1 Undirected Graph
+
 >>>#### 2.2.3.2 Directed Graph
 >## 2.3 Sort
 >>### 2.3.1 Insert Sort

@@ -27,7 +27,7 @@ The input is always valid. You may assume that evaluating the queries will resul
 
 ## Solutions
 * C++1 (3ms)
-```bash
+```
 class Solution {
 public:
     double search(string left, string right, unordered_map<string, unordered_map<string, double>>& graph, unordered_set<string>& set)
@@ -64,4 +64,13 @@ public:
     }
 };
 ```
+
+## Explanation
+Create Undirected Graph based on the equations.
+
+For each query:
+
+1. if the query is already in the Graph, return it directly
+2. else, check is there any path can connect from **numerator** to **Denominator**. (If we found a path, we could put it in Graph as well, it may improve the speed depending on the test cases)
+3. else, return '-1.0'
 
