@@ -102,6 +102,6 @@ vector<int> findOrder(int numCourses, vector<pair<int, int>>& prerequisites) {
 
 ## Explanation
 
-The same idea of <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule</a>. 
+The same idea of <a href="LC207CourseSchedule.md">LC207. Course Schedule</a>. 
 
 Push the crouse to the result array when you take a available course.
