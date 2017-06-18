@@ -177,6 +177,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.2.1.1 Binary Tree
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC617MergeTwoBinaryTrees.md">LC617. Merge Two Binary Trees</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC623AddOneRowToTree.md">LC623. Add One Row To Tree</a>
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
 >>>#### 2.2.1.3 Balanced Binary Tree
