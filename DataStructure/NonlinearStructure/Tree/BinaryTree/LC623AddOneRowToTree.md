@@ -108,6 +108,9 @@ It is a typical tree question. Normally, the solusion is recursive.
 
 **Note:** It may be not full tree, should check if the Node is NULL.
 
+* **worst-case time complexity:** O(log(n))
+* **worst-case space complexity:** O(n)
+
 ## Experiences:
 
 1. Always be careful the possible NULL nodes

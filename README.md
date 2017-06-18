@@ -204,6 +204,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.3.6 Bucket Sort
 >## 2.4 Search
 >>### 2.4.1 Binary Search
+* <a href="DataStructure/Search/BinarySearch/LC611ValidTriangleNumber.md">LC611. Valid Triangle Number</a>
 >>### 2.4.2 Tree Search
 >>>#### 2.4.2.1 Binary Tree
 >>>#### 2.4.2.2 BST

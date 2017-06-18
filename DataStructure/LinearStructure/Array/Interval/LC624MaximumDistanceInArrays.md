@@ -73,6 +73,9 @@ Finally, I went to the correct way: find the maximum value and minimum value in 
 
 Based on the found maximum value and minimum value, check all the arrays to find the **maximum interval**.
 
+* **worst-case time complexity:** O(n)
+* **worst-case space complexity:** O(1)
+
 ## Lessons
 
 1. Reading the question carefully
