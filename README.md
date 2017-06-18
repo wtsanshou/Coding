@@ -60,7 +60,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Power/HrRussianPeasantExponentiation.md">Hr. Russian Peasant Exponentiation</a>
 * <a href="Mathematics/NumberTheory/Power/HrClosestNumber.md">Hr. Closest Number</a>
 
-
 >>### 1.2.9 Base
 * <a href="Mathematics/NumberTheory/Base/HrJimAndTheJokes.md">Hr. Jim And The Jokes</a>
 >>### 1.2.10 Sqrt
@@ -150,6 +149,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.10 Window Slice
 
 >>>#### 2.1.4.11 Interval
+* <a href="DataStructure/LinearStructure/Array/Interval/LC624MaximumDistanceInArrays.md">LC624. Maximum Distance In Arrays</a>
 
 >>### 2.1.5 String
 
