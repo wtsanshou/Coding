@@ -193,6 +193,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.2.3.2 Directed Graph
 >## 2.3 Sort
+* <a href="DataStructure/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
+
 >>### 2.3.1 Insert Sort
 >>>#### 2.3.1.1 Directly Insert
 >>>#### 2.3.1.2 Binary Insert
