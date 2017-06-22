@@ -110,8 +110,8 @@ public int smallestFactorization(int a) {
 * `b` is 10 digits, but is larger than 2147483647
 * `b` is more than 10 digits
 
-* **worst-case time complexity:** O(1)
-* **worst-case space complexity:** O(1)
+**worst-case time complexity:** O(1)
+**worst-case space complexity:** O(1)
 
 
 

@@ -43,6 +43,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrKCandyStore.md">Hr. K Candy Store</a>
 >## 1.2 Number Theory
 >>### 1.2.1 Prime
+* <a href="Mathematics/NumberTheory/Prime/LC263UglyNumber.md">LC263. Ugly Number</a>
+
 >>### 1.2.2 Bit
 * <a href="Mathematics/NumberTheory/Bit/HrSpecialMultiple.md">Hr. Special Multiple</a>
 >>### 1.2.3 Greatest Common Divisor (GCD)
