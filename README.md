@@ -171,6 +171,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.5 Counting Letters
 
 >>>#### 2.1.5.7 Palindrom
+* <a href="DataStructure/LinearStructure/String/Palindrom/LC479LargestPalindromeProduct.md">LC479. Largest Palindrome Product</a>
+
 >>>#### 2.1.5.8 Parentheses
 >>>#### 2.1.5.9 Reverse
 >>>#### 2.1.5.10 SubString
