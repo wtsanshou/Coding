@@ -175,7 +175,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.13 Conversion
 * <a href="DataStructure/LinearStructure/String/Conversion/LC8StringToInteger(atoi).md">LC8. String to Integer (atoi)</a>
 >>### 2.1.6 General List
+
 >## 2.2 Non-Linear Structure
+
 >>### 2.2.1 Tree
 >>>#### 2.2.1.1 Binary Tree
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
@@ -189,38 +191,18 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.2.1.6 Top to Down
 >>>#### 2.2.1.7 Down to Top
 >>>#### 2.2.1.8 Normal Tree
+
 >>### 2.2.2 Heap
+
 >>### 2.2.3 Graph
 * <a href="DataStructure/NonlinearStructure/Graph/LC565ArrayNesting.md">LC565. Array Nesting</a>
 >>>#### 2.2.3.1 Undirected Graph
 
 >>>#### 2.2.3.2 Directed Graph
->## 2.3 Sort
-* <a href="DataStructure/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
-
->>### 2.3.1 Insert Sort
->>>#### 2.3.1.1 Directly Insert
->>>#### 2.3.1.2 Binary Insert
->>>#### 2.3.1.3 Shell Sort
->>### 2.3.2 Exchange Sort
->>### 2.3.3 Select Sort
->>### 2.3.4 Merge Sort
->>### 2.3.5 Radix Sort
->>### 2.3.6 Bucket Sort
->## 2.4 Search
->>### 2.4.1 Binary Search
-* <a href="DataStructure/Search/BinarySearch/LC611ValidTriangleNumber.md">LC611. Valid Triangle Number</a>
->>### 2.4.2 Tree Search
->>>#### 2.4.2.1 Binary Tree
->>>#### 2.4.2.2 BST
->>>#### 2.4.2.3 Self-balancing BST (AVL BST)
->>>#### 2.4.2.4 Union-Find Set
->>>#### 2.4.2.5 Trie
->>### 2.4.3 Hashing
-* <a href="DataStructure/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">LC599. Minimum Index Sum Of Two Lists</a>
 
 # 3. Algorithm
 >## 3.1 Simulated Algorithm
+
 >## 3.2 Search Algorithm
 >>### 3.2.1 Enumeration
 >>### 3.2.2 DFS
@@ -235,6 +217,30 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
 * <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 
+>## 3.5 Sort
+* <a href="Algorithm/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
+
+>>### 3.5.1 Insert Sort
+>>>#### 3.5.1.1 Directly Insert
+>>>#### 3.5.1.2 Binary Insert
+>>>#### 3.5.1.3 Shell Sort
+>>### 3.5.2 Exchange Sort
+>>### 3.5.3 Select Sort
+>>### 3.5.4 Merge Sort
+>>### 3.5.5 Radix Sort
+>>### 3.5.6 Bucket Sort
+
+>## 3.6 Search
+>>### 3.6.1 Binary Search
+* <a href="Algorithm/Search/BinarySearch/LC611ValidTriangleNumber.md">LC611. Valid Triangle Number</a>
+>>### 3.6.2 Tree Search
+>>>#### 3.6.2.1 Binary Tree
+>>>#### 3.6.2.2 BST
+>>>#### 3.6.2.3 Self-balancing BST (AVL BST)
+>>>#### 3.6.2.4 Union-Find Set
+>>>#### 3.6.2.5 Trie
+>>### 3.6.3 Hashing
+* <a href="Algorithm/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">LC599. Minimum Index Sum Of Two Lists</a>
 # 4. Others
 >## Iterator
 * <a href="Others/Iterator/LC604DesignCompressedStringIterator.md">LC604. Design Compressed String Iterator</a>

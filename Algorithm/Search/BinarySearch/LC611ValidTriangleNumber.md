@@ -64,7 +64,7 @@ int triangleNumber(vector<int>& nums) {
 
 ## Explanation
 
-This question is similar with the question <a>3Sum</a> which is to find `a+b+c=0`.
+This question is similar with the question <a href="">3Sum</a> which is to find `a+b+c=0`.
 
 The key knowledge here is: `if the sum of two small edges a & b is larger than the largest edge c, we can see a, b, and c can be a triangle`
 
