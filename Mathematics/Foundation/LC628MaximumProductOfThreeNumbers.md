@@ -35,3 +35,8 @@ public int maximumProduct(int[] nums) {
         return Math.max(m1, m2);
     }
 ```
+
+## Explanation
+
+* **worst-case time complexity:** O(n*log(n))
+* **worst-case space complexity:** O(n)

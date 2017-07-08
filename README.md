@@ -69,6 +69,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Sqrt/HrBestDivisor.md">Hr. Best Divisor</a>
 * <a href="Mathematics/NumberTheory/Sqrt/HrSherlockAndDivisors.md">Hr. Sherlock And Divisors</a>
 * <a href="Mathematics/NumberTheory/Sqrt/HrBusStation.md">Hr. Bus Station</a>
+* <a href="Mathematics/NumberTheory/Sqrt/LC633SumOfSquareNumbers.md">LC633. Sum Of Square Numbers</a>
+
 >>### 1.2.11 Odd and Even
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
 
