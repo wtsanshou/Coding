@@ -142,6 +142,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.5 SubArray
 
 >>>>##### 2.1.4.5.1 Continuous
+* <a href="DataStructure/LinearStructure/Array/SubArray/Continuous/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
 
 >>>>##### 2.1.4.5.2 Uncontinuous
 

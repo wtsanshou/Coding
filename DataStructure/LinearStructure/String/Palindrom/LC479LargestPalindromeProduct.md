@@ -26,6 +26,6 @@ int largestPalindrome(int n) {
     }
 ```
 
-## Explation
+## Explanation
 
 I found a tricky solution. It's not a easy question. I need to find the real solution.
