@@ -54,3 +54,8 @@ public double findMaxAverage(int[] nums, int k) {
         return res/k;
     }
 ```
+
+## Explanation
+
+* **worst-case time complexity:** O(n)
+* **worst-case space complexity:** O(1)

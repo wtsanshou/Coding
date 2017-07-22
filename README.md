@@ -141,8 +141,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.5 SubArray
 
->>>>##### 2.1.4.5.1 Continuous
-* <a href="DataStructure/LinearStructure/Array/SubArray/Continuous/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
+>>>>##### 2.1.4.5.1 Continous
+* <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
 
 >>>>##### 2.1.4.5.2 Uncontinuous
 
@@ -158,6 +158,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.11 Interval
 * <a href="DataStructure/LinearStructure/Array/Interval/LC624MaximumDistanceInArrays.md">LC624. Maximum Distance In Arrays</a>
+* <a href="DataStructure/LinearStructure/Array/Interval/LC621TaskScheduler.md">LC621. Task Scheduler</a>
 
 >>### 2.1.5 String
 
