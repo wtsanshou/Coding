@@ -60,5 +60,5 @@ public int leastInterval(char[] tasks, int n) {
 
 ## Explanation
 
-* **worst-case time complexity:** O(26)
+* **worst-case time complexity:** O(N)
 * **worst-case space complexity:** O(N)
