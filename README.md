@@ -136,7 +136,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.1 Rotation
 
 >>>#### 2.1.4.2 Duplicate
-
+* <a href="DataStructure/LinearStructure/Array/Duplicate/LC645SetMismatch.md">LC645. Set Mismatch</a>
 >>>#### 2.1.4.3 Permutations
 
 >>>#### 2.1.4.4 Stock Buy and Sell
