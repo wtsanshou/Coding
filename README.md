@@ -117,7 +117,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/Foundation/HrFillingJars.md">Hr. Filling Jars</a>
 * <a href="Mathematics/Foundation/LC628MaximumProductOfThreeNumbers.md">LC628. Maximum Product of Three Numbers</a>
 
-
 # 2. Data Structure
 >## 2.1 Linear Structure
 
@@ -127,7 +126,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 2.1.3 Queue
 
->>>#### 2.1.3.1 Priority Queue
+>>>#### 2.1.3.1 Queue
+* <a href="DataStructure/LinearStructure/Queue/Queue/LC637AverageOfLevelsInBinaryTree.md">LC637. Average of Levels in Binary Tree</a>
+
+>>>#### 2.1.3.2 Priority Queue
 
 >>### 2.1.4 Array
 
