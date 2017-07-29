@@ -81,6 +81,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.3.1.1 Matrix
 
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC463IslandPerimeter.md">LC463 IslandPerimeter</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC74Search2DMatrix.md">LC74. Search a 2D Matrix</a>
+
 * LC74 Search a 2D Matrix
 * LC240 Search a 2D Matrix II
 * LC542 01 Matrix
