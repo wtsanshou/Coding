@@ -190,6 +190,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.12 Operation
 >>>#### 2.1.5.13 Conversion
 * <a href="DataStructure/LinearStructure/String/Conversion/LC8StringToInteger(atoi).md">LC8. String to Integer (atoi)</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC648ReplaceWords.md">LC648. Replace Words</a>
 >>### 2.1.6 General List
 
 >## 2.2 Non-Linear Structure
