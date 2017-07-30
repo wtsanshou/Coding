@@ -108,7 +108,7 @@ public class Solution {
 
 ## Explanation
 
-**NOTE: ** the root is starting from the beginning of every word, otherwise, it could be more complex.
+**NOTE:** the root is starting from the beginning of every word, otherwise, it could be more complex.
 
 The most straight forword way is to check every word to see if a substring of the word is in the dictionary.
 

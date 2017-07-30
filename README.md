@@ -230,6 +230,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
 * <a href="Algorithm/Recursion/BackTracking/HrBuildingAList.md">Hr. Building A List</a>
 >## 3.4 Greedy Algorithm
+* <a href="Algorithm/Greedy/LC646MaximumLengthOfPairChain.md">LC646. Maximum Length of Pair Chain</a>
+
 >## 3.5 Dynamic Programming (DP)
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
 * <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
