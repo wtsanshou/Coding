@@ -82,9 +82,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC463IslandPerimeter.md">LC463 IslandPerimeter</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC74Search2DMatrix.md">LC74. Search a 2D Matrix</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC240SearchA2DMatrixII.md">LC240 Search a 2D Matrix II</a>
 
-* LC74 Search a 2D Matrix
-* LC240 Search a 2D Matrix II
 * LC542 01 Matrix
 * LC48 Rotate Image
 * LC566 Reshape the Matrix
