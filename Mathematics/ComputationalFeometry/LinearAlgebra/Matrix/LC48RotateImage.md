@@ -1,6 +1,6 @@
 # LC48. Rotate Image
 
-###LeetCode
+### LeetCode
 
 ## Question
 
@@ -79,7 +79,6 @@ public class Solution {
 * **Solution1:** keep the value `a` of position1, move the rest corresponding values of three positions one step (b->a, c->b, d->c), put the `a` in the position4.
 * **Solution2:** swap `a` three time, swap `b`, `c`, `d` one time respectively. (a<->b, a<->c, a<->d).
 
-
-* **worst-case time complexity:** O(n<sup>2</sup>)
-* **worst-case space complexity:** O(1)
+- **worst-case time complexity:** O(n<sup>2</sup>)
+- **worst-case space complexity:** O(1)
 
