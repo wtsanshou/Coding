@@ -59,14 +59,14 @@ There is no way to reshape a 2 * 2 matrix to a 2 * 4 matrix. So output the origi
 * C++1
 ```
 vector<vector<int>> matrixReshape(vector<vector<int>>& nums, int r, int c) {
-        int h=nums.size(), w=nums[0].size();
-        if(r*c != h*w) return nums;
-        vector<vector<int>> res(r, vector<int>(c));
-        for(int i=0, k=0; i<r; ++i)
-            for(int j=0; j<c; ++j, ++k)
-                res[i][j] = nums[k/w][k%w];
-        return res;
-    }
+    int h=nums.size(), w=nums[0].size();
+    if(r*c != h*w) return nums;
+    vector<vector<int>> res(r, vector<int>(c));
+    for(int i=0, k=0; i<r; ++i)
+        for(int j=0; j<c; ++j, ++k)
+            res[i][j] = nums[k/w][k%w];
+    return res;
+}
 ```
 
 ## Explanation

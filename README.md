@@ -86,8 +86,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC542Matrix01.md">LC542. 01 Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC48RotateImage.md">LC48. Rotate Image</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC566ReshapeTheMatrix.md">LC566. Reshape the Matrix</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
 
-* LC221 Maximal Square
 * LC54 Spiral Matrix
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC598RangeAdditionII.md">LC598. Range Addition II</a>
 >>>#### 1.3.1.2 Linear Equations
