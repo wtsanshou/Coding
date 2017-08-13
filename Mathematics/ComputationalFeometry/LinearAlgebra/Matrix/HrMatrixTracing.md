@@ -116,5 +116,5 @@ My solutions are *Time Limitation Exceed*
 
 There must be a mathematic solution.
 
-* **worst-case time complexity:** O(T*h*w)
+* **worst-case time complexity:** O(T * h * w)
 * **worst-case space complexity:** O(max(h, w))
