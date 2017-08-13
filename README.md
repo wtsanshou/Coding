@@ -90,6 +90,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * LC54 Spiral Matrix
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC598RangeAdditionII.md">LC598. Range Addition II</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrMatrixTracing.md">Hr. Matrix Tracing</a>
+
 >>>#### 1.3.1.2 Linear Equations
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/HrSummingTheNSeries.md">Hr. Summing the N Series</a>
 >>### 1.3.2 Probability Theory
