@@ -1,6 +1,6 @@
 # Hr. Matrix Tracing
 
-### HackRank
+### HackerRank
 
 ## Question
 

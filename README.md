@@ -90,6 +90,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC54SpiralMatrix.md">LC54. Spiral Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC598RangeAdditionII.md">LC598. Range Addition II</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrMatrixTracing.md">Hr. Matrix Tracing</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrBotSavesPrincess.md">Hr. Bot Baves Princess</a>
 
 >>>#### 1.3.1.2 Linear Equations
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/HrSummingTheNSeries.md">Hr. Summing the N Series</a>
