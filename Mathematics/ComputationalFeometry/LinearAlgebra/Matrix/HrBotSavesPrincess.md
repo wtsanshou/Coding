@@ -1,4 +1,4 @@
-# Hr. Bot Baves Princess
+# Hr. Bot Saves Princess
 
 ### HackerRank
 

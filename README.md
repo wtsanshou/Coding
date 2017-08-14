@@ -13,13 +13,17 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.1.1 Graph Theory
 
 >>>#### 1.1.1.1 Graph Traversal (BFS, DFS)
+
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/GraphTraversal/LC399EvaluateDivision.md">LC399. Evaluate Division</a>
+
 >>>#### 1.1.1.2 Minimum Spanning Tree (Prim, Kruskal)
 
 >>>#### 1.1.1.3 Shortest Path (Dijkstra, Floyd)
 
 >>>#### 1.1.1.4 Longest Path
+
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/LongestPath/LC368LargestDivisibleSubset.md">LC368. Largest Divisible Subset</a>
+
 >>>#### 1.1.1.5 Transitive Closure
 
 >>>#### 1.1.1.6 Articulation Point - undiGraph
@@ -27,51 +31,69 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.1.1.7 Topological Sort-AOV-Network
 
 >>>>##### 1.1.1.7.1 Depth First Search (DFS)
+
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
+
 >>>>##### 1.1.1.7.2 Breadth First Search (BFS)  
+
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/BFS/LC127WordLadder.md">LC127. Word Ladder</a>
+
 >>>#### 1.1.1.8 Critical Path-AOV-Netword
 >>>#### 1.1.1.9 Euler Path, Hamilton Tour
 >>>#### 1.1.1.10 Difference Constraints (Bellman-Ford)
 >>>#### 1.1.1.11 Bipartite Matching
 >>>#### 1.1.1.12 Network Flow
 >>### 1.1.2 Combinatorics
+
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrDiwaliLights.md">Hr. Diwali Lights</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrNCrTable.md">Hr. <sup>n</sup>C<sub>r</sub> Table</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrKCandyStore.md">Hr. K Candy Store</a>
+
 >## 1.2 Number Theory
 >>### 1.2.1 Prime
+
 * <a href="Mathematics/NumberTheory/Prime/LC263UglyNumber.md">LC263. Ugly Number</a>
 * <a href="Mathematics/NumberTheory/Prime/LC313SuperUglyNumber.md">LC313. Super Ugly Number</a>
 
 >>### 1.2.2 Bit
+
 * <a href="Mathematics/NumberTheory/Bit/HrSpecialMultiple.md">Hr. Special Multiple</a>
+
 >>### 1.2.3 Greatest Common Divisor (GCD)
+
 * <a href="Mathematics/NumberTheory/GCD/HrPossiblePath.md">Hr. Possible Path</a>
 * <a href="Mathematics/NumberTheory/GCD/HrDieHard3.md">Hr. Die Hard 3</a>
 * <a href="Mathematics/NumberTheory/GCD/HrRestaurant.md">Hr. Restaurant</a>
 * <a href="Mathematics/NumberTheory/GCD/HrSumarAndTheFloatingRocks.md">Hr. Sumar And The Floating Rocks</a>
+
 >>### 1.2.4 Least Common Demominator (LCD)
 >>### 1.2.5 Congruence Modulo
 >>### 1.2.6 Factorial
 >>### 1.2.7 Fibonacci
+
 * <a href="Mathematics/NumberTheory/Fibonacci/HrIsFibo.md">Hr. Is Fibo</a>
+
 >>### 1.2.8 Power
+
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 * <a href="Mathematics/NumberTheory/Power/HrRussianPeasantExponentiation.md">Hr. Russian Peasant Exponentiation</a>
 * <a href="Mathematics/NumberTheory/Power/HrClosestNumber.md">Hr. Closest Number</a>
 
 >>### 1.2.9 Base
+
 * <a href="Mathematics/NumberTheory/Base/HrJimAndTheJokes.md">Hr. Jim And The Jokes</a>
+
 >>### 1.2.10 Sqrt
+
 * <a href="Mathematics/NumberTheory/Sqrt/HrBestDivisor.md">Hr. Best Divisor</a>
 * <a href="Mathematics/NumberTheory/Sqrt/HrSherlockAndDivisors.md">Hr. Sherlock And Divisors</a>
 * <a href="Mathematics/NumberTheory/Sqrt/HrBusStation.md">Hr. Bus Station</a>
 * <a href="Mathematics/NumberTheory/Sqrt/LC633SumOfSquareNumbers.md">LC633. Sum Of Square Numbers</a>
 
 >>### 1.2.11 Odd and Even
+
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
 
 >## 1.3 Computational Geometry
@@ -90,15 +112,19 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC54SpiralMatrix.md">LC54. Spiral Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC598RangeAdditionII.md">LC598. Range Addition II</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrMatrixTracing.md">Hr. Matrix Tracing</a>
-* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrBotSavesPrincess.md">Hr. Bot Baves Princess</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrBotSavesPrincess.md">Hr. Bot Saves Princess</a>
 
 >>>#### 1.3.1.2 Linear Equations
+
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC441ArrangingCoins.md">LC441. Arranging Coins</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/HrSummingTheNSeries.md">Hr. Summing the N Series</a>
+
 >>### 1.3.2 Probability Theory
 >>>#### 1.3.2.1 Random
 >>>#### 1.3.2.2 Permutation and Combination
 
 >>### 1.3.3 Analytic Geometry
+
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrFindThePoint.md">Hr. Find the Point</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrSherlockAndMovingTiles.md">Hr. Sherlock and Moving Tiles</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrMostDistant.md">Hr. Most Distant</a>
@@ -114,6 +140,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.3.4.4 Differential
 
 >## 1.4 Foundation
+
 * <a href="Mathematics/Foundation/HrMaximumDraws.md">Hr. Maximum Draws</a>
 * <a href="Mathematics/Foundation/HrHandShake.md">Hr. Hand Shake</a>
 * <a href="Mathematics/Foundation/HrArmyGame.md">Hr. Army Game</a>
@@ -133,6 +160,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.1.3 Queue
 
 >>>#### 2.1.3.1 Queue
+
 * <a href="DataStructure/LinearStructure/Queue/Queue/LC637AverageOfLevelsInBinaryTree.md">LC637. Average of Levels in Binary Tree</a>
 
 >>>#### 2.1.3.2 Priority Queue
@@ -142,7 +170,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.1 Rotation
 
 >>>#### 2.1.4.2 Duplicate
+
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC645SetMismatch.md">LC645. Set Mismatch</a>
+
 >>>#### 2.1.4.3 Permutations
 
 >>>#### 2.1.4.4 Stock Buy and Sell
@@ -150,6 +180,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.5 SubArray
 
 >>>>##### 2.1.4.5.1 Continous
+
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
 
 >>>>##### 2.1.4.5.2 Uncontinuous
@@ -157,7 +188,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.6 Moving elements
 
 >>>#### 2.1.4.7 Traversal
+
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC605CanPlaceFlowers.md">LC605. Can Place Flowers</a>
+
 >>>#### 2.1.4.8 Prefix Sums
 
 >>>#### 2.1.4.9 Count
@@ -165,22 +198,28 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.10 Window Slice
 
 >>>#### 2.1.4.11 Interval
+
 * <a href="DataStructure/LinearStructure/Array/Interval/LC624MaximumDistanceInArrays.md">LC624. Maximum Distance In Arrays</a>
 * <a href="DataStructure/LinearStructure/Array/Interval/LC621TaskScheduler.md">LC621. Task Scheduler</a>
 
 >>### 2.1.5 String
 
 >>>#### 2.1.5.1 Path
+
 * <a href="DataStructure/LinearStructure/String/Path/LC609FindDuplicateFileInSystem.md">LC609. Find Duplicate File In System</a>
+
 >>>#### 2.1.5.2 Anagrams
 
 >>>#### 2.1.5.3 Duplicate
 
 >>>#### 2.1.5.4 Matching
+
 * <a href="DataStructure/LinearStructure/String/Matching/LC616AddBoldTagInString.md">LC616. Add Bold Tag In String</a>
+
 >>>#### 2.1.5.5 Counting Letters
 
 >>>#### 2.1.5.7 Palindrom
+
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC479LargestPalindromeProduct.md">LC479. Largest Palindrome Product</a>
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC647PalindromicSubstrings.md">LC647. Palindromic Substrings</a>
 
@@ -190,19 +229,23 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.11 IP
 >>>#### 2.1.5.12 Operation
 >>>#### 2.1.5.13 Conversion
+
 * <a href="DataStructure/LinearStructure/String/Conversion/LC8StringToInteger(atoi).md">LC8. String to Integer (atoi)</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC648ReplaceWords.md">LC648. Replace Words</a>
+
 >>### 2.1.6 General List
 
 >## 2.2 Non-Linear Structure
 
 >>### 2.2.1 Tree
 >>>#### 2.2.1.1 Binary Tree
+
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC617MergeTwoBinaryTrees.md">LC617. Merge Two Binary Trees</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC623AddOneRowToTree.md">LC623. Add One Row To Tree</a>
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
+
 * <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
 
 >>>#### 2.2.1.3 Balanced Binary Tree
@@ -215,12 +258,15 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.2.2 Heap
 
 >>### 2.2.3 Graph
+
 * <a href="DataStructure/NonlinearStructure/Graph/LC565ArrayNesting.md">LC565. Array Nesting</a>
+
 >>>#### 2.2.3.1 Undirected Graph
 
 >>>#### 2.2.3.2 Directed Graph
 
 >>### 2.2.4 Set
+
 * <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
 
 # 3. Algorithm
@@ -233,18 +279,23 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 3.2.4 Heuristic Search
 >## 3.3 Recursion Algorithm
 >>### 3.3.1 Back Tracking
+
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
 * <a href="Algorithm/Recursion/BackTracking/HrBuildingAList.md">Hr. Building A List</a>
+
 >## 3.4 Greedy Algorithm
+
 * <a href="Algorithm/Greedy/LC646MaximumLengthOfPairChain.md">LC646. Maximum Length of Pair Chain</a>
 
 >## 3.5 Dynamic Programming (DP)
+
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
 * <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 * <a href="Algorithm/DynamicProgramming/LC638ShoppingOffers.md">LC638. Shopping Offers</a>
 
 
 >## 3.5 Sort
+
 * <a href="Algorithm/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
 
 >>### 3.5.1 Insert Sort
@@ -259,18 +310,23 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.6 Search
 >>### 3.6.1 Binary Search
+
 * <a href="Algorithm/Search/BinarySearch/LC611ValidTriangleNumber.md">LC611. Valid Triangle Number</a>
 
 >>### 3.6.2 Tree Search
 >>>#### 3.6.2.1 Binary Tree
 >>>#### 3.6.2.2 BST
+
  <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
 >>>#### 3.6.2.3 Self-balancing BST (AVL BST)
 >>>#### 3.6.2.4 Union-Find Set
 >>>#### 3.6.2.5 Trie
 >>### 3.6.3 Hashing
+
 * <a href="Algorithm/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">LC599. Minimum Index Sum Of Two Lists</a>
+
 # 4. Others
 >## Iterator
+
 * <a href="Others/Iterator/LC604DesignCompressedStringIterator.md">LC604. Design Compressed String Iterator</a>
 
