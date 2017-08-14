@@ -52,8 +52,8 @@ This is a typical dynamic programming solution.
 The idea is to check topleft 'a', up 'b' and left 'c' elements, 
 
 1. 'a', 'b', or 'c' is/are **0**: the maximum edge is 1 for current element.
-2. 'a', 'b', or 'c' are all **1**: the maximum edge for current element is 1 + minimum(edge(a), edge(b), edge(c)).
+2. 'a', 'b', and 'c' are all **1**: the maximum edge for current element is 1 + minimum(edge(a), edge(b), edge(c)).
 
-* **worst-case time complexity:** O(h*w)
+* **worst-case time complexity:** O(h * w)
 * **worst-case space complexity:** O(w)
 

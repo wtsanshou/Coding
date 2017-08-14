@@ -71,5 +71,5 @@ vector<vector<int>> matrixReshape(vector<vector<int>>& nums, int r, int c) {
 
 ## Explanation
 
-- **worst-case time complexity:** O(h*w)
-- **worst-case space complexity:** O(h*w)
+- **worst-case time complexity:** O(h * w)
+- **worst-case space complexity:** O(h * w)
