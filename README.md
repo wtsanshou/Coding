@@ -69,7 +69,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/GCD/HrSumarAndTheFloatingRocks.md">Hr. Sumar And The Floating Rocks</a>
 
 >>### 1.2.4 Least Common Demominator (LCD)
->>### 1.2.5 Congruence Modulo
+
+>>### 1.2.5 Modulo
+
+* <a href="Mathematics/NumberTheory/Modulo/LC168ExcelSheetColumnTitle.md">LC168. Excel Sheet Column Title</a>
+
 >>### 1.2.6 Factorial
 >>### 1.2.7 Fibonacci
 
