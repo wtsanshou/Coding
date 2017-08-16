@@ -52,6 +52,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrKCandyStore.md">Hr. K Candy Store</a>
 
 >## 1.2 Number Theory
+
 >>### 1.2.1 Prime
 
 * <a href="Mathematics/NumberTheory/Prime/LC263UglyNumber.md">LC263. Ugly Number</a>
@@ -75,6 +76,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Modulo/LC168ExcelSheetColumnTitle.md">LC168. Excel Sheet Column Title</a>
 
 >>### 1.2.6 Factorial
+
 >>### 1.2.7 Fibonacci
 
 * <a href="Mathematics/NumberTheory/Fibonacci/HrIsFibo.md">Hr. Is Fibo</a>
@@ -99,6 +101,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.11 Odd and Even
 
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
+* <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 
 >## 1.3 Computational Geometry
 
@@ -122,6 +125,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC441ArrangingCoins.md">LC441. Arranging Coins</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/HrSummingTheNSeries.md">Hr. Summing the N Series</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC400NthDigit.md">LC400. Nth Digit</a>
+
 
 >>### 1.3.2 Probability Theory
 >>>#### 1.3.2.1 Random
