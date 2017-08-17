@@ -58,7 +58,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.1 Prime
 
 * <a href="Mathematics/NumberTheory/Prime/LC263UglyNumber.md">LC263. Ugly Number</a>
-* <a href="Mathematics/NumberTheory/Prime/LC263UglyNumberII.md">LC263. Ugly Number II</a>
+* <a href="Mathematics/NumberTheory/Prime/LC264UglyNumberII.md">LC264. Ugly Number II</a>
 * <a href="Mathematics/NumberTheory/Prime/LC313SuperUglyNumber.md">LC313. Super Ugly Number</a>
 
 >>### 1.2.2 Bit
