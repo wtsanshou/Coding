@@ -37,6 +37,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 1.1.1.7.2 Breadth First Search (BFS)  
 
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/BFS/LC127WordLadder.md">LC127. Word Ladder</a>
 
 >>>#### 1.1.1.8 Critical Path-AOV-Netword
@@ -56,6 +58,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.1 Prime
 
 * <a href="Mathematics/NumberTheory/Prime/LC263UglyNumber.md">LC263. Ugly Number</a>
+* <a href="Mathematics/NumberTheory/Prime/LC263UglyNumberII.md">LC263. Ugly Number II</a>
 * <a href="Mathematics/NumberTheory/Prime/LC313SuperUglyNumber.md">LC313. Super Ugly Number</a>
 
 >>### 1.2.2 Bit
