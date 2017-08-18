@@ -61,6 +61,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Prime/LC264UglyNumberII.md">LC264. Ugly Number II</a>
 * <a href="Mathematics/NumberTheory/Prime/LC313SuperUglyNumber.md">LC313. Super Ugly Number</a>
 * <a href="Mathematics/NumberTheory/Prime/LC204CountPrimes.md">LC204. Count Primes</a>
+* <a href="Mathematics/NumberTheory/Prime/CodilityCountSemiprimes.md">Codility. Count Semiprimes</a>
+
 
 >>### 1.2.2 Bit
 
