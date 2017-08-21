@@ -67,6 +67,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.2 Bit
 
 * <a href="Mathematics/NumberTheory/Bit/HrSpecialMultiple.md">Hr. Special Multiple</a>
+* <a href="Mathematics/NumberTheory/Bit/LC191NumberOf1Bits.md">LC191. Number of 1 Bits</a>
+
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
 
