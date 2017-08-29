@@ -72,6 +72,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC461HammingDistance.md">LC461. Hamming Distance</a>
 * <a href="Mathematics/NumberTheory/Bit/LC477TotalHammingDistance.md">LC477. Total Hamming Distance</a>
 * <a href="Mathematics/NumberTheory/Bit/LC476NumberComplement.md">LC476. Number Complement</a>
+* <a href="Mathematics/NumberTheory/Bit/LC338CountingBits.md">LC338. Counting Bits</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
