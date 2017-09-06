@@ -74,6 +74,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC476NumberComplement.md">LC476. Number Complement</a>
 * <a href="Mathematics/NumberTheory/Bit/LC338CountingBits.md">LC338. Counting Bits</a>
 * <a href="Mathematics/NumberTheory/Bit/LC136SingleNumber.md">LC136. Single Number</a>
+* <a href="Mathematics/NumberTheory/Bit/LC137SingleNumberII.md">LC137. Single Number II</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
