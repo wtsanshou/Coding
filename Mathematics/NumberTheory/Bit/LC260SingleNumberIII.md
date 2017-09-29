@@ -37,9 +37,12 @@ vector<int> singleNumber(vector<int>& nums) {
 
 ## Explanation
 
-1. find the bitwise NOT (key) of the two elements that appear only once. **NOTE: ** num ^ num = 0.
+1. find the bitwise NOT (key) of the two elements that appear only once. **NOTE:** num ^ num = 0.
 2. find the location of a bit in the key. One element has `1` in the location of the bit, another has `0` in the location of the bit.
 3. travel all the numbers, bitwise NOT two groups of numbers (one group of numbers have `1` in the location of the bit, another group of numbers have `0` in the location of the bit).
+
+* **worst-case time complexity:** O(n)
+* **worst-case space complexity:** O(1)
 
 ## Testcase**
 

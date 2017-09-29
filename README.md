@@ -76,7 +76,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC136SingleNumber.md">LC136. Single Number</a>
 * <a href="Mathematics/NumberTheory/Bit/LC137SingleNumberII.md">LC137. Single Number II</a>
 * <a href="Mathematics/NumberTheory/Bit/LC260SingleNumberIII.md">LC260. Single Number III</a>
-
+* <a href="Mathematics/NumberTheory/Bit/LC421MaximumXORofTwoNumbersInAnArray.md">LC421. Maximum XOR of Two Numbers in an Array</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
