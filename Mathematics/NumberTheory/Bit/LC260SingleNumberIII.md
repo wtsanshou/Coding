@@ -49,10 +49,12 @@ vector<int> singleNumber(vector<int>& nums) {
 * 1
 
 **input:** [1,1,2,3,3,4]
+
 **output:** [2,4]
 
 * 2
 
 **input:** [-1,-1,2,3,3,-4]
+
 **output:** [2,-4]
 
