@@ -78,6 +78,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC260SingleNumberIII.md">LC260. Single Number III</a>
 * <a href="Mathematics/NumberTheory/Bit/LC421MaximumXORofTwoNumbersInAnArray.md">LC421. Maximum XOR of Two Numbers in an Array</a>
 * <a href="Mathematics/NumberTheory/Bit/LC89GrayCode.md">LC89. Gray Code</a>
+* <a href="Mathematics/NumberTheory/Bit/LC371SumOfTwoIntegers.md">LC371. Sum of Two Integers</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
