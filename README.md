@@ -46,12 +46,14 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.1.1.10 Difference Constraints (Bellman-Ford)
 >>>#### 1.1.1.11 Bipartite Matching
 >>>#### 1.1.1.12 Network Flow
+
 >>### 1.1.2 Combinatorics
 
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrDiwaliLights.md">Hr. Diwali Lights</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrNCrTable.md">Hr. <sup>n</sup>C<sub>r</sub> Table</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrKCandyStore.md">Hr. K Candy Store</a>
+* <a href="Mathematics/NumberTheory/Bit/LC401BinaryWatch.md">LC401. Binary Watch</a>
 
 >## 1.2 Number Theory
 
@@ -79,6 +81,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC421MaximumXORofTwoNumbersInAnArray.md">LC421. Maximum XOR of Two Numbers in an Array</a>
 * <a href="Mathematics/NumberTheory/Bit/LC89GrayCode.md">LC89. Gray Code</a>
 * <a href="Mathematics/NumberTheory/Bit/LC371SumOfTwoIntegers.md">LC371. Sum of Two Integers</a>
+* <a href="Mathematics/NumberTheory/Bit/LC401BinaryWatch.md">LC401. Binary Watch</a>
+
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
