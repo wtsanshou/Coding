@@ -250,6 +250,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.5.5 Counting Letters
 
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC657JudgeRouteCircle.md">LC657. Judge Route Circle</a>
+
 >>>#### 2.1.5.7 Palindrom
 
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC479LargestPalindromeProduct.md">LC479. Largest Palindrome Product</a>
