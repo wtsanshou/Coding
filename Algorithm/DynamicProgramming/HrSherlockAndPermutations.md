@@ -44,7 +44,7 @@ For each test case, print the answer modulo (10<sup>9</sup>+7).
 
 ## Solutions
 * C++1
-```bash
+```
 int CountPermutations(int N, int x){
     int C[N+1][x+1] = {0};
     for(int i=1; i<=N; ++i){
@@ -68,7 +68,7 @@ int main() {
 ```
 
 * Java1
-```bash
+```
 public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();

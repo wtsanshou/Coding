@@ -82,7 +82,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC89GrayCode.md">LC89. Gray Code</a>
 * <a href="Mathematics/NumberTheory/Bit/LC371SumOfTwoIntegers.md">LC371. Sum of Two Integers</a>
 * <a href="Mathematics/NumberTheory/Bit/LC401BinaryWatch.md">LC401. Binary Watch</a>
-
+* <a href="Mathematics/NumberTheory/Bit/LC405ConvertANumberToHexadecimal.md">LC405. Convert a Number to Hexadecimal</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
