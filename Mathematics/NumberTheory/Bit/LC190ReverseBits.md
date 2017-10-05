@@ -60,5 +60,5 @@ uint32_t reverseBits(uint32_t n) {
 
 In Java SE 8 and later, you can use the int data type to represent an unsigned 32-bit integer, which has a minimum value of 0 and a maximum value of 2^32-1. Use the Integer class to use int data type as an unsigned integer. Static methods like compareUnsigned, divideUnsigned etc have been added to the Integer class to support the arithmetic operations for unsigned integers.
 
-* **worst-case time complexity:** O(32)
+* **worst-case time complexity:** O(log(n))
 * **worst-case space complexity:** O(1)

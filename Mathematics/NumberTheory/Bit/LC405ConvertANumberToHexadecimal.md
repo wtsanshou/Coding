@@ -79,6 +79,6 @@ Check 4 bits each time to get a Hexadecimal
 **NOTE** corner cases:
 1. num == 0
 
-* **worst-case time complexity:** O(1)
+* **worst-case time complexity:** O(log<sub>16</sub>(n))
 * **worst-case space complexity:** O(1).
 

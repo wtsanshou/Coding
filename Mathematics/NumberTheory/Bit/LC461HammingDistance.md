@@ -55,5 +55,5 @@ def hammingDistance(self, x, y):
 
 Count the number of the above
 
-* **worst-case time complexity:** O(32)
+* **worst-case time complexity:** O(log(n))
 * **worst-case space complexity:** O(1)

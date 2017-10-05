@@ -41,5 +41,5 @@ int hammingWeight(uint32_t n) {
 
 n&(n-1) remove the very right binary `1` of the number n.
 
-* **worst-case time complexity:** O(32)
+* **worst-case time complexity:** O(log(n))
 * **worst-case space complexity:** O(1)

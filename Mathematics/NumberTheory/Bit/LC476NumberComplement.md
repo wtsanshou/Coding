@@ -63,5 +63,5 @@ def findComplement(self, num):
 
 Using 1 ^ each bit of the number
 
-* **worst-case time complexity:** O(32)
+* **worst-case time complexity:** O(log(n))
 * **worst-case space complexity:** O(1)

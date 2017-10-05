@@ -65,5 +65,5 @@ def getSum(self, a, b):
 a^b = binary sum of a and b but ignore carry.
 (a&b) << 1 = the carry of a binary add b
 
-* **worst-case time complexity:** O(1)
+* **worst-case time complexity:** O(log(n))
 * **worst-case space complexity:** O(1)
