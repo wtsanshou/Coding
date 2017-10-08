@@ -85,6 +85,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC405ConvertANumberToHexadecimal.md">LC405. Convert a Number to Hexadecimal</a>
 * <a href="Mathematics/NumberTheory/Bit/CodilityBinaryGap.md">Codility. Binary Gap</a>
 * <a href="Mathematics/NumberTheory/Bit/LC464CanIWin.md">LC464. Can I Win</a>
+* <a href="Mathematics/NumberTheory/Bit/LC289GameOfLife.md">LC289. Game of Life</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
