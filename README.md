@@ -284,6 +284,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.2.1.2 Binary Search Tree (BST)
 
 * <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BST/LC669TrimABinarySearchTree.md">LC669. Trim a Binary Search Tree</a>
+ 
 
 >>>#### 2.2.1.3 Balanced Binary Tree
 >>>#### 2.2.1.4 Complete Tree
