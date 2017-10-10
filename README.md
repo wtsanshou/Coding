@@ -191,6 +191,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.1.1 Linear List
 
 >>### 2.1.2 Stack
+* <a href="DataStructure/LinearStructure/Stack/LC682BaseballGame.md">LC682. Baseball Game</a>
 
 >>### 2.1.3 Queue
 
