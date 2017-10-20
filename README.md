@@ -98,6 +98,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/GCD/HrDieHard3.md">Hr. Die Hard 3</a>
 * <a href="Mathematics/NumberTheory/GCD/HrRestaurant.md">Hr. Restaurant</a>
 * <a href="Mathematics/NumberTheory/GCD/HrSumarAndTheFloatingRocks.md">Hr. Sumar And The Floating Rocks</a>
+* <a href="Mathematics/NumberTheory/GCD/CodilityChocolatesByNumbers.md">Codility. ChocolatesByNumbers</a>
+
 
 >>### 1.2.4 Least Common Demominator (LCD)
 
