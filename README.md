@@ -89,6 +89,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC393UTF-8Validation.md">LC393. UTF-8 Validation</a>
 * <a href="Mathematics/NumberTheory/Bit/LC201BitwiseANDofNumbersRange.md">LLC201. Bitwise AND of Numbers Range</a>
 * <a href="Mathematics/NumberTheory/Bit/LC307RangeSumQueryMutable.md">LC307. Range Sum Query – Mutable</a>
+* <a href="Mathematics/NumberTheory/Bit/LC29DivideTwoIntegers.md">LC29. Divide Two Integers</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
