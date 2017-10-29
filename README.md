@@ -270,14 +270,22 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC647PalindromicSubstrings.md">LC647. Palindromic Substrings</a>
 
 >>>#### 2.1.5.8 Parentheses
+
 >>>#### 2.1.5.9 Reverse
+
 >>>#### 2.1.5.10 SubString
+
 >>>#### 2.1.5.11 IP
+
 >>>#### 2.1.5.12 Operation
+
 >>>#### 2.1.5.13 Conversion
 
 * <a href="DataStructure/LinearStructure/String/Conversion/LC8StringToInteger(atoi).md">LC8. String to Integer (atoi)</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC648ReplaceWords.md">LC648. Replace Words</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/CodilityConvertDecimalToHexspeak.md">Codility Convert Decimal To Hexspeak</a>
+
+
 
 >>### 2.1.6 General List
 
@@ -297,10 +305,15 @@ This Folder includes some programming contest questions. I am trying to summariz
  
 
 >>>#### 2.2.1.3 Balanced Binary Tree
+
 >>>#### 2.2.1.4 Complete Tree
+
 >>>#### 2.2.1.5 Traversal
+
 >>>#### 2.2.1.6 Top to Down
+
 >>>#### 2.2.1.7 Down to Top
+
 >>>#### 2.2.1.8 Normal Tree
 
 >>### 2.2.2 Heap
