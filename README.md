@@ -234,6 +234,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.7 Traversal
 
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC605CanPlaceFlowers.md">LC605. Can Place Flowers</a>
+* <a href="DataStructure/LinearStructure/Array/Traversal/CodilityUpdateScores.md">Codility. Update Scores</a>
+
 
 >>>#### 2.1.4.8 Prefix Sums
 
