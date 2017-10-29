@@ -112,6 +112,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.7 Fibonacci
 
 * <a href="Mathematics/NumberTheory/Fibonacci/HrIsFibo.md">Hr. Is Fibo</a>
+* <a href="Mathematics/NumberTheory/Fibonacci/CodilityCountStepsToFibonacci.md">Codility. Count Steps to Fibonacci</a>
+
 
 >>### 1.2.8 Power
 
