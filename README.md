@@ -49,11 +49,13 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.1.2 Combinatorics
 
+* <a href="Mathematics/NumberTheory/Bit/LC401BinaryWatch.md">LC401. Binary Watch</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrDiwaliLights.md">Hr. Diwali Lights</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrNCrTable.md">Hr. <sup>n</sup>C<sub>r</sub> Table</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrKCandyStore.md">Hr. K Candy Store</a>
-* <a href="Mathematics/NumberTheory/Bit/LC401BinaryWatch.md">LC401. Binary Watch</a>
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/CodilityCountInstances.md">Codility. Count Instances</a>
+
 
 >## 1.2 Number Theory
 
@@ -276,6 +278,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.9 Reverse
 
 >>>#### 2.1.5.10 SubString
+
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/CodilityCountInstances.md">Codility. Count Instances</a>
+
+
 
 >>>#### 2.1.5.11 IP
 
