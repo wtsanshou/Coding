@@ -321,11 +321,18 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 3.1 Simulated Algorithm
 
 >## 3.2 Search Algorithm
+
 >>### 3.2.1 Enumeration
+
 >>### 3.2.2 DFS
+
 >>### 3.2.3 BFS
+
 >>### 3.2.4 Heuristic Search
+
+
 >## 3.3 Recursion Algorithm
+
 >>### 3.3.1 Back Tracking
 
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
@@ -345,30 +352,46 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 3.5 Sort
 
 * <a href="Algorithm/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
+* <a href="Algorithm/Sort/CodilityCountApples.md">Codility. Count Apples</a>
+
 
 >>### 3.5.1 Insert Sort
+
 >>>#### 3.5.1.1 Directly Insert
+
 >>>#### 3.5.1.2 Binary Insert
+
 >>>#### 3.5.1.3 Shell Sort
+
 >>### 3.5.2 Exchange Sort
+
 >>### 3.5.3 Select Sort
+
 >>### 3.5.4 Merge Sort
+
 >>### 3.5.5 Radix Sort
+
 >>### 3.5.6 Bucket Sort
 
 >## 3.6 Search
+
 >>### 3.6.1 Binary Search
 
 * <a href="Algorithm/Search/BinarySearch/LC611ValidTriangleNumber.md">LC611. Valid Triangle Number</a>
 
 >>### 3.6.2 Tree Search
+
 >>>#### 3.6.2.1 Binary Tree
+
 >>>#### 3.6.2.2 BST
 
  <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
 >>>#### 3.6.2.3 Self-balancing BST (AVL BST)
+
 >>>#### 3.6.2.4 Union-Find Set
+
 >>>#### 3.6.2.5 Trie
+
 >>### 3.6.3 Hashing
 
 * <a href="Algorithm/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">LC599. Minimum Index Sum Of Two Lists</a>

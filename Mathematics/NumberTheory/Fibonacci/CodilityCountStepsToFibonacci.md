@@ -11,6 +11,8 @@
 * C++1
 
 ```
+#include <algorithm>
+
 int countStepsToFibonacci(int x){
     vector<int> fib(1, 0);
     fib.push_back(1);
@@ -22,7 +24,6 @@ int countStepsToFibonacci(int x){
         res = min(res, abs(f - x));
     return res;
 }
-
 ```
 
 ## Explanation
@@ -33,3 +34,7 @@ Find the nearest fibonacci numbers from x.
 
 * **worst-case time complexity:** O(log(n))
 * **worst-case space complexity:** O(log(n))
+
+## Test cases
+
+[0, 1000000]
