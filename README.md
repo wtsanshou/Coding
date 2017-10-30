@@ -397,6 +397,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 3.5.6 Bucket Sort
 
+* <a href="Algorithm/Sort/BucketSort/CodilityMissingInteger.md">Codility. Missing Integer</a>
+
+
 >## 3.6 Search
 
 >>### 3.6.1 Binary Search
