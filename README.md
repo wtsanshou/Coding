@@ -101,6 +101,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/GCD/HrRestaurant.md">Hr. Restaurant</a>
 * <a href="Mathematics/NumberTheory/GCD/HrSumarAndTheFloatingRocks.md">Hr. Sumar And The Floating Rocks</a>
 * <a href="Mathematics/NumberTheory/GCD/CodilityChocolatesByNumbers.md">Codility. ChocolatesByNumbers</a>
+* <a href="Mathematics/NumberTheory/GCD/CodilityCommonPrimeDivisors.md">Codility. Common Prime Divisors</a>
 
 
 >>### 1.2.4 Least Common Demominator (LCD)
@@ -165,7 +166,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>### 1.3.2 Probability Theory
+
 >>>#### 1.3.2.1 Random
+
 >>>#### 1.3.2.2 Permutation and Combination
 
 >>### 1.3.3 Analytic Geometry
@@ -406,7 +409,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 3.6.2.2 BST
 
- <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
+* <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
+
 >>>#### 3.6.2.3 Self-balancing BST (AVL BST)
 
 >>>#### 3.6.2.4 Union-Find Set
