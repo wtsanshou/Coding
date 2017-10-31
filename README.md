@@ -102,6 +102,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/GCD/HrSumarAndTheFloatingRocks.md">Hr. Sumar And The Floating Rocks</a>
 * <a href="Mathematics/NumberTheory/GCD/CodilityChocolatesByNumbers.md">Codility. ChocolatesByNumbers</a>
 * <a href="Mathematics/NumberTheory/GCD/CodilityCommonPrimeDivisors.md">Codility. Common Prime Divisors</a>
+* <a href="Mathematics/NumberTheory/GCD/LC365WaterAndJugProblem.md">LC365. Water and Jug Problem</a>
 
 
 >>### 1.2.4 Least Common Demominator (LCD)
