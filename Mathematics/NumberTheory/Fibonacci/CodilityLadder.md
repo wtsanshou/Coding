@@ -42,7 +42,16 @@ that, given two non-empty zero-indexed arrays A and B of L integers, returns an 
 For example, given L = 5 and:
 
 ```
-A[0] = 4 B[0] = 3 A[1] = 4 B[1] = 2 A[2] = 5 B[2] = 4 A[3] = 5 B[3] = 3 A[4] = 1 B[4] = 1
+A[0] = 4 
+B[0] = 3 
+A[1] = 4 
+B[1] = 2 
+A[2] = 5 
+B[2] = 4 
+A[3] = 5 
+B[3] = 3 
+A[4] = 1 
+B[4] = 1
 ```
 
 the function should return the sequence [5, 1, 8, 0, 1], as explained above.
