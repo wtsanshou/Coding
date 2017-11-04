@@ -32,7 +32,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 1.1.1.7.1 Depth First Search (DFS)
 
-* <a href="Mathematics/NumberTheory/Bit/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
 
@@ -94,7 +94,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC307RangeSumQueryMutable.md">LC307. Range Sum Query – Mutable</a>
 * <a href="Mathematics/NumberTheory/Bit/LC29DivideTwoIntegers.md">LC29. Divide Two Integers</a>
 * <a href="Mathematics/NumberTheory/Bit/LC693BinaryNumberWithAlternatingBits.md">LC693. Binary Number with Alternating Bits</a>
-* <a href="Mathematics/NumberTheory/Bit/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
+
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
@@ -169,6 +169,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC598RangeAdditionII.md">LC598. Range Addition II</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrMatrixTracing.md">Hr. Matrix Tracing</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrBotSavesPrincess.md">Hr. Bot Saves Princess</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
 
 >>>#### 1.3.1.2 Linear Equations
 
