@@ -137,6 +137,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Power/HrClosestNumber.md">Hr. Closest Number</a>
 * <a href="Mathematics/NumberTheory/Power/LC231PowerOfTwo.md">LC231. Power of Two</a>
 * <a href="Mathematics/NumberTheory/Power/LC326PowerOfThree.md">LC326. Power of Three</a>
+* <a href="Mathematics/NumberTheory/Power/LC342PowerOfFour.md">LC342. Power of Four</a>
 
 
 >>### 1.2.9 Base
