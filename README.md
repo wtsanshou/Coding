@@ -135,6 +135,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 * <a href="Mathematics/NumberTheory/Power/HrRussianPeasantExponentiation.md">Hr. Russian Peasant Exponentiation</a>
 * <a href="Mathematics/NumberTheory/Power/HrClosestNumber.md">Hr. Closest Number</a>
+* <a href="Mathematics/NumberTheory/Power/LC231PowerOfTwo.md">LC231. Power of Two</a>
+
 
 >>### 1.2.9 Base
 
