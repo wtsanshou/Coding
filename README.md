@@ -321,11 +321,14 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 2.2 Non-Linear Structure
 
 >>### 2.2.1 Tree
+
 >>>#### 2.2.1.1 Binary Tree
 
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC617MergeTwoBinaryTrees.md">LC617. Merge Two Binary Trees</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC623AddOneRowToTree.md">LC623. Add One Row To Tree</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/CodilityFindVisibleInBinaryTree.md">Codility. Find Visible in Binary Tree</a>
+
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
 
