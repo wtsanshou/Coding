@@ -1,13 +1,13 @@
-# Codility. Find Visible in Binary Tree
+# Codility. Count Visible Nodes in Binary Tree
 
 ### Codility
 
 ## Question
 
-![Codility. Find Visible in Binary Tree1](Images/FindVisibleInBT1.tiff)
-![Codility. Find Visible in Binary Tree2](Images/FindVisibleInBT2.tiff)
-![Codility. Find Visible in Binary Tree3](Images/FindVisibleInBT3.tiff)
-![Codility. Find Visible in Binary Tree4](Images/FindVisibleInBT4.tiff)
+![Codility. Count Visible Nodes in  Binary Tree1](Images/CountVisibleNodesInBT1.tiff)
+![Codility. Count Visible Nodes in  Binary Tree2](Images/CountVisibleNodesInBT2.tiff)
+![Codility. Count Visible Nodes in  Binary Tree3](Images/CountVisibleNodesInBT3.tiff)
+![Codility. Count Visible Nodes in  Binary Tree4](Images/CountVisibleNodesInBT4.tiff)
 
 ## Solution
 
