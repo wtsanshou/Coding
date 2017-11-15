@@ -1,4 +1,4 @@
-# Even Odd Query
+# HR. Even Odd Query
 
 ### HackerRank
 

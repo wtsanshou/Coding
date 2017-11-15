@@ -132,9 +132,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.8 Power
 
-* <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
-* <a href="Mathematics/NumberTheory/Power/HrRussianPeasantExponentiation.md">Hr. Russian Peasant Exponentiation</a>
-* <a href="Mathematics/NumberTheory/Power/HrClosestNumber.md">Hr. Closest Number</a>
+* <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">HR. Even Odd Query</a>
+* <a href="Mathematics/NumberTheory/Power/HrRussianPeasantExponentiation.md">HR. Russian Peasant Exponentiation</a>
+* <a href="Mathematics/NumberTheory/Power/HrClosestNumber.md">HR. Closest Number</a>
 * <a href="Mathematics/NumberTheory/Power/LC231PowerOfTwo.md">LC231. Power of Two</a>
 * <a href="Mathematics/NumberTheory/Power/LC326PowerOfThree.md">LC326. Power of Three</a>
 * <a href="Mathematics/NumberTheory/Power/LC342PowerOfFour.md">LC342. Power of Four</a>
@@ -145,6 +145,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.9 Base
 
 * <a href="Mathematics/NumberTheory/Base/HrJimAndTheJokes.md">Hr. Jim And The Jokes</a>
+* <a href="Mathematics/NumberTheory/Base/LC504Base7.md">LC504. Base 7</a>
+
 
 >>### 1.2.10 Sqrt
 

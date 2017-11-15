@@ -1,4 +1,4 @@
-# Russian Peasant Exponentiation
+# HR. Russian Peasant Exponentiation
 
 ### HackerRank
 
