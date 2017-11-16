@@ -36,7 +36,7 @@ The set of divisors of 12 can be expressed as {1,2,3,4,6,12}. The divisor whose 
 
 ## Solutions
 * Java1
-```bash
+```
 public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();

@@ -157,6 +157,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Sqrt/LC507PerfectNumber.md">LC507. Perfect Number</a>
 * <a href="Mathematics/NumberTheory/Sqrt/CodilityCountFactors.md">Codility. Count Factors</a>
 * <a href="Mathematics/NumberTheory/Sqrt/CodilityMinPerimeterRectangle.md">Codility. Min Perimeter Rectangle</a>
+* <a href="Mathematics/NumberTheory/Sqrt/CodilityFlags.md">Codility. Flags</a>
 
 
 >>### 1.2.11 Odd and Even
