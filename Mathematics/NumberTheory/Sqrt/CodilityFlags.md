@@ -109,6 +109,12 @@ int solution(vector<int> &A) {
 }
 ```
 
+## Explanation
+
+1. Find all peaks
+2. Because `the distance between any two flags should be greater than or equal to K, The distance between indices P and Q is the absolute value |P − Q|.`, the maximum distance is `peaks.back() - peaks[0]`. So the maximum flags number is `sqrt(peaks.back() - peaks[0])+1`.
+3. Try K from the maximum flags number, put flags in the peaks. Find the maximum number of flags that can be set on the peaks of the array.
+
 ## Testcase
 
 single  extreme min test
@@ -152,10 +158,4 @@ large_anti_slow2  large test anti slow solutions
 extreme_max  extreme test, maximal number of elements
 
 extreme_max2  extreme test, maximal number of elements
-
-## Explanation
-
-1. Find all peaks
-2. Because `the distance between any two flags should be greater than or equal to K, The distance between indices P and Q is the absolute value |P − Q|.`, the maximum distance is `peaks.back() - peaks[0]`. So the maximum flags number is `sqrt(peaks.back() - peaks[0])+1`.
-3. Try K from the maximum flags number, put flags in the peaks. Find the maximum number of flags that can be set on the peaks of the array.
 

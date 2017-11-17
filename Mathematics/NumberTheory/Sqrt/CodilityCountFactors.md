@@ -41,6 +41,16 @@ int solution(int N) {
 }
 ```
 
+## Explanation
+
+corner cases: 
+
+1. N == 1
+2. sq*sq == N
+
+* **worst-case time complexity:** O(sqrt(N))
+* **worst-case space complexity:** O(1)
+
 # Testcase
 
 squares  N=16, N=36
@@ -70,13 +80,3 @@ big2  N=97,093,212, N=2^28
 big3  N=479,001,600=12!, N=780291637(prime), N=449,991,369
 
 extreme_maxint  N=1,000,000,000, N=MAX_INT, N=2147,395,600
-
-## Explanation
-
-corner cases: 
-
-1. N == 1
-2. sq*sq == N
-
-* **worst-case time complexity:** O(sqrt(N))
-* **worst-case space complexity:** O(1)
