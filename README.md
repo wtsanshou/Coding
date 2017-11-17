@@ -32,6 +32,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 1.1.1.7.1 Depth First Search (DFS)
 
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC130SurroundedRegions.md">LC130. Surrounded Regions</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
@@ -163,8 +164,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.11 Odd and Even
 
-* <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
+* <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
+
 
 >## 1.3 Computational Geometry
 
@@ -180,6 +182,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC566ReshapeTheMatrix.md">LC566. Reshape the Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC54SpiralMatrix.md">LC54. Spiral Matrix</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC130SurroundedRegions.md">LC130. Surrounded Regions</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC598RangeAdditionII.md">LC598. Range Addition II</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrMatrixTracing.md">Hr. Matrix Tracing</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrBotSavesPrincess.md">Hr. Bot Saves Princess</a>
