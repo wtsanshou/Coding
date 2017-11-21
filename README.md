@@ -193,6 +193,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC441ArrangingCoins.md">LC441. Arranging Coins</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/HrSummingTheNSeries.md">Hr. Summing the N Series</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC400NthDigit.md">LC400. Nth Digit</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC168ExcelSheetColumnTitle.md">LC168. Excel Sheet Column Title</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
 
 
 >>### 1.3.2 Probability Theory

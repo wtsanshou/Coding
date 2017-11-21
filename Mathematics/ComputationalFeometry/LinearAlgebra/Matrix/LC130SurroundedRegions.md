@@ -64,6 +64,6 @@ Only the 'O's connect to any edge of the board will not be surrounded.
 
 Using DFS to mark any 'O's connect to any edge of the board.
 
-* **worst-case time complexity:** O(max(h, w) * h * w)
+* **worst-case time complexity:** O(h * w)
 * **worst-case space complexity:** O(h * w)
 
