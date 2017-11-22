@@ -195,7 +195,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/HrSummingTheNSeries.md">Hr. Summing the N Series</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC400NthDigit.md">LC400. Nth Digit</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC168ExcelSheetColumnTitle.md">LC168. Excel Sheet Column Title</a>
-* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
+
 
 
 >>### 1.3.2 Probability Theory
@@ -404,9 +404,12 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.5 Dynamic Programming (DP)
 
+
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
 * <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 * <a href="Algorithm/DynamicProgramming/LC638ShoppingOffers.md">LC638. Shopping Offers</a>
+* <a href="Algorithm/DynamicProgramming/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
+* <a href="Algorithm/DynamicProgramming/LC62UniquePaths.md">LC62. Unique Paths</a>
 
 
 >## 3.5 Sort
