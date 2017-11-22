@@ -117,6 +117,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.5 Modulo
 
 * <a href="Mathematics/NumberTheory/Modulo/LC168ExcelSheetColumnTitle.md">LC168. Excel Sheet Column Title</a>
+* <a href="Mathematics/NumberTheory/Modulo/LC728SelfDividingNumbers.md">LC728. Self Dividing Numbers</a>
+
 
 >>### 1.2.6 Factorial
 * <a href="Mathematics/NumberTheory/Factorial/LC172FactorialTrailingZeroes.md">LC172. Factorial Trailing Zeroes</a>
