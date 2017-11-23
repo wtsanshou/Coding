@@ -239,13 +239,19 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 2.1.1 Linear List
 
+* <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
+
+
 >>### 2.1.2 Stack
+
+* <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="DataStructure/LinearStructure/Stack/LC682BaseballGame.md">LC682. Baseball Game</a>
 
 >>### 2.1.3 Queue
 
 >>>#### 2.1.3.1 Queue
 
+* <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="DataStructure/LinearStructure/Queue/Queue/LC637AverageOfLevelsInBinaryTree.md">LC637. Average of Levels in Binary Tree</a>
 
 >>>#### 2.1.3.2 Priority Queue
@@ -464,6 +470,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 3.6.3 Hashing
 
+* <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="Algorithm/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">LC599. Minimum Index Sum Of Two Lists</a>
 
 # 4. Others
