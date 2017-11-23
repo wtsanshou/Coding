@@ -169,6 +169,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
+* <a href="Mathematics/NumberTheory/OddAndEven/LC390EliminationGame.md">LC390. Elimination Game</a>
 
 
 >## 1.3 Computational Geometry
