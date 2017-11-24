@@ -325,7 +325,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.10 SubString
 
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/CodilityCountInstances.md">Codility. Count Instances</a>
-
+* <a href="DataStructure/LinearStructure/String/SubString/LC696CountBinarySubstrings.md">LC696. Count Binary Substrings</a>
 
 
 >>>#### 2.1.5.11 IP
