@@ -95,7 +95,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC307RangeSumQueryMutable.md">LC307. Range Sum Query – Mutable</a>
 * <a href="Mathematics/NumberTheory/Bit/LC29DivideTwoIntegers.md">LC29. Divide Two Integers</a>
 * <a href="Mathematics/NumberTheory/Bit/LC693BinaryNumberWithAlternatingBits.md">LC693. Binary Number with Alternating Bits</a>
-
+* <a href="Mathematics/NumberTheory/Bit/LC7171-bitAnd2-bitCharacters.md">LC717. 1-bit and 2-bit Characters</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
