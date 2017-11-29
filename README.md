@@ -201,6 +201,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC292NimGame.md">LC292. Nim Game</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC258AddDigits.md">LC258. Add Digits</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC268MissingNumber.md">LC268. Missing Number</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC202HappyNumber.md">LC202. Happy Number</a>
 
 
 >>### 1.3.2 Probability Theory
