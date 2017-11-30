@@ -293,6 +293,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.8 Prefix Sums
 
 >>>#### 2.1.4.9 Count
+* <a href="DataStructure/LinearStructure/Array/Count/LC697DegreeOfAnArray.md">LC697. Degree of an Array</a>
+
 
 >>>#### 2.1.4.10 Window Slice
 
@@ -476,6 +478,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 3.6.3 Hashing
 
+* <a href="DataStructure/LinearStructure/Array/Count/LC697DegreeOfAnArray.md">LC697. Degree of an Array</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="Algorithm/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">LC599. Minimum Index Sum Of Two Lists</a>
 
