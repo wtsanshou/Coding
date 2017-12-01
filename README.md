@@ -72,6 +72,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.2 Bit
 
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC289GameOfLife.md">LC289. Game of Life</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC661ImageSmoother.md">LC661. Image Smoother</a>
 * <a href="Mathematics/NumberTheory/Bit/HrSpecialMultiple.md">Hr. Special Multiple</a>
 * <a href="Mathematics/NumberTheory/Bit/LC190ReverseBits.md">LC190. Reverse Bits</a>
 * <a href="Mathematics/NumberTheory/Bit/LC191NumberOf1Bits.md">LC191. Number of 1 Bits</a>
@@ -89,7 +91,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC405ConvertANumberToHexadecimal.md">LC405. Convert a Number to Hexadecimal</a>
 * <a href="Mathematics/NumberTheory/Bit/CodilityBinaryGap.md">Codility. Binary Gap</a>
 * <a href="Mathematics/NumberTheory/Bit/LC464CanIWin.md">LC464. Can I Win</a>
-* <a href="Mathematics/NumberTheory/Bit/LC289GameOfLife.md">LC289. Game of Life</a>
 * <a href="Mathematics/NumberTheory/Bit/LC393UTF-8Validation.md">LC393. UTF-8 Validation</a>
 * <a href="Mathematics/NumberTheory/Bit/LC201BitwiseANDofNumbersRange.md">LLC201. Bitwise AND of Numbers Range</a>
 * <a href="Mathematics/NumberTheory/Bit/LC307RangeSumQueryMutable.md">LC307. Range Sum Query – Mutable</a>
@@ -192,7 +193,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrBotSavesPrincess.md">Hr. Bot Saves Princess</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC733FloodFill.md">LC733. Flood Fill</a>
-* <a href="Mathematics/NumberTheory/Bit/LC289GameOfLife.md">LC289. Game of Life</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC289GameOfLife.md">LC289. Game of Life</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC661ImageSmoother.md">LC661. Image Smoother</a>
 
 

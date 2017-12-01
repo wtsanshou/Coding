@@ -73,7 +73,7 @@ class Solution {
 
 Because `The value in the given matrix is in the range of [0, 255]`, the average result will not exceed 255 (8 bits). 
 
-Therefore, we can calculate the the average gray scale of each cell, and save the average vale into the cell number's from 9 to 16 bits. In this way the average value result will not affect the original gray scale. The same idea with <a href="../../NumberTheory/Bit/LC289GameOfLife.md">LC289. Game of Life</a>
+Therefore, we can calculate the the average gray scale of each cell, and save the average vale into the cell number's from 9 to 16 bits. In this way the average value result will not affect the original gray scale. The same idea with <a href="LC289GameOfLife.md">LC289. Game of Life</a>
 
 * **worst-case time complexity:** O(h * w)
 * **worst-case space complexity:** O(1)
