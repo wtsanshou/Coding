@@ -192,6 +192,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrBotSavesPrincess.md">Hr. Bot Saves Princess</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC733FloodFill.md">LC733. Flood Fill</a>
+* <a href="Mathematics/NumberTheory/Bit/LC289GameOfLife.md">LC289. Game of Life</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC661ImageSmoother.md">LC661. Image Smoother</a>
 
 
 >>>#### 1.3.1.2 Linear Equations
