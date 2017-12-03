@@ -284,6 +284,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>>##### 2.1.4.5.1 Continous
 
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
+* <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC674LongestContinuousIncreasingSubsequence.md">LC674. Longest Continuous Increasing Subsequence</a>
+
 
 >>>>##### 2.1.4.5.2 Uncontinuous
 
