@@ -48,6 +48,10 @@ int solution(int X, int Y, int D) {
 }
 ```
 
+## Explanation
+
+How many `D` between `X` and `Y`. The same idea as the <a href="CodilityCountDiv.md">Codility. CountDiv</a>.
+
 ## TestCases
 
 simple1  simple test

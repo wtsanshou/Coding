@@ -209,6 +209,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC202HappyNumber.md">LC202. Happy Number</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC537ComplexNumberMultiplication.md">LC537. Complex Number Multiplication</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/CodilityFrogJmp.md">Codility. FrogJmp</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/CodilityCountDiv.md">Codility. CountDiv</a>
 
 
 >>### 1.3.2 Probability Theory
