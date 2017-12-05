@@ -215,6 +215,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.3.2 Probability Theory
 
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC198HouseRobber.md">LC198. House Robber</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC213HouseRobberII.md">LC213. House Robber II</a>
 
 
 >>>#### 1.3.2.1 Random
