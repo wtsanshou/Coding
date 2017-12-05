@@ -302,6 +302,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>>#### 2.1.4.8 Prefix Sums
+* <a href="DataStructure/LinearStructure/Array/PrefixSums/LC724FindPivotIndex.md">LC724. Find Pivot Index</a>
+
 
 >>>#### 2.1.4.9 Count
 * <a href="DataStructure/LinearStructure/Array/Count/LC697DegreeOfAnArray.md">LC697. Degree of an Array</a>
