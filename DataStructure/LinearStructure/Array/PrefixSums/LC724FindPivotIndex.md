@@ -65,7 +65,7 @@ public int PivotIndex(int[] nums) {
 
 Get the arrays left sum and right sum. Check from left to right to see if found the request.
 
-**NOTE:** I found the same question in Codility <a>Codility Equi</a>
+**NOTE:** I found the same question in Codility <a href="CodilityEqui.md">Codility. Equi</a>
 
 * **worst-case time complexity:** O(n)
 * **worst-case space complexity:** O(n)
