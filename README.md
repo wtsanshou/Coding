@@ -351,6 +351,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/CodilityCountInstances.md">Codility. Count Instances</a>
 * <a href="DataStructure/LinearStructure/String/SubString/LC696CountBinarySubstrings.md">LC696. Count Binary Substrings</a>
+* <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
+ 
+
 
 
 >>>#### 2.1.5.11 IP
@@ -410,6 +413,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 2.2.4 Set
 
+* <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
 
 # 3. Algorithm
@@ -449,6 +453,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.5 Sort
 
+* <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
 * <a href="Algorithm/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
 * <a href="Algorithm/Sort/CodilityCountApples.md">Codility. Count Apples</a>
 
