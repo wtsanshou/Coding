@@ -355,8 +355,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
  
 
-
-
 >>>#### 2.1.5.11 IP
 
 >>>#### 2.1.5.12 Operation
@@ -366,8 +364,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/LC8StringToInteger(atoi).md">LC8. String to Integer (atoi)</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC648ReplaceWords.md">LC648. Replace Words</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/CodilityConvertDecimalToHexspeak.md">Codility Convert Decimal To Hexspeak</a>
-
-
 
 >>### 2.1.6 General List
 
@@ -416,6 +412,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
+* <a href="DataStructure/NonlinearStructure/Set/LC734SentenceSimilarity.md">LC734. Sentence Similarity</a>
 
 # 3. Algorithm
 >## 3.1 Simulated Algorithm
