@@ -217,6 +217,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC198HouseRobber.md">LC198. House Robber</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC213HouseRobberII.md">LC213. House Robber II</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC337HouseRobberIII.md">LC337. House Robber III</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC169MajorityElement.md">LC169. Majority Element</a>
 
 
 >>>#### 1.3.2.1 Random
