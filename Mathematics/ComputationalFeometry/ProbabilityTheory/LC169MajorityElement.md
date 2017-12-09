@@ -65,17 +65,17 @@ public int majorityElement(int[] nums) {
 
 ## Explanation
 
-Solution 1: Moore Voting algorithm. 
+**Solution 1:** Moore Voting algorithm. 
 
 * **worst-case time complexity:** O(n)
 * **worst-case space complexity:** O(1)
 
-Solution 2: sort the array, the element in the middle of the array is the majority element.
+**Solution 2:** sort the array, the element in the middle of the array is the majority element.
 
 * **worst-case time complexity:** O(n*log(n))
 * **worst-case space complexity:** O(n*log(n))
 
-Solution 3: Using a hash map to count the number of each element.
+**Solution 3:** Using a hash map to count the number of each element.
 
 * **worst-case time complexity:** O(n)
 * **worst-case space complexity:** O(n)
