@@ -485,6 +485,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 3.6.1 Binary Search
 
 * <a href="Algorithm/Search/BinarySearch/LC611ValidTriangleNumber.md">LC611. Valid Triangle Number</a>
+* <a href="Algorithm/Search/BinarySearch/LC744FindSmallestLetterGreaterThanTarget.md">LC744. Find Smallest Letter Greater Than Target</a>
+
 
 >>### 3.6.2 Tree Search
 
