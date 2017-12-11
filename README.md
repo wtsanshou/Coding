@@ -338,6 +338,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.5 Counting Letters
 
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC657JudgeRouteCircle.md">LC657. Judge Route Circle</a>
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC443StringCompression.md">LC443. String Compression</a>
+
 
 >>>#### 2.1.5.7 Palindrom
 
