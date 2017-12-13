@@ -350,6 +350,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC479LargestPalindromeProduct.md">LC479. Largest Palindrome Product</a>
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC647PalindromicSubstrings.md">LC647. Palindromic Substrings</a>
+* <a href="DataStructure/LinearStructure/String/Palindrom/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
+
 
 >>>#### 2.1.5.8 Parentheses
 
@@ -446,7 +448,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.4 Greedy Algorithm
 
+* <a href="DataStructure/LinearStructure/String/Palindrom/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
 * <a href="Algorithm/Greedy/LC646MaximumLengthOfPairChain.md">LC646. Maximum Length of Pair Chain</a>
+
+
 
 >## 3.5 Dynamic Programming (DP)
 
