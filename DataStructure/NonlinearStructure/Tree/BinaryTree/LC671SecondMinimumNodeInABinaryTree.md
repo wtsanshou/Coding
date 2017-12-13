@@ -99,4 +99,4 @@ Find the max value of the binary tree.
 3. Cut the tree which are not equal to the root value, but check the node's value to get the second minimum value of the whole tree.
 
 * **worst-case time complexity:** O(n)
-* **worst-case space complexity:** O(n)
+* **worst-case space complexity:** O(h)

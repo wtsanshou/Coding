@@ -83,4 +83,4 @@ Four corner cases:
 4. `root->val == R`, right child of root should be removed.
 
 * **worst-case time complexity:** O(n)
-* **worst-case space complexity:** O(n)
+* **worst-case space complexity:** O(h)

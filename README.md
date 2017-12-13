@@ -224,7 +224,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 1.3.2.1 Random
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/Random/LC384ShuffleAnArray.md">LC384. Shuffle an Array</a>
-LC384. Shuffle an Array
 
 >>>#### 1.3.2.2 Permutation and Combination
 
@@ -385,6 +384,7 @@ LC384. Shuffle an Array
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC623AddOneRowToTree.md">LC623. Add One Row To Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/CodilityCountVisibleNodesInBinaryTree.md">Codility. Count Visible Nodes in Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC671SecondMinimumNodeInABinaryTree.md">LC671. Second Minimum Node In a Binary Tree</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC687LongestUnivaluePath.md">LC687. Longest Univalue Path</a>
 
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)

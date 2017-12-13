@@ -41,4 +41,4 @@ Recursive from root to leaves, keep the maximum value through each path:
 3. T.x >= max --> return 1 plus recursive down and update the 'max' with the `T.x`.
 
 * **worst-case time complexity:** O(n)
-* **worst-case space complexity:** O(n)
+* **worst-case space complexity:** O(h)
