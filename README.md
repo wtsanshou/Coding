@@ -223,6 +223,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/CodilityEquiLeader.md">Codility. Equi Leader</a>
 
 >>>#### 1.3.2.1 Random
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/Random/LC384ShuffleAnArray.md">LC384. Shuffle an Array</a>
+LC384. Shuffle an Array
 
 >>>#### 1.3.2.2 Permutation and Combination
 
