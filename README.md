@@ -208,8 +208,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC268MissingNumber.md">LC268. Missing Number</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC202HappyNumber.md">LC202. Happy Number</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC537ComplexNumberMultiplication.md">LC537. Complex Number Multiplication</a>
-* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/CodilityFrogJmp.md">Codility. FrogJmp</a>
-* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/CodilityCountDiv.md">Codility. CountDiv</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/CodilityFrogJmp.md">Codility. Frog Jmp</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/CodilityCountDiv.md">Codility. Count Div</a>
 
 
 >>### 1.3.2 Probability Theory
@@ -224,6 +224,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 1.3.2.1 Random
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/Random/LC384ShuffleAnArray.md">LC384. Shuffle an Array</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/Random/LC382LinkedListRandomNode.md">LC382. Linked List Random Node</a>
+
 
 >>>#### 1.3.2.2 Permutation and Combination
 
