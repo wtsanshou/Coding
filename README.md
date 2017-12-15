@@ -225,6 +225,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.3.2.1 Random
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/Random/LC384ShuffleAnArray.md">LC384. Shuffle an Array</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/Random/LC382LinkedListRandomNode.md">LC382. Linked List Random Node</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/Random/LC398RandomPickIndex.md">LC398. Random Pick Index</a>
 
 
 >>>#### 1.3.2.2 Permutation and Combination
