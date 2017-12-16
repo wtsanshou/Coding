@@ -113,8 +113,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.4 Least Common Demominator (LCD)
 * <a href="Mathematics/NumberTheory/LCD/LC592FractionAdditionAndSubtraction.md">LC592. Fraction Addition and Subtraction</a>
 
-
-
 >>### 1.2.5 Modulo
 
 * <a href="Mathematics/NumberTheory/Modulo/LC168ExcelSheetColumnTitle.md">LC168. Excel Sheet Column Title</a>
@@ -235,6 +233,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrFindThePoint.md">Hr. Find the Point</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrSherlockAndMovingTiles.md">Hr. Sherlock and Moving Tiles</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrMostDistant.md">Hr. Most Distant</a>
+* <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC413ArithmeticSlices.md">LC413. Arithmetic Slices</a>
+
 
 >>### 1.3.4 Advanced Mathematics
 
