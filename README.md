@@ -234,6 +234,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrSherlockAndMovingTiles.md">Hr. Sherlock and Moving Tiles</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrMostDistant.md">Hr. Most Distant</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC413ArithmeticSlices.md">LC413. Arithmetic Slices</a>
+* <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC447NumberOfBoomerangs.md">LC447. Number of Boomerangs</a>
 
 
 >>### 1.3.4 Advanced Mathematics

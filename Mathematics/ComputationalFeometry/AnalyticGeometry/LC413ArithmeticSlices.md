@@ -93,7 +93,7 @@ Slices number :     0      1        3       6       10      15  ...
 Added number  :     0      1        2       3       4       5   ...
 ```
 
-Therefore, the number of arithmetics slices of a consecutive elements is sum of the `Added number`. So we can use the <a href="https://en.wikipedia.org/wiki/Triangular_number">Triangular Number</a>
+Therefore, the number of arithmetics slices of a consecutive elements is the sum of the `Added number`. So we can use the <a href="https://en.wikipedia.org/wiki/Triangular_number">Triangular Number</a>
 
 ![Triangular Number](Images/TriangularNumber.tiff)
 
