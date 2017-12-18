@@ -32,14 +32,14 @@ The two boomerangs are [[1,0],[0,0],[2,0]] and [[1,0],[2,0],[0,0]]
 * C++1 (1000ms)
 ```
 int numberOfBoomerangs(vector<pair<int, int>>& points) {
-        int booms = 0;
-        for (auto &p : points) {
-            unordered_map<double, int> ctr(points.size());
-            for (auto &q : points)
-                //hypot is the  square root of (x2+y2),distance
-                booms += 2 * ctr[hypot(p.first - q.first, p.second - q.second)]++;
-        }
-        return booms;
+    int booms = 0;
+    for (auto &p : points) {
+        unordered_map<double, int> ctr(points.size());
+        for (auto &q : points)
+            //hypot is the  square root of (x2+y2),distance
+            booms += 2 * ctr[hypot(p.first - q.first, p.second - q.second)]++;
+    }
+    return booms;
 }
 ```
 
