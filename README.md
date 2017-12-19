@@ -236,6 +236,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC413ArithmeticSlices.md">LC413. Arithmetic Slices</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC447NumberOfBoomerangs.md">LC447. Number of Boomerangs</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC223RectangleArea.md">LC223. Rectangle Area</a>
+* <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC593ValidSquare.md">LC593. Valid Square</a>
 
 
 >>### 1.3.4 Advanced Mathematics
