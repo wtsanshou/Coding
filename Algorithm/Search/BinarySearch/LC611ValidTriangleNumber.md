@@ -72,5 +72,5 @@ We can sort the array. So that, we can compare the sum of two small deges and th
 
 Because the array is sorted, for the third edge, all possible avaible third edge are in the left of the array. So, we can use Binary Search to find the boundary point. The values left of the boundary point are we need to count.
 
-* **worst-case time complexity:** O(n<sup>2</sup>log(n))
+* **worst-case time complexity:** O(n<sup>2</sup> * log(n))
 * **worst-case space complexity:** O(n)

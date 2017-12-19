@@ -10,7 +10,7 @@ Given an array of integers, every element appears twice except for one. Find t
 
 Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
 
-## Solutions0
+## Solutions
 
 * C++1 (16ms)
 ```
