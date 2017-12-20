@@ -1,4 +1,4 @@
-# Leonardo's Prime Factors
+# Hr. Leonardo's Prime Factors
 
 ### HackerRank
 
@@ -24,33 +24,25 @@ For each query, print the maximum number of unique prime factors for any number 
 
 **Sample Input**
 
+```
 6
-
 1
-
 2
-
 3
-
 500
-
 5000
-
 10000000000
+```
 
 **Sample Output**
-
+```
 0
-
 1
-
 1
-
 4
-
 5
-
 10
+```
 
 **Explanation**
 
@@ -61,7 +53,7 @@ For each query, print the maximum number of unique prime factors for any number 
 
 ## Solutions
 * Java1
-```bash
+```
 public static void main(String[] args) {
         String[] primes = new String[] {"1","2","3","5","7","11","13","17","19","23","29","31","37","41","43","47","53"};
         BigInteger[] sumPrimes = new BigInteger[17];

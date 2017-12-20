@@ -63,6 +63,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.1 Prime
 
+* <a href="Mathematics/Foundation/HrLeonardosPrimeFactors.md">Hr. Leonardo's Prime Factors</a>
 * <a href="Mathematics/NumberTheory/Prime/LC263UglyNumber.md">LC263. Ugly Number</a>
 * <a href="Mathematics/NumberTheory/Prime/LC264UglyNumberII.md">LC264. Ugly Number II</a>
 * <a href="Mathematics/NumberTheory/Prime/LC313SuperUglyNumber.md">LC313. Super Ugly Number</a>
@@ -259,6 +260,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/Foundation/HrStrangeGridAgain.md">Hr. Strange Grid Again</a>
 * <a href="Mathematics/Foundation/HrFillingJars.md">Hr. Filling Jars</a>
 * <a href="Mathematics/Foundation/LC628MaximumProductOfThreeNumbers.md">LC628. Maximum Product of Three Numbers</a>
+* <a href="Mathematics/Foundation/HrCuttingPaperSquares.md">Hr. Cutting Paper Squares</a>
+
 
 # 2. Data Structure
 >## 2.1 Linear Structure
