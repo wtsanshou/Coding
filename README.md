@@ -269,6 +269,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.1.1 Linear List
 
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC21MergeTwoSortedLists.md">LC21. Merge Two Sorted Lists</a>
 
 
 >>### 2.1.2 Stack
