@@ -33,8 +33,8 @@ ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
     ListNode* max;
     if(l1 && l2)
     {
-        min = l1->val<=l2->val? l1:l2;
-        max = l2->val>=l1->val? l2:l1;
+        min = l1->val <= l2->val? l1:l2;
+        max = l2->val >= l1->val? l2:l1;
     }
     else if(l1)
     {
@@ -46,7 +46,7 @@ ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
     }
     ListNode* head = min;
     ListNode* temp;
-    while(min&&max&&min->next)
+    while(min && max && min->next)
     {
         if(min->next->val <= max->val)
             min = min->next;

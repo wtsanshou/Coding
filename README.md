@@ -524,6 +524,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 3.6.2.4 Union-Find Set
 
 >>>#### 3.6.2.5 Trie
+* <a href="Algorithm/Search/TreeSearch/Trie/LC677MapSumPairs.md">LC677. Map Sum Pairs</a>
+LC677. Map Sum Pairs
 
 >>### 3.6.3 Hashing
 
