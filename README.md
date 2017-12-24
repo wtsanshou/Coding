@@ -270,6 +270,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC21MergeTwoSortedLists.md">LC21. Merge Two Sorted Lists</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC141LinkedListCycle.md">LC141. Linked List Cycle</a>
 
 
 >>### 2.1.2 Stack
@@ -525,7 +526,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 3.6.2.5 Trie
 * <a href="Algorithm/Search/TreeSearch/Trie/LC677MapSumPairs.md">LC677. Map Sum Pairs</a>
-LC677. Map Sum Pairs
+
 
 >>### 3.6.3 Hashing
 
