@@ -271,6 +271,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC21MergeTwoSortedLists.md">LC21. Merge Two Sorted Lists</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC141LinkedListCycle.md">LC141. Linked List Cycle</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC142LinkedListCycleII.md">LC142. Linked List Cycle II</a>
 
 
 >>### 2.1.2 Stack
@@ -315,7 +316,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC605CanPlaceFlowers.md">LC605. Can Place Flowers</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/CodilityUpdateScores.md">Codility. Update Scores</a>
-* <a href="DataStructure/LinearStructure/Array/Traversal/LC747LargestNumberrThanTwiceOfOthers.md">LC747. Largest Number Greater Than Twice of Others</a>
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC747LargestNumberGreaterThanTwiceOfOthers.md">LC747. Largest Number Greater Than Twice of Others</a>
 
 
 >>>#### 2.1.4.8 Prefix Sums
