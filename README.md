@@ -274,6 +274,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC142LinkedListCycleII.md">LC142. Linked List Cycle II</a>
 
 
+
 >>### 2.1.2 Stack
 
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
@@ -401,6 +402,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC671SecondMinimumNodeInABinaryTree.md">LC671. Second Minimum Node In a Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC687LongestUnivaluePath.md">LC687. Longest Univalue Path</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC654MaximumBinaryTree.md">LC654. Maximum Binary Tree</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC257BinaryTreePaths.md">LC257. Binary Tree Paths</a>
 
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
