@@ -21,7 +21,7 @@ All root-to-leaf paths are:
 
 ## Solutions
 
-* C++1 (9ms) recursive O(n)space, O(n)time
+* C++1 (9ms) 
 ```
 void TraceTreePaths(vector<string>&res, string aPath, TreeNode* root)
 {
@@ -41,7 +41,7 @@ vector<string> binaryTreePaths(TreeNode* root) {
 }
 ```
 
-* C++2 (4ms) stack (log(n)) iteration O(n)space, O(n)time
+* C++2 (4ms) 
 ```
 vector<string> binaryTreePaths(TreeNode* root) {
     vector<string> res;
@@ -73,7 +73,7 @@ vector<string> binaryTreePaths(TreeNode* root) {
 }
 ```
 
-* Java1 (2ms) O(n)space, O(n)time
+* Java1 (2ms) 
 ```
 private List<String> res;
 public List<String> binaryTreePaths(TreeNode root) {
