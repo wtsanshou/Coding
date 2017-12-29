@@ -339,6 +339,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/Array/Interval/LC624MaximumDistanceInArrays.md">LC624. Maximum Distance In Arrays</a>
 * <a href="DataStructure/LinearStructure/Array/Interval/LC621TaskScheduler.md">LC621. Task Scheduler</a>
+* <a href="DataStructure/LinearStructure/Array/Interval/LC667BeautifulArrangementII.md">LC667. Beautiful Arrangement II</a>
+
 
 >>### 2.1.5 String
 
