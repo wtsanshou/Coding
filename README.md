@@ -272,7 +272,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC21MergeTwoSortedLists.md">LC21. Merge Two Sorted Lists</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC141LinkedListCycle.md">LC141. Linked List Cycle</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC142LinkedListCycleII.md">LC142. Linked List Cycle II</a>
-* <a href="DataStructure/LinearStructure/LinearList/LC142LinkedListCycleII.md">LC203. Remove Linked List Elements</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC203RemoveLinkedListElements.md">LC203. Remove Linked List Elements</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC160IntersectionOfTwoLinkedLists.md">LC160. Intersection of Two Linked Lists</a>
 
 
 
