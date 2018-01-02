@@ -6,22 +6,22 @@
 
 Given a singly linked list, return a random node's value from the linked list. Each node must have the same probability of being chosen.
 
-Follow up: What if the linked list is extremely large and its length is unknown to you? Could you solve this efficiently without using extra space?
+**Follow up** What if the linked list is extremely large and its length is unknown to you? Could you solve this efficiently without using extra space?
 
 **Example:**
 
-// Init a singly linked list [1,2,3].
-
 ```
+// Init a singly linked list [1,2,3].
 ListNode head = new ListNode(1);
 head.next = new ListNode(2);
 head.next.next = new ListNode(3);
 Solution solution = new Solution(head);
 ```
 
+```
 // getRandom() should return either 1, 2, or 3 randomly. Each element should have equal probability of returning.
-
-`solution.getRandom();`
+solution.getRandom();
+```
 
 ```
 /**
@@ -146,14 +146,16 @@ public class Solution {
 
 ## Explanation
 
-Solution1: 
-
-* **worst-case time complexity:** O(n)
-* **worst-case space complexity:** O(1)
-
-Solution2:
+The simplest solution is to use an array to store the link list values. Then, getting random index of the array to find the result.
 
 * **worst-case time complexity:** O(1)
 * **worst-case space complexity:** O(n)
 
+**Follow up**  What if the linked list is extremely large and its length is unknown to you? Could you solve this efficiently without using extra space?
 
+As explained in <a href="https://en.wikipedia.org/wiki/Harmonic_series_(mathematics)">Harmonic series</a>, to get the equal probability, we need to travel the array and count the target. For each target index, it has `1/count` probability to be the result.
+
+![HarmonicSeries](Images/HarmonicSeries.tiff)
+
+* **worst-case time complexity:** O(n)
+* **worst-case space complexity:** O(1)
