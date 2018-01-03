@@ -277,7 +277,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC160IntersectionOfTwoLinkedLists.md">LC160. Intersection of Two Linked Lists</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC328OddEvenLinkedList.md">LC328. Odd Even Linked List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC341FlattenNestedListIterator.md">LC341. Flatten Nested List Iterator</a>
-
+* <a href="DataStructure/LinearStructure/LinearList/LC237DeleteNodeInALinkedList.md">LC237. Delete Node in a Linked List</a>
 
 
 >>### 2.1.2 Stack
