@@ -276,10 +276,13 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC203RemoveLinkedListElements.md">LC203. Remove Linked List Elements</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC160IntersectionOfTwoLinkedLists.md">LC160. Intersection of Two Linked Lists</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC328OddEvenLinkedList.md">LC328. Odd Even Linked List</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC341FlattenNestedListIterator.md">LC341. Flatten Nested List Iterator</a>
+
 
 
 >>### 2.1.2 Stack
 
+* <a href="DataStructure/LinearStructure/LinearList/LC341FlattenNestedListIterator.md">LC341. Flatten Nested List Iterator</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="DataStructure/LinearStructure/Stack/LC682BaseballGame.md">LC682. Baseball Game</a>
 
