@@ -448,6 +448,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC734SentenceSimilarity.md">LC734. Sentence Similarity</a>
+* <a href="DataStructure/NonlinearStructure/Set/LC676ImplementMagicDictionary.md">LC676. Implement Magic Dictionary</a>
+
 
 # 3. Algorithm
 >## 3.1 Simulated Algorithm
