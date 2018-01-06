@@ -65,7 +65,7 @@ public int MinCostClimbingStairs(int[] cost) {
 
 ## Explanation
 
-It's quite like the question * <a href="Mathematics/NumberTheory/Fibonacci/LC70ClimbingStairs.md">LC70. Climbing Stairs</a>, but we need to consider the climbing cost this time. 
+It's quite like the question <a href="../../Mathematics/NumberTheory/Fibonacci/LC70ClimbingStairs.md">LC70. Climbing Stairs</a>, but we need to consider the climbing cost this time. 
 
 Only the final two steps are able to reach the top, so we can use Dynamic Programming to calculate the minimum climbing cost of each step. Finally, the minimum cost of the final two steps is the result.
 
