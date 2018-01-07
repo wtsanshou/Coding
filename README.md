@@ -281,6 +281,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC206ReverseLinkedList.md">LC206. Reverse Linked List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC92ReverseLinkedListII.md">LC92. Reverse Linked List II</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC83RemoveDuplicatesFromSortedList.md">LC83. Remove Duplicates from Sorted List</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC82RemoveDuplicatesFromSortedListII.md">LC82. Remove Duplicates from Sorted List II</a>
 
 
 >>### 2.1.2 Stack
