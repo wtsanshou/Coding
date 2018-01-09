@@ -454,6 +454,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Set/LC734SentenceSimilarity.md">LC734. Sentence Similarity</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC676ImplementMagicDictionary.md">LC676. Implement Magic Dictionary</a>
 
+>>### 2.2.5 HashMap
+
+* <a href="DataStructure/NonlinearStructure/HashMap/LC760FindAnagramMappings.md">LC760. Find Anagram Mappings</a>
+
 
 # 3. Algorithm
 >## 3.1 Simulated Algorithm

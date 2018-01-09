@@ -44,7 +44,7 @@ The restaurant they both like and have the least index sum is "Shogun" with inde
 
 ## Solutions
 * C++1
-```bash
+```
 vector<string> findRestaurant(vector<string>& list1, vector<string>& list2) {
         unordered_map<string, int> map1, map2, commonMap;
         for(int i=0; i<list1.size(); ++i)
