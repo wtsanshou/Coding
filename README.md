@@ -34,12 +34,12 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC130SurroundedRegions.md">LC130. Surrounded Regions</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
-* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule I</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
 
 >>>>##### 1.1.1.7.2 Breadth First Search (BFS)  
 
-* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule I</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/BFS/LC127WordLadder.md">LC127. Word Ladder</a>
 
@@ -64,7 +64,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.1 Prime
 
 * <a href="Mathematics/Foundation/HrLeonardosPrimeFactors.md">Hr. Leonardo's Prime Factors</a>
-* <a href="Mathematics/NumberTheory/Prime/LC263UglyNumber.md">LC263. Ugly Number</a>
+* <a href="Mathematics/NumberTheory/Prime/LC263UglyNumber.md">LC263. Ugly Number I</a>
 * <a href="Mathematics/NumberTheory/Prime/LC264UglyNumberII.md">LC264. Ugly Number II</a>
 * <a href="Mathematics/NumberTheory/Prime/LC313SuperUglyNumber.md">LC313. Super Ugly Number</a>
 * <a href="Mathematics/NumberTheory/Prime/LC204CountPrimes.md">LC204. Count Primes</a>
@@ -82,7 +82,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC477TotalHammingDistance.md">LC477. Total Hamming Distance</a>
 * <a href="Mathematics/NumberTheory/Bit/LC476NumberComplement.md">LC476. Number Complement</a>
 * <a href="Mathematics/NumberTheory/Bit/LC338CountingBits.md">LC338. Counting Bits</a>
-* <a href="Mathematics/NumberTheory/Bit/LC136SingleNumber.md">LC136. Single Number</a>
+* <a href="Mathematics/NumberTheory/Bit/LC136SingleNumber.md">LC136. Single Number I</a>
 * <a href="Mathematics/NumberTheory/Bit/LC137SingleNumberII.md">LC137. Single Number II</a>
 * <a href="Mathematics/NumberTheory/Bit/LC260SingleNumberIII.md">LC260. Single Number III</a>
 * <a href="Mathematics/NumberTheory/Bit/LC421MaximumXORofTwoNumbersInAnArray.md">LC421. Maximum XOR of Two Numbers in an Array</a>
@@ -179,7 +179,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.3.1.1 Matrix
 
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC463IslandPerimeter.md">LC463 IslandPerimeter</a>
-* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC74Search2DMatrix.md">LC74. Search a 2D Matrix</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC74Search2DMatrix.md">LC74. Search a 2D Matrix I</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC240SearchA2DMatrixII.md">LC240. Search a 2D Matrix II</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC542Matrix01.md">LC542. 01 Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC48RotateImage.md">LC48. Rotate Image</a>
@@ -213,10 +213,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.3.2 Probability Theory
 
-* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC198HouseRobber.md">LC198. House Robber</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC198HouseRobber.md">LC198. House Robber I</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC213HouseRobberII.md">LC213. House Robber II</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC337HouseRobberIII.md">LC337. House Robber III</a>
-* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC169MajorityElement.md">LC169. Majority Element</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC169MajorityElement.md">LC169. Majority Element I</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC229MajorityElementII.md">LC229. Majority Element II</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/CodilityDominator.md">Codility. Dominator</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/CodilityEquiLeader.md">Codility. Equi Leader</a>
@@ -271,18 +271,20 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC21MergeTwoSortedLists.md">LC21. Merge Two Sorted Lists</a>
-* <a href="DataStructure/LinearStructure/LinearList/LC141LinkedListCycle.md">LC141. Linked List Cycle</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC141LinkedListCycle.md">LC141. Linked List Cycle I</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC142LinkedListCycleII.md">LC142. Linked List Cycle II</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC160IntersectionOfTwoLinkedLists.md">LC160. Intersection of Two Linked Lists</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC328OddEvenLinkedList.md">LC328. Odd Even Linked List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC341FlattenNestedListIterator.md">LC341. Flatten Nested List Iterator</a>
-* <a href="DataStructure/LinearStructure/LinearList/LC206ReverseLinkedList.md">LC206. Reverse Linked List</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC206ReverseLinkedList.md">LC206. Reverse Linked List I</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC92ReverseLinkedListII.md">LC92. Reverse Linked List II</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC237DeleteNodeInALinkedList.md">LC237. Delete Node in a Linked List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC203RemoveLinkedListElements.md">LC203. Remove Linked List Elements</a>
-* <a href="DataStructure/LinearStructure/LinearList/LC83RemoveDuplicatesFromSortedList.md">LC83. Remove Duplicates from Sorted List</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC83RemoveDuplicatesFromSortedList.md">LC83. Remove Duplicates from Sorted List I</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC82RemoveDuplicatesFromSortedListII.md">LC82. Remove Duplicates from Sorted List II</a>
-* <a href="DataStructure/LinearStructure/LinearList/LC2AddTwoNumbers.md">LC2. Add Two Numbers</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC2AddTwoNumbers.md">LC2. Add Two Numbers I</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC445AddTwoNumbersII.md">LC445. Add Two Numbers II</a>
+
 
 
 >>### 2.1.2 Stack
