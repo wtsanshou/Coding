@@ -194,6 +194,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC733FloodFill.md">LC733. Flood Fill</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC289GameOfLife.md">LC289. Game of Life</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC661ImageSmoother.md">LC661. Image Smoother</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC766ToeplitzMatrix.md">LC766. Toeplitz Matrix</a>
 
 
 >>>#### 1.3.1.2 Linear Equations
