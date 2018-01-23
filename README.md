@@ -63,6 +63,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.1 Prime
 
+* <a href="Mathematics/NumberTheory/Bit/LC762PrimeNumberOfSetBitsInBinaryRepresentatio.md">LC762. Prime Number of Set Bits in Binary Representation</a>
 * <a href="Mathematics/Foundation/HrLeonardosPrimeFactors.md">Hr. Leonardo's Prime Factors</a>
 * <a href="Mathematics/NumberTheory/Prime/LC263UglyNumber.md">LC263. Ugly Number I</a>
 * <a href="Mathematics/NumberTheory/Prime/LC264UglyNumberII.md">LC264. Ugly Number II</a>
@@ -98,6 +99,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC29DivideTwoIntegers.md">LC29. Divide Two Integers</a>
 * <a href="Mathematics/NumberTheory/Bit/LC693BinaryNumberWithAlternatingBits.md">LC693. Binary Number with Alternating Bits</a>
 * <a href="Mathematics/NumberTheory/Bit/LC7171-bitAnd2-bitCharacters.md">LC717. 1-bit and 2-bit Characters</a>
+* <a href="Mathematics/NumberTheory/Bit/LC762PrimeNumberOfSetBitsInBinaryRepresentatio.md">LC762. Prime Number of Set Bits in Binary Representation</a>
+
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
