@@ -4,7 +4,7 @@
 
 ## Question
 
-Follow up for problem "Populating Next Right Pointers in Each Node".
+Follow up for problem <a href="LC116PopulatingNextRightPointersInEachNode.md">"Populating Next Right Pointers in Each Node"</a>.
 
 What if the given tree could be any binary tree? Would your previous solution still work?
 
