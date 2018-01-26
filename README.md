@@ -285,14 +285,13 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC237DeleteNodeInALinkedList.md">LC237. Delete Node in a Linked List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC203RemoveLinkedListElements.md">LC203. Remove Linked List Elements</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC19RemoveNthNodeFromEndOfList.md">LC19. Remove Nth Node From End of List</a>
-
 * <a href="DataStructure/LinearStructure/LinearList/LC83RemoveDuplicatesFromSortedList.md">LC83. Remove Duplicates from Sorted List I</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC82RemoveDuplicatesFromSortedListII.md">LC82. Remove Duplicates from Sorted List II</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC2AddTwoNumbers.md">LC2. Add Two Numbers I</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC445AddTwoNumbersII.md">LC445. Add Two Numbers II</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC24SwapNodesInPairs.md">LC24. Swap Nodes in Pairs</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC725SplitLinkedListInParts.md">LC725. Split Linked List in Parts</a>
 
- 
 
 >>### 2.1.2 Stack
 
