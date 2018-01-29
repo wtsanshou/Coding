@@ -379,6 +379,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC657JudgeRouteCircle.md">LC657. Judge Route Circle</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC443StringCompression.md">LC443. String Compression</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC748ShortestCompletingWord.md">LC748. Shortest Completing Word</a>
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC771JewelsAndStones.md">LC771. Jewels and Stones</a>
 
 >>>#### 2.1.5.7 Palindrom
 
