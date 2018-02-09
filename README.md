@@ -292,7 +292,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC24SwapNodesInPairs.md">LC24. Swap Nodes in Pairs</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC725SplitLinkedListInParts.md">LC725. Split Linked List in Parts</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC147InsertionSortList.md">LC147. Insertion Sort List</a>
-* <a href="DataStructure/LinearStructure/LinearList/LC147InsertionSortList.md">LC86. Partition List</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC86PartitionList.md">LC86. Partition List</a>
 
 
 >>### 2.1.2 Stack
@@ -515,6 +515,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC746MinCostClimbingStairs.md">LC746. Min Cost Climbing Stairs</a>
 * <a href="Algorithm/DynamicProgramming/LC712MinimumASCIIDeleteSumForTwoStrings.md">LC712. Minimum ASCII Delete Sum for Two Strings</a>
 * <a href="Algorithm/DynamicProgramming/LC650TwoKeysKeyboard.md">LC650. Two Keys Keyboard</a>
+* <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
 
 
 >## 3.5 Sort
