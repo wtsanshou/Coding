@@ -440,7 +440,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC669TrimABinarySearchTree.md">LC669. Trim a Binary Search Tree</a>
- 
+* <a href="DataStructure/NonlinearStructure/Tree/BST/LC783MinimumDistanceBetweenBSTNodes.md">LC783. Minimum Distance Between BST Nodes</a> 
+
 
 >>>#### 2.2.1.3 Balanced Binary Tree
 
