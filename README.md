@@ -293,6 +293,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC725SplitLinkedListInParts.md">LC725. Split Linked List in Parts</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC147InsertionSortList.md">LC147. Insertion Sort List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC86PartitionList.md">LC86. Partition List</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC148SortList.md">LC148. Sort List</a>
 
 
 >>### 2.1.2 Stack
@@ -478,16 +479,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 # 3. Algorithm
 >## 3.1 Simulated Algorithm
 
->## 3.2 Search Algorithm
+>## 3.2 Divide and Conquer
 
->>### 3.2.1 Enumeration
-
->>### 3.2.2 DFS
-
->>### 3.2.3 BFS
-
->>### 3.2.4 Heuristic Search
-
+* <a href="DataStructure/LinearStructure/LinearList/LC148SortList.md">LC148. Sort List</a>
 
 >## 3.3 Recursion Algorithm
 
@@ -571,8 +565,15 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 3.6.2.5 Trie
 * <a href="Algorithm/Search/TreeSearch/Trie/LC677MapSumPairs.md">LC677. Map Sum Pairs</a>
 
+>>### 3.6.3 Enumeration
 
->>### 3.6.3 Hashing
+>>### 3.6.4 DFS
+
+>>### 3.6.5 BFS
+
+>>### 3.6.6 Heuristic Search
+
+>>### 3.6.7 Hashing
 
 * <a href="DataStructure/LinearStructure/Array/Count/LC697DegreeOfAnArray.md">LC697. Degree of an Array</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
