@@ -57,40 +57,40 @@ public:
 * C++2
 ```
 void reorderList(ListNode* head) {
-        if(head==NULL || head->next==NULL) return;
-        ListNode* p1=head, *p2=head->next, *head2;
-        
-        //find mid
-        while(p2!=NULL && p2->next!=NULL)
-        {
-            p1=p1->next;
-            p2=p2->next->next;
-        }
-        
-        //cut half
-        head2 = p1->next;
-        p1->next = NULL;
-        
-        //reverse right half
-        p2 = head2->next;
-        head2->next = NULL;
-        while(p2!=NULL)
-        {
-            p1 = p2->next;
-            p2->next = head2;
-            head2 = p2;
-            p2 = p1;
-        }
-        
-        //merge left half and right half
-        for(p1=head, p2 = head2; p1;)
-        {
-            head2 = p1->next;
-            p1->next = p2;
-            p1 = p1->next;
-            p2 = head2;
-        }
+    if(head==NULL || head->next==NULL) return;
+    ListNode* p1=head, *p2=head->next, *head2;
+    
+    //find mid
+    while(p2!=NULL && p2->next!=NULL)
+    {
+        p1=p1->next;
+        p2=p2->next->next;
     }
+    
+    //cut half
+    head2 = p1->next;
+    p1->next = NULL;
+    
+    //reverse right half
+    p2 = head2->next;
+    head2->next = NULL;
+    while(p2!=NULL)
+    {
+        p1 = p2->next;
+        p2->next = head2;
+        head2 = p2;
+        p2 = p1;
+    }
+    
+    //merge left half and right half
+    for(p1=head, p2 = head2; p1;)
+    {
+        head2 = p1->next;
+        p1->next = p2;
+        p1 = p1->next;
+        p2 = head2;
+    }
+}
 ```
 
 ## Explanation

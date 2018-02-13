@@ -295,6 +295,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC147InsertionSortList.md">LC147. Insertion Sort List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC148SortList.md">LC148. Sort List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC143ReorderList.md">LC143. Reorder List</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC138CopyListWithRandomPointer.md">LC138. Copy List with Random Pointer</a>
 
 
 >>### 2.1.2 Stack
@@ -355,7 +356,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.9 Count
 * <a href="DataStructure/LinearStructure/Array/Count/LC697DegreeOfAnArray.md">LC697. Degree of an Array</a>
-* <a href="DataStructure/LinearStructure/Array/Count/781RabbitsInForest.md">781. Rabbits in Forest</a>
+* <a href="DataStructure/LinearStructure/Array/Count/LC781RabbitsInForest.md">LC781. Rabbits in Forest</a>
 
 
 >>>#### 2.1.4.10 Window Slice
