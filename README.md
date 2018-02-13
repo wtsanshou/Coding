@@ -355,6 +355,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.9 Count
 * <a href="DataStructure/LinearStructure/Array/Count/LC697DegreeOfAnArray.md">LC697. Degree of an Array</a>
+* <a href="DataStructure/LinearStructure/Array/Count/781RabbitsInForest.md">781. Rabbits in Forest</a>
 
 
 >>>#### 2.1.4.10 Window Slice
