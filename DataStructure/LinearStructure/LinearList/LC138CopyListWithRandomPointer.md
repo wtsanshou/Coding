@@ -42,34 +42,34 @@ RandomListNode *copyRandomList(RandomListNode *head) {
 
 ## Explanation
 
-Step 1: create list p2, and link p2 in p1
+**Step 1:** create list p2, and link p2 in p1
 ```
 p1: 1       2       3       4       5   ...
      \    /  \    /   \    /  \    / \
       \  /    \  /     \  /    \  /   \
-p2      1       2       3       4       5
+p2      1       2       3       4       5   ...
 ```
 
-Step 2: copy random from p1 to p2
+**Step 2:** copy random from p1 to p2
 ```
 p1:         1       2       3       4       5   ...
              \    /  \    /   \    /  \    / \
               \  /    \  /     \  /    \  /   \
-p2:             1       2       3       4       5
+p2:             1       2       3       4       5   ...
                 |       |       |       |       |       
                 |       |       |       |       |
 p1->random:     1->r    2->r    3->r    4->r    5->r
 ```
 
-Step 3: Cut p1 from p2 and connect p2 list.
+**Step 3:** Cut p1 from p2 and connect p2 list.
 ```
 p1:         1       2       3       4       5   ...
 
 
-p2:             1------>2------>3------>4------>5
+p2:             1------>2------>3------>4------>5   ...
                 |       |       |       |       |       
                 |       |       |       |       |
-p1->random:     1->r    2->r    3->r    4->r    5->r
+p1->random:     1->r    2->r    3->r    4->r    5->r    ...
 ```
 
 * **worst-case time complexity:** O(n)

@@ -494,6 +494,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
 * <a href="Algorithm/Recursion/BackTracking/HrBuildingAList.md">Hr. Building A List</a>
+* <a href="Algorithm/Recursion/BackTracking/LC756PyramidTransitionMatrix.md">LC756. Pyramid Transition Matrix</a>
+
 
 >## 3.4 Greedy Algorithm
 
