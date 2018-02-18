@@ -516,6 +516,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC712MinimumASCIIDeleteSumForTwoStrings.md">LC712. Minimum ASCII Delete Sum for Two Strings</a>
 * <a href="Algorithm/DynamicProgramming/LC650TwoKeysKeyboard.md">LC650. Two Keys Keyboard</a>
 * <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
+* <a href="Algorithm/DynamicProgramming/LC740DeleteAndEarn.md">LC740. Delete and EarnLC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
 
 
 >## 3.5 Sort
