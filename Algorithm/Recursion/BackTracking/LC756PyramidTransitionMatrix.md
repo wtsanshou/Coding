@@ -1,6 +1,6 @@
 # LC756. Pyramid Transition Matrix
 
-We are stacking blocks to form a pyramid. Each block has a color which is a one letter string, like `'Z'`.
+We are stacking blocks to form a pyramid. Each block has a color which is a one letter string, like `Z`.
 
 For every block of color `C` we place not in the bottom row, we are placing it on top of a left block of color `A` and right block of color `B`. We are allowed to place the block there only if `(A, B, C)` is an allowed triple.
 
@@ -94,4 +94,4 @@ Find out all possible up layer Strings. I used back tracking to collect all poss
 With recursive idea, if there has at least one `uplayer` satisfy pyramid transition, the `bottom` is pyramid transition.
 
 * **worst-case time complexity:** O(B*(N/B)<sup>B</sup>), where B is length of `bottom`, N is the size of `allowed`.
-* **worst-case space complexity:** O(N)
+* **worst-case space complexity:** O((N/B)<sup>B</sup>)

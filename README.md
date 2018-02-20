@@ -234,6 +234,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 1.3.2.2 Permutation and Combination
 
+* <a href="Algorithm/Recursion/BackTracking/LC784LetterCasePermutation.md">LC784. Letter Case Permutation</a>
+
 >>### 1.3.3 Analytic Geometry
 
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/HrFindThePoint.md">Hr. Find the Point</a>
@@ -495,6 +497,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
 * <a href="Algorithm/Recursion/BackTracking/HrBuildingAList.md">Hr. Building A List</a>
 * <a href="Algorithm/Recursion/BackTracking/LC756PyramidTransitionMatrix.md">LC756. Pyramid Transition Matrix</a>
+* <a href="Algorithm/Recursion/BackTracking/LC784LetterCasePermutation.md">LC784. Letter Case Permutation</a>
 
 
 >## 3.4 Greedy Algorithm
@@ -516,7 +519,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC712MinimumASCIIDeleteSumForTwoStrings.md">LC712. Minimum ASCII Delete Sum for Two Strings</a>
 * <a href="Algorithm/DynamicProgramming/LC650TwoKeysKeyboard.md">LC650. Two Keys Keyboard</a>
 * <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
-* <a href="Algorithm/DynamicProgramming/LC740DeleteAndEarn.md">LC740. Delete and EarnLC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
+* <a href="Algorithm/DynamicProgramming/LC740DeleteAndEarn.md">LC740. Delete and Earn</a>
 
 
 >## 3.5 Sort
