@@ -28,6 +28,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 1.1.1.6 Articulation Point - undiGraph
 
+
+
 >>>#### 1.1.1.7 Topological Sort-AOV-Network
 
 >>>>##### 1.1.1.7.1 Depth First Search (DFS)
@@ -36,6 +38,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule I</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC684RedundantConnection.md">LC684. Redundant Connection</a>
+
 
 >>>>##### 1.1.1.7.2 Breadth First Search (BFS)  
 
