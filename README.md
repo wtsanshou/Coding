@@ -29,7 +29,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.1.1.6 Articulation Point - undiGraph
 
 
-
 >>>#### 1.1.1.7 Topological Sort-AOV-Network
 
 >>>>##### 1.1.1.7.1 Depth First Search (DFS)
@@ -481,9 +480,15 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Set/LC734SentenceSimilarity.md">LC734. Sentence Similarity</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC676ImplementMagicDictionary.md">LC676. Implement Magic Dictionary</a>
 
->>### 2.2.5 HashMap
+>>### 2.2.5 Map
 
-* <a href="DataStructure/NonlinearStructure/HashMap/LC760FindAnagramMappings.md">LC760. Find Anagram Mappings</a>
+>>>#### 2.2.5.1 HashMap
+
+* <a href="DataStructure/NonlinearStructure/Map/HashMap/LC760FindAnagramMappings.md">LC760. Find Anagram Mappings</a>
+
+>>>#### 2.2.5.2 TreeMap
+
+* <a href="Algorithm/Greedy/LC729MyCalendarI.md">LC729. My Calendar I</a>
 
 
 # 3. Algorithm
@@ -509,6 +514,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
 * <a href="Algorithm/Greedy/LC646MaximumLengthOfPairChain.md">LC646. Maximum Length of Pair Chain</a>
 * <a href="Algorithm/Greedy/LC665Non-decreasingArray.md">LC665. Non-decreasing Array</a>
+* <a href="Algorithm/Greedy/LC729MyCalendarI.md">LC729. My Calendar I</a>
 
 
 >## 3.5 Dynamic Programming (DP)

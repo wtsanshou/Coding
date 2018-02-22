@@ -59,26 +59,24 @@ class Solution {
     public int[] findRedundantConnection(int[][] edges) {
         int[] res = new int[2];
         int n = edges.length;
-        Map<Integer, List<Integer>> graph = new HashMap<>();
+        boolean[][] graph = new boolean[n+1][n+1];
         for(int[] edge : edges){
             boolean[][] visit = new boolean[n+1][n+1];
             if(isCircle(edge[0], edge[1], graph, visit))
                 res = edge;
-            if(!graph.containsKey(edge[0])) graph.put(edge[0], new ArrayList<Integer>());
-            if(!graph.containsKey(edge[1])) graph.put(edge[1], new ArrayList<Integer>());
-            graph.get(edge[0]).add(edge[1]);
-            graph.get(edge[1]).add(edge[0]);
+            graph[edge[0]][edge[1]] = true;
+            graph[edge[1]][edge[0]] = true;
         }
         return res;
     }
     
-    private boolean isCircle(int start, int end, Map<Integer, List<Integer>> graph, boolean[][] visit){
+    private boolean isCircle(int start, int end, boolean[][] graph, boolean[][] visit){
         if(start == end) return true;
-        if(visit[start][end] || !graph.containsKey(end)) return false;
+        if(visit[start][end]) return false;
         visit[start][end] = true;
         visit[end][start] = true;
-        for(int next : graph.get(end)){
-            if(isCircle(start, next, graph, visit))
+        for(int i=1; i<graph.length; ++i){
+            if(graph[end][i] && isCircle(start, i, graph, visit))
                 return true;
         }
         return false;
