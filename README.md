@@ -271,6 +271,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/Foundation/HrFillingJars.md">Hr. Filling Jars</a>
 * <a href="Mathematics/Foundation/LC628MaximumProductOfThreeNumbers.md">LC628. Maximum Product of Three Numbers</a>
 * <a href="Mathematics/Foundation/HrCuttingPaperSquares.md">Hr. Cutting Paper Squares</a>
+* <a href="Mathematics/Foundation/LC738MonotoneIncreasingDigits.md">LC738. Monotone Increasing Digits</a>
 
 
 # 2. Data Structure
