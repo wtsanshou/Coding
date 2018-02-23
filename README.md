@@ -302,6 +302,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC148SortList.md">LC148. Sort List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC143ReorderList.md">LC143. Reorder List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC138CopyListWithRandomPointer.md">LC138. Copy List with Random Pointer</a>
+* <a href="DataStructure/LinearStructure/LinearList/LC61RotateList.md">LC61. Rotate List</a>
 
 
 >>### 2.1.2 Stack
