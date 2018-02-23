@@ -74,5 +74,5 @@ ListNode* rotateRight(ListNode* head, int k) {
 
 **Note:** `k` might be larger than `len`.
 
-* **worst-case time complexity:** O(N)
+* **worst-case time complexity:** O(N), where `N` is the length of the list.
 * **worst-case space complexity:** O(1)
