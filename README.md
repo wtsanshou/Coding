@@ -542,6 +542,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
 * <a href="Algorithm/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
 * <a href="Algorithm/Sort/CodilityCountApples.md">Codility. Count Apples</a>
+* <a href="Algorithm/Sort/LC791CustomSortString.md">LC791. Custom Sort String</a>
 
 
 >>### 3.5.1 Insert Sort
