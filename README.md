@@ -155,6 +155,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Mathematics/NumberTheory/Base/HrJimAndTheJokes.md">Hr. Jim And The Jokes</a>
 * <a href="Mathematics/NumberTheory/Base/LC504Base7.md">LC504. Base 7</a>
+* <a href="Mathematics/NumberTheory/Base/LC788RotatedDigits.md">LC788. Rotated Digits</a>
+
 
 
 >>### 1.2.10 Sqrt
