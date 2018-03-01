@@ -317,6 +317,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/LC232ImplementQueueUsingStacks.md">LC232. Implement Queue using Stacks</a>
 * <a href="DataStructure/LinearStructure/Stack/LC155MinStack.md">LC155. Min Stack</a>
 * <a href="DataStructure/LinearStructure/Stack/LC394DecodeString.md">LC394. Decode String</a>
+* <a href="DataStructure/LinearStructure/Stack/CodilityFish.md">Codility. Fish</a>
 
 
 >>### 2.1.3 Queue
