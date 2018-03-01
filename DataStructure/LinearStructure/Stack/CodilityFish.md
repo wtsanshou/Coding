@@ -113,5 +113,5 @@ Using a `stack` to save all alived fishes who go up. When meet a fish who goes d
 
 Finally, return the alived going down fishes and going up fishes (stay in the `stack`).
 
-* **worst-case time complexity:** O(M*N), , where `M` is the length of the input `A`, `N` is the length of the input `B`.
-* **worst-case space complexity:** O(min(M, N)), where `M` is the length of the input `A`, `N` is the length of the input `B`.
+* **worst-case time complexity:** O(N), where `N` is the number of the fishes.
+* **worst-case space complexity:** O(N), where `N` is the number of the fishes.
