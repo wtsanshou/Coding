@@ -528,7 +528,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.5 Dynamic Programming (DP)
 
-
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
 * <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 * <a href="Algorithm/DynamicProgramming/LC638ShoppingOffers.md">LC638. Shopping Offers</a>
@@ -539,6 +538,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC650TwoKeysKeyboard.md">LC650. Two Keys Keyboard</a>
 * <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
 * <a href="Algorithm/DynamicProgramming/LC740DeleteAndEarn.md">LC740. Delete and Earn</a>
+* <a href="Algorithm/DynamicProgramming/LC718MaximumLengthOfRepeatedSubarray.md">LC718. Maximum Length of Repeated Subarray</a>
 
 
 >## 3.5 Sort
