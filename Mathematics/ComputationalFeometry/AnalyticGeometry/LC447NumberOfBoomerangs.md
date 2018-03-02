@@ -87,7 +87,7 @@ Added Boomerangs number  :    0      1        2       3       4       5   ...
 
 Therefore, the number of Boomerangs of a point `X` is the sum of the `Added Boomerangs number`. So we can use the <a href="https://en.wikipedia.org/wiki/Triangular_number">Triangular Number</a>
 
-![Triangular Number](Images/TriangularNumber.tiff)
+![Triangular Number](Images/TriangularNumber.PNG)
 
 Then, We just need to sum the Boomerangs number of all points.
 

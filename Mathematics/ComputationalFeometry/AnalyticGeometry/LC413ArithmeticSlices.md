@@ -95,7 +95,7 @@ Added number  :     0      1        2       3       4       5   ...
 
 Therefore, the number of arithmetics slices of a consecutive elements is the sum of the `Added number`. So we can use the <a href="https://en.wikipedia.org/wiki/Triangular_number">Triangular Number</a>
 
-![Triangular Number](Images/TriangularNumber.tiff)
+![Triangular Number](Images/TriangularNumber.PNG)
 
 Then, We just need to see how many group of consecutive elements in the array.
 
