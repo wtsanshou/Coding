@@ -155,7 +155,7 @@ The simplest solution is to use an array to store the link list values. Then, ge
 
 As explained in <a href="https://en.wikipedia.org/wiki/Harmonic_series_(mathematics)">Harmonic series</a>, to get the equal probability, we need to travel the array and count the target. For each target index, it has `1/count` probability to be the result.
 
-![HarmonicSeries](Images/HarmonicSeries.tiff)
+![HarmonicSeries](Images/HarmonicSeries.PNG)
 
 * **worst-case time complexity:** O(n)
 * **worst-case space complexity:** O(1)

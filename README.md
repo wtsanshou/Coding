@@ -320,7 +320,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/CodilityFish.md">Codility. Fish</a>
 * <a href="DataStructure/LinearStructure/Stack/CodilityNesting.md">CodilityNesting</a>
 * <a href="DataStructure/LinearStructure/Stack/CodilityStoneWall.md">Codility. StoneWall</a>
-
+* <a href="DataStructure/LinearStructure/Stack/LC385MiniParser.md">LC385. Mini Parser</a>
 
 >>### 2.1.3 Queue
 

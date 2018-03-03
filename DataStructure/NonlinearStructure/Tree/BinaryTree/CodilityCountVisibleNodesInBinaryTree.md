@@ -4,10 +4,10 @@
 
 ## Question
 
-![Codility. Count Visible Nodes in  Binary Tree1](Images/CountVisibleNodesInBT1.tiff)
-![Codility. Count Visible Nodes in  Binary Tree2](Images/CountVisibleNodesInBT2.tiff)
-![Codility. Count Visible Nodes in  Binary Tree3](Images/CountVisibleNodesInBT3.tiff)
-![Codility. Count Visible Nodes in  Binary Tree4](Images/CountVisibleNodesInBT4.tiff)
+![Codility. Count Visible Nodes in  Binary Tree1](Images/CountVisibleNodesInBT1.PNG)
+![Codility. Count Visible Nodes in  Binary Tree2](Images/CountVisibleNodesInBT2.PNG)
+![Codility. Count Visible Nodes in  Binary Tree3](Images/CountVisibleNodesInBT3.PNG)
+![Codility. Count Visible Nodes in  Binary Tree4](Images/CountVisibleNodesInBT4.PNG)
 
 ## Solution
 
