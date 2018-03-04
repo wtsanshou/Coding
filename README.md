@@ -322,6 +322,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/CodilityStoneWall.md">Codility. StoneWall</a>
 * <a href="DataStructure/LinearStructure/Stack/LC385MiniParser.md">LC385. Mini Parser</a>
 * <a href="DataStructure/LinearStructure/Stack/LC456-132Pattern.md">LC456. 132 Pattern</a>
+* <a href="DataStructure/LinearStructure/Stack/LC150EvaluateReversePolishNotation.md">LC150. Evaluate Reverse Polish Notation</a>
 
 
 >>### 2.1.3 Queue
@@ -355,6 +356,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>>>##### 2.1.4.5.2 Uncontinuous
+
+* <a href="DataStructure/LinearStructure/Stack/LC456-132Pattern.md">LC456. 132 Pattern</a>
 
 >>>#### 2.1.4.6 Moving elements
 
@@ -430,6 +433,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.11 IP
 
 >>>#### 2.1.5.12 Operation
+
+* <a href="DataStructure/LinearStructure/Stack/LC150EvaluateReversePolishNotation.md">LC150. Evaluate Reverse Polish Notation</a>
 
 >>>#### 2.1.5.13 Conversion
 
