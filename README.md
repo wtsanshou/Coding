@@ -550,6 +550,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
 * <a href="Algorithm/DynamicProgramming/LC740DeleteAndEarn.md">LC740. Delete and Earn</a>
 * <a href="Algorithm/DynamicProgramming/LC718MaximumLengthOfRepeatedSubarray.md">LC718. Maximum Length of Repeated Subarray</a>
+* <a href="Algorithm/DynamicProgramming/LC688KnightProbabilityInChessboard.md">LC688. Knight Probability in Chessboard</a>
 
 
 >## 3.5 Sort
