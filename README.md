@@ -436,6 +436,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.12 Operation
 
 * <a href="DataStructure/LinearStructure/Stack/LC150EvaluateReversePolishNotation.md">LC150. Evaluate Reverse Polish Notation</a>
+* <a href="DataStructure/LinearStructure/String/Operation/LC640SolveThe Equation.md">LC640. Solve the Equation</a> 
+
 
 >>>#### 2.1.5.13 Conversion
 
