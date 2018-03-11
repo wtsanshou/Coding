@@ -325,6 +325,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/LC150EvaluateReversePolishNotation.md">LC150. Evaluate Reverse Polish Notation</a>
 * <a href="DataStructure/LinearStructure/Stack/LC402RemoveKDigits.md">LC402. Remove K Digits</a>
 
+ 
 
 >>### 2.1.3 Queue
 
@@ -334,6 +335,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Queue/Queue/LC637AverageOfLevelsInBinaryTree.md">LC637. Average of Levels in Binary Tree</a>
 
 >>>#### 2.1.3.2 Priority Queue
+* <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC347TopKFrequentElements.md">LC347. Top K Frequent Elements</a>
+
 
 >>### 2.1.4 Array
 
@@ -436,7 +439,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.12 Operation
 
 * <a href="DataStructure/LinearStructure/Stack/LC150EvaluateReversePolishNotation.md">LC150. Evaluate Reverse Polish Notation</a>
-* <a href="DataStructure/LinearStructure/String/Operation/LC640SolveThe Equation.md">LC640. Solve the Equation</a> 
+* <a href="DataStructure/LinearStructure/String/Operation/LC640SolveTheEquation.md">LC640. Solve the Equation</a> 
 
 
 >>>#### 2.1.5.13 Conversion
@@ -453,6 +456,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.2.1.1 Binary Tree
 
+* <a href="DataStructure/LinearStructure/Queue/Queue/LC637AverageOfLevelsInBinaryTree.md">LC637. Average of Levels in Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC617MergeTwoBinaryTrees.md">LC617. Merge Two Binary Trees</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC623AddOneRowToTree.md">LC623. Add One Row To Tree</a>
@@ -581,6 +585,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 3.5.6 Bucket Sort
 
+* <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC347TopKFrequentElements.md">LC347. Top K Frequent Elements</a>
 * <a href="Algorithm/Sort/BucketSort/CodilityMissingInteger.md">Codility. Missing Integer</a>
 * <a href="Algorithm/Sort/BucketSort/LC739DailyTemperatures.md">LC739. Daily Temperatures</a>
 
