@@ -60,6 +60,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrNCrTable.md">Hr. <sup>n</sup>C<sub>r</sub> Table</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrKCandyStore.md">Hr. K Candy Store</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/CodilityCountInstances.md">Codility. Count Instances</a>
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/LC795NumberOfSubarraysWithBoundedMaximum.md">LC795. Number of Subarrays with Bounded Maximum</a>
 
 
 >## 1.2 Number Theory
