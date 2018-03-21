@@ -23,7 +23,7 @@ If no valid conversion could be performed, a zero value is returned. If the corr
 
 ## Solutions
 * C++1
-```bash
+```
 int myAtoi(string str) {
         long res = 0;
         int sign = 1;
@@ -44,7 +44,7 @@ int myAtoi(string str) {
 ```
 
 * Java1
-```bash
+```
 public int myAtoi(String str) {
         if(str.isEmpty()) return 0;
         int res=0, sign=1;
