@@ -72,5 +72,5 @@ Traverse from left side of the number, if found the largest digit in the right s
 1. `swap two digits at most once`
 2. Should swap the most right side largest digit.
 
-* **worst-case time complexity:** O(N<sup>2</sup>)
-* **worst-case space complexity:** O(N)
+* **worst-case time complexity:** **O(N<sup>2</sup>)**, where `N` is the length of the number.
+* **worst-case space complexity:** **O(N)**, where `N` is the length of the number.
