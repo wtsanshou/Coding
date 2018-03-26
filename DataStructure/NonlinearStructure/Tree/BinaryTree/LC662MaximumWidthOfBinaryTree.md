@@ -172,5 +172,5 @@ Finally, check each layer, find the maximum width of the binary tree.
 4. The maximum width nodes are all in the left or all in the right of the tree. We need add `1` to the result.
 5. `Answer will in the range of 32-bit signed integer` does **not** mean that the depth of the tree is limited.
 
-* **worst-case time complexity:** O(N),  where N is the number of nodes in the tree.
-* **worst-case space complexity:** O(H), where `H` is the height of the tree. Our recursive call stack could be up to H layers deep.
+* **worst-case time complexity:** `O(N)`,  where `N` is the number of nodes in the tree.
+* **worst-case space complexity:** `O(H)`, where `H` is the height of the tree. Our recursive call stack could be up to `H` layers deep.
