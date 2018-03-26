@@ -68,5 +68,5 @@ public int[] numberOfLines(int[] widths, String S) {
 
 **Note:** `if writing a letter would cause the width of the line to exceed 100 units, it is written on the next line`
 
-* **worst-case time complexity:** `O(N)`, `N` is the length the String `S.
+* **worst-case time complexity:** `O(N)`, `N` is the length the String `S`.
 * **worst-case space complexity:** `O(1)`
