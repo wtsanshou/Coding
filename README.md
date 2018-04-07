@@ -348,7 +348,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.1 Rotation
 
 * <a href="DataStructure/LinearStructure/Array/Rotation/LC796RotateString.md">LC796. Rotate String</a>
-
+ 
 
 >>>#### 2.1.4.2 Duplicate
 
@@ -371,7 +371,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/Stack/LC456-132Pattern.md">LC456. 132 Pattern</a>
 
->>>#### 2.1.4.6 Moving elements
+>>>#### 2.1.4.6 Move elements
+
+* <a href="DataStructure/LinearStructure/Array/MoveElements/LC27RemoveElement.md">LC27. Remove Element</a>
+
 
 >>>#### 2.1.4.7 Traversal
 
