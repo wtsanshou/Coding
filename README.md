@@ -484,6 +484,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC117PopulatingNextRightPointersInEachNodeII.md">LC117. Populating Next Right Pointers in Each Node II</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC654MaximumBinaryTree.md">LC654. Maximum Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC662MaximumWidthOfBinaryTree.md">LC662. Maximum Width of Binary Tree</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC814BinaryTreePruning.md">LC814. Binary Tree Pruning</a>
 
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
