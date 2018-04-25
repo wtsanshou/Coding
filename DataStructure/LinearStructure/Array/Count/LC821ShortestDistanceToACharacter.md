@@ -1,0 +1,68 @@
+# LC821. Shortest Distance to a Character
+
+### LeetCode
+
+## Question
+
+Given a string S and a character C, return an array of integers representing the shortest distance from the character C in the string.
+
+**Example 1:**
+```
+Input: S = "loveleetcode", C = 'e'
+Output: [3, 2, 1, 0, 1, 0, 0, 1, 2, 2, 1, 0]
+```
+
+**Note:**
+
+* S string length is in [1, 10000].
+* C is a single character, and guaranteed to be in string S.
+* All letters in S and C are lowercase.
+
+## Solutions
+
+* Java
+```
+class Solution {
+    public int[] shortestToChar(String S, char C) {
+        int n = S.length();
+        char[] str = S.toCharArray();
+        int[] result = new int[n];
+        Arrays.fill(result, 10000);
+        for(int i=0; i<n; ++i){
+            if(str[i] == C){
+                result[i] = 0;
+                checkLeft(str, i, result);
+                checkRight(str, i, result);
+            }
+        }
+        return result;
+    }
+    
+    private void checkLeft(char[] str, int target, int[] result){
+        for(int i=target-1; i>=0; --i){
+            if(str[i] == str[target]) return;
+            int distance = target - i;
+            if(distance < result[i])
+                result[i] = distance;
+            else return;
+        }
+    }
+    
+    private void checkRight(char[] str, int target, int[] result){
+        for(int i=target+1; i<str.length; ++i){
+            if(str[i] == str[target]) return;
+            int distance = i - target;
+            if(distance < result[i])
+                result[i] = distance;
+            else return;
+        }
+    }
+}
+```
+
+## Explanation
+
+Traversal the String, when found a target Character, check left and right side of it, find out the Shortest Distance to the Character. Stop when found a shorter distance.
+
+* **worst-case time complexity:** `O(n)`, where `n` is the length of the String `S`.
+* **worst-case space complexity:** `O(n)`, where `n` is the length of the String `S`.
