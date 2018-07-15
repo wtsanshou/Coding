@@ -206,6 +206,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC661ImageSmoother.md">LC661. Image Smoother</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC766ToeplitzMatrix.md">LC766. Toeplitz Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC807MaxIncreaseToKeepCitySkyline.md">LC807. Max Increase to Keep City Skyline</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC832FlippingAnImage.md">LC832. Flipping an Image</a>
 
 
 >>>#### 1.3.1.2 Linear Equations
@@ -464,7 +465,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/LC648ReplaceWords.md">LC648. Replace Words</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/CodilityConvertDecimalToHexspeak.md">Codility Convert Decimal To Hexspeak</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC670MaximumSwap.md">LC670. Maximum Swap</a>
-
+* <a href="DataStructure/LinearStructure/String/Conversion/LC709ToLowerCase.md">LC709. To Lower Case</a>
 
 >>### 2.1.6 General List
 
