@@ -105,6 +105,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC693BinaryNumberWithAlternatingBits.md">LC693. Binary Number with Alternating Bits</a>
 * <a href="Mathematics/NumberTheory/Bit/LC7171-bitAnd2-bitCharacters.md">LC717. 1-bit and 2-bit Characters</a>
 * <a href="Mathematics/NumberTheory/Bit/LC762PrimeNumberOfSetBitsInBinaryRepresentatio.md">LC762. Prime Number of Set Bits in Binary Representation</a>
+* <a href="Mathematics/NumberTheory/Bit/LC868BinaryGap.md">LC868. Binary Gap</a>
 
 
 
