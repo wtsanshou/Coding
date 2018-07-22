@@ -105,6 +105,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC693BinaryNumberWithAlternatingBits.md">LC693. Binary Number with Alternating Bits</a>
 * <a href="Mathematics/NumberTheory/Bit/LC7171-bitAnd2-bitCharacters.md">LC717. 1-bit and 2-bit Characters</a>
 * <a href="Mathematics/NumberTheory/Bit/LC762PrimeNumberOfSetBitsInBinaryRepresentatio.md">LC762. Prime Number of Set Bits in Binary Representation</a>
+* <a href="Mathematics/NumberTheory/Bit/LC868BinaryGap.md">LC868. Binary Gap</a>
 
 
 
@@ -207,6 +208,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC766ToeplitzMatrix.md">LC766. Toeplitz Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC807MaxIncreaseToKeepCitySkyline.md">LC807. Max Increase to Keep City Skyline</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC832FlippingAnImage.md">LC832. Flipping an Image</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/# LC867TransposeMatrix.md"># LC867. Transpose Matrix</a>
+
 
 
 >>>#### 1.3.1.2 Linear Equations
@@ -468,6 +471,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/CodilityConvertDecimalToHexspeak.md">Codility Convert Decimal To Hexspeak</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC670MaximumSwap.md">LC670. Maximum Swap</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC709ToLowerCase.md">LC709. To Lower Case</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC824GoatLatin.md">LC824. Goat Latin</a>
 
 >>### 2.1.6 General List
 
