@@ -3,7 +3,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 **From:** LeetCode, Codility, HackerRank
 
-**Languages:** C++, Java, Python, C#
+**Languages:** C++, Java, Python, C#, Scala
 
 ## Table of Contents
 
@@ -495,6 +495,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC654MaximumBinaryTree.md">LC654. Maximum Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC662MaximumWidthOfBinaryTree.md">LC662. Maximum Width of Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC814BinaryTreePruning.md">LC814. Binary Tree Pruning</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC872Leaf-SimilarTrees.md">LC872. Leaf-Similar Trees</a>
 
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
