@@ -83,6 +83,37 @@ public:
 };
 ```
 
+* Scala1
+```
+object Solution {
+    def sortList(head: ListNode): ListNode = {
+        if(head == null || head.next == null) return head
+        var slow=head
+        var fast=head
+        while(fast.next!=null && fast.next.next!=null){
+            slow = slow.next
+            fast = fast.next.next
+        }
+        var right = slow.next
+        slow.next = null
+        merge(sortList(head), sortList(right))
+    }
+    
+    def merge(left: ListNode, right: ListNode): ListNode = {
+        if(left==null) return right
+        if(right==null) return left
+        if(left.x < right.x) {
+            left.next = merge(left.next, right)
+            left
+         }
+        else{
+            right.next = merge(left, right.next)
+            right
+        } 
+    }
+}
+```
+
 ## Explanation
 
 **Solution 1** 

@@ -258,6 +258,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC223RectangleArea.md">LC223. Rectangle Area</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC593ValidSquare.md">LC593. Valid Square</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC789EscapeTheGhosts.md">LC789. Escape The Ghosts</a>
+* <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC812LargestTriangleArea.md">LC812. Largest Triangle Area</a>
 
 
 >>### 1.3.4 Advanced Mathematics
