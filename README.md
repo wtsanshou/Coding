@@ -521,6 +521,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.2.1.8 Normal Tree
 * <a href="DataStructure/NonlinearStructure/Tree/NormalTree/LC559MaximumDepthOfN-aryTree.md">LC559. Maximum Depth of N-ary Tree</a> 
+* <a href="DataStructure/NonlinearStructure/Tree/NormalTree/LC590N-aryTreePostorderTraversal.md">LC590. N-ary Tree Postorder Traversal</a> 
 
 
 >>### 2.2.2 Heap
