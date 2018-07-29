@@ -437,7 +437,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC771JewelsAndStones.md">LC771. Jewels and Stones</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC806NumberOfLinesToWriteString.md">LC806. Number of Lines To Write String</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC819MostCommonWord.md">LC819. Most Common Word</a>
-
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC830PositionsOfLargeGroups.md">LC830. Positions of Large Groups</a>
 
 >>>#### 2.1.5.7 Palindrom
 
