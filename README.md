@@ -208,8 +208,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC766ToeplitzMatrix.md">LC766. Toeplitz Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC807MaxIncreaseToKeepCitySkyline.md">LC807. Max Increase to Keep City Skyline</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC832FlippingAnImage.md">LC832. Flipping an Image</a>
-* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/# LC867TransposeMatrix.md"># LC867. Transpose Matrix</a>
-
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC867TransposeMatrix.md">LC867. Transpose Matrix</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC887ProjectionAreaOf3DShapes.md">LC887. Projection Area of 3D Shapes</a>
 
 
 >>>#### 1.3.1.2 Linear Equations
