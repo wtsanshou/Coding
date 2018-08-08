@@ -10,7 +10,7 @@ The maximum depth is the number of nodes along the longest path from the root no
 
 For example, given a 3-ary tree:
 
-![LC559. Maximum Depth of N-ary Tree](images/LC559MaximumDepthOfN-aryTree.png)
+![LC559. Maximum Depth of N-ary Tree](Images/LC559MaximumDepthOfN-aryTree.png)
  
 We should return its max depth, which is 3.
 
