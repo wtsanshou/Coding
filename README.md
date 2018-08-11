@@ -428,6 +428,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.4 Matching
 
 * <a href="DataStructure/LinearStructure/String/Matching/LC616AddBoldTagInString.md">LC616. Add Bold Tag In String</a>
+* <a href="DataStructure/LinearStructure/String/Matching/LC844BackspaceStringCompare.md">LC844. Backspace String Compare</a>
+
+
 
 >>>#### 2.1.5.5 Counting Letters
 
