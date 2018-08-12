@@ -408,6 +408,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Count/LC697DegreeOfAnArray.md">LC697. Degree of an Array</a>
 * <a href="DataStructure/LinearStructure/Array/Count/LC781RabbitsInForest.md">LC781. Rabbits in Forest</a>
 * <a href="DataStructure/LinearStructure/Array/Count/LC821ShortestDistanceToACharacter.md">LC821. Shortest Distance to a Character</a>
+* <a href="DataStructure/LinearStructure/Array/Count/LC849MaximizeDistanceToClosestPerson.md">LC849. Maximize Distance to Closest Person</a>
+
+
 
 >>>#### 2.1.4.10 Window Slice
 
