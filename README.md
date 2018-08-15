@@ -152,6 +152,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Power/LC342PowerOfFour.md">LC342. Power of Four</a>
 * <a href="Mathematics/NumberTheory/Power/LC372SuperPow.md">LC372. Super Pow</a>
 * <a href="Mathematics/NumberTheory/Power/LC50PowXN.md">LC50. Pow(x, n)</a>
+* <a href="Mathematics/NumberTheory/Power/LC458PoorPigs.md">LC458. Poor Pigs</a>
+
 
 
 >>### 1.2.9 Base
@@ -210,6 +212,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC832FlippingAnImage.md">LC832. Flipping an Image</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC867TransposeMatrix.md">LC867. Transpose Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC887ProjectionAreaOf3DShapes.md">LC887. Projection Area of 3D Shapes</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC840MagicSquaresInGrid.md">LC840. Magic Squares In Grid</a>
+
 
 
 >>>#### 1.3.1.2 Linear Equations
@@ -259,6 +263,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC593ValidSquare.md">LC593. Valid Square</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC789EscapeTheGhosts.md">LC789. Escape The Ghosts</a>
 * <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC812LargestTriangleArea.md">LC812. Largest Triangle Area</a>
+* <a href="Mathematics/ComputationalFeometry/AnalyticGeometry/LC836RectangleOverlap.md">LC836. Rectangle Overlap</a>
+
 
 
 >>### 1.3.4 Advanced Mathematics
@@ -360,6 +366,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.2 Duplicate
 
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC645SetMismatch.md">LC645. Set Mismatch</a>
+* <a href="DataStructure/LinearStructure/Array/Duplicate/LC888UncommonWordsFromTwoSentences.md">LC888. Uncommon Words from Two Sentences</a>
+
 
 >>>#### 2.1.4.3 Permutations
 
@@ -404,6 +412,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Count/LC697DegreeOfAnArray.md">LC697. Degree of an Array</a>
 * <a href="DataStructure/LinearStructure/Array/Count/LC781RabbitsInForest.md">LC781. Rabbits in Forest</a>
 * <a href="DataStructure/LinearStructure/Array/Count/LC821ShortestDistanceToACharacter.md">LC821. Shortest Distance to a Character</a>
+* <a href="DataStructure/LinearStructure/Array/Count/LC849MaximizeDistanceToClosestPerson.md">LC849. Maximize Distance to Closest Person</a>
+
+
 
 >>>#### 2.1.4.10 Window Slice
 
@@ -428,6 +439,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.4 Matching
 
 * <a href="DataStructure/LinearStructure/String/Matching/LC616AddBoldTagInString.md">LC616. Add Bold Tag In String</a>
+* <a href="DataStructure/LinearStructure/String/Matching/LC844BackspaceStringCompare.md">LC844. Backspace String Compare</a>
+
+
 
 >>>#### 2.1.5.5 Counting Letters
 
