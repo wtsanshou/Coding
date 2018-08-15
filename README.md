@@ -152,6 +152,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Power/LC342PowerOfFour.md">LC342. Power of Four</a>
 * <a href="Mathematics/NumberTheory/Power/LC372SuperPow.md">LC372. Super Pow</a>
 * <a href="Mathematics/NumberTheory/Power/LC50PowXN.md">LC50. Pow(x, n)</a>
+* <a href="Mathematics/NumberTheory/Power/LC458PoorPigs.md">LC458. Poor Pigs</a>
+
 
 
 >>### 1.2.9 Base
