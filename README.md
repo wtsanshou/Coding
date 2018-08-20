@@ -398,7 +398,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC747LargestNumberGreaterThanTwiceOfOthers.md">LC747. Largest Number Greater Than Twice of Others</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC852PeakIndexInAMountainArray.md">LC852. Peak Index in a Mountain Array</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC860LemonadeChange.md">LC860. Lemonade Change</a>
-
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC888FairCandySwap.md">LC888. Fair Candy Swap</a>
 
 
 >>>#### 2.1.4.8 Prefix Sums
