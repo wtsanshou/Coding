@@ -653,6 +653,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/BinarySearch/LC611ValidTriangleNumber.md">LC611. Valid Triangle Number</a>
 * <a href="Algorithm/Search/BinarySearch/LC744FindSmallestLetterGreaterThanTarget.md">LC744. Find Smallest Letter Greater Than Target</a>
 * <a href="Algorithm/Search/BinarySearch/LC540SingleElementInASortedArray.md">LC540. Single Element in a Sorted Array</a>
+* <a href="Algorithm/Search/BinarySearch/LC704BinarySearch.md">LC704. Binary Search</a>
 
 
 >>### 3.6.2 Tree Search
