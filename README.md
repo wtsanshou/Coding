@@ -398,7 +398,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC747LargestNumberGreaterThanTwiceOfOthers.md">LC747. Largest Number Greater Than Twice of Others</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC852PeakIndexInAMountainArray.md">LC852. Peak Index in a Mountain Array</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC860LemonadeChange.md">LC860. Lemonade Change</a>
-
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC888FairCandySwap.md">LC888. Fair Candy Swap</a>
 
 
 >>>#### 2.1.4.8 Prefix Sums
@@ -472,6 +472,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/SubString/LC696CountBinarySubstrings.md">LC696. Count Binary Substrings</a>
 * <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
 * <a href="DataStructure/LinearStructure/String/SubString/LC686RepeatedStringMatch.md">LC686. Repeated String Match</a> 
+* <a href="DataStructure/LinearStructure/String/SubString/LC893GroupsOfSpecial-EquivalentStrings.md">LC893. Groups of Special-Equivalent Strings</a> 
+
 
 
 >>>#### 2.1.5.11 IP
@@ -621,6 +623,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.5 Sort
 
+* <a href="DataStructure/LinearStructure/String/SubString/LC893GroupsOfSpecial-EquivalentStrings.md">LC893. Groups of Special-Equivalent Strings</a> 
 * <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
 * <a href="Algorithm/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
 * <a href="Algorithm/Sort/CodilityCountApples.md">Codility. Count Apples</a>
@@ -657,6 +660,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/BinarySearch/LC611ValidTriangleNumber.md">LC611. Valid Triangle Number</a>
 * <a href="Algorithm/Search/BinarySearch/LC744FindSmallestLetterGreaterThanTarget.md">LC744. Find Smallest Letter Greater Than Target</a>
 * <a href="Algorithm/Search/BinarySearch/LC540SingleElementInASortedArray.md">LC540. Single Element in a Sorted Array</a>
+* <a href="Algorithm/Search/BinarySearch/LC704BinarySearch.md">LC704. Binary Search</a>
 
 
 >>### 3.6.2 Tree Search
