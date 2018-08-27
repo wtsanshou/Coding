@@ -213,7 +213,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC867TransposeMatrix.md">LC867. Transpose Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC887ProjectionAreaOf3DShapes.md">LC887. Projection Area of 3D Shapes</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC840MagicSquaresInGrid.md">LC840. Magic Squares In Grid</a>
-
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC892SurfaceAreaOf3DShapes.md">LC892. Surface Area of 3D Shapes</a>
 
 
 >>>#### 1.3.1.2 Linear Equations
