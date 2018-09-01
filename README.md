@@ -495,6 +495,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/LC670MaximumSwap.md">LC670. Maximum Swap</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC709ToLowerCase.md">LC709. To Lower Case</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC824GoatLatin.md">LC824. Goat Latin</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC859BuddyStrings.md">LC859. Buddy Strings</a>
+
 
 >>### 2.1.6 General List
 
