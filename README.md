@@ -399,6 +399,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC852PeakIndexInAMountainArray.md">LC852. Peak Index in a Mountain Array</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC860LemonadeChange.md">LC860. Lemonade Change</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC888FairCandySwap.md">LC888. Fair Candy Swap</a>
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC66PlusOne.md">LC66. Plus One</a>
 
 
 >>>#### 2.1.4.8 Prefix Sums
@@ -561,6 +562,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Set/LC734SentenceSimilarity.md">LC734. Sentence Similarity</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC676ImplementMagicDictionary.md">LC676. Implement Magic Dictionary</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC804UniqueMorseCodeWords.md">LC804. Unique Morse Code Words</a>
+* <a href="DataStructure/NonlinearStructure/Set/LC705DesignHashSet.md">LC705. Design HashSet</a>
 
 
 >>### 2.2.5 Map
@@ -569,6 +571,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC760FindAnagramMappings.md">LC760. Find Anagram Mappings</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC811SubdomainVisitCount.md">LC811. Subdomain Visit Count</a>
+* <a href="DataStructure/NonlinearStructure/Map/HashMap/LC706DesignHashMap.md">LC706. Design HashMap</a>
 
 
 >>>#### 2.2.5.2 TreeMap
