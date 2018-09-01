@@ -354,6 +354,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC347TopKFrequentElements.md">LC347. Top K Frequent Elements</a>
 * <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC407TrappingRainWaterII.md">LC407. Trapping Rain Water II</a>
 * <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC373FindKPairsWithSmallestSums.md">LC373. Find K Pairs with Smallest Sums</a>
+* <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC703KthLargestElementInAStream.md">LC703. Kth Largest Element in a Stream</a>
+
 
 
 >>### 2.1.4 Array
