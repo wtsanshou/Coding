@@ -522,6 +522,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC662MaximumWidthOfBinaryTree.md">LC662. Maximum Width of Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC814BinaryTreePruning.md">LC814. Binary Tree Pruning</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC872Leaf-SimilarTrees.md">LC872. Leaf-Similar Trees</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC872Leaf-LC897IncreasingOrderSearchTree.md">LC897. Increasing Order Search Tree</a>
 
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
