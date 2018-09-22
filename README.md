@@ -392,6 +392,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.6 Move elements
 
 * <a href="DataStructure/LinearStructure/Array/MoveElements/LC27RemoveElement.md">LC27. Remove Element</a>
+* <a href="DataStructure/LinearStructure/Array/MoveElements/LC905SortArrayByParity.md">LC905. Sort Array By Parity</a>
 
 
 >>>#### 2.1.4.7 Traversal
