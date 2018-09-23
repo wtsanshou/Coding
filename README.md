@@ -184,6 +184,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
 * <a href="Mathematics/NumberTheory/OddAndEven/LC390EliminationGame.md">LC390. Elimination Game</a>
 
+>>### 1.2.12 Max and Min
+* <a href="Mathematics/NumberTheory/MaxMin/LC908SmallestRangeI.md">LC908. Smallest Range I</a>
+
 
 >## 1.3 Computational Geometry
 
@@ -214,6 +217,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC887ProjectionAreaOf3DShapes.md">LC887. Projection Area of 3D Shapes</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC840MagicSquaresInGrid.md">LC840. Magic Squares In Grid</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC892SurfaceAreaOf3DShapes.md">LC892. Surface Area of 3D Shapes</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC861ScoreAfterFlippingMatrix.md">LC861. Score After Flipping Matrix</a>
 
 
 >>>#### 1.3.1.2 Linear Equations
@@ -354,6 +358,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC347TopKFrequentElements.md">LC347. Top K Frequent Elements</a>
 * <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC407TrappingRainWaterII.md">LC407. Trapping Rain Water II</a>
 * <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC373FindKPairsWithSmallestSums.md">LC373. Find K Pairs with Smallest Sums</a>
+* <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC703KthLargestElementInAStream.md">LC703. Kth Largest Element in a Stream</a>
+
 
 
 >>### 2.1.4 Array
@@ -389,6 +395,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.6 Move elements
 
 * <a href="DataStructure/LinearStructure/Array/MoveElements/LC27RemoveElement.md">LC27. Remove Element</a>
+* <a href="DataStructure/LinearStructure/Array/MoveElements/LC905SortArrayByParity.md">LC905. Sort Array By Parity</a>
 
 
 >>>#### 2.1.4.7 Traversal
@@ -400,6 +407,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC860LemonadeChange.md">LC860. Lemonade Change</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC888FairCandySwap.md">LC888. Fair Candy Swap</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC66PlusOne.md">LC66. Plus One</a>
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC896MonotonicArray.md">LC896. Monotonic Array</a>
 
 
 >>>#### 2.1.4.8 Prefix Sums
@@ -441,7 +449,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/String/Matching/LC616AddBoldTagInString.md">LC616. Add Bold Tag In String</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC844BackspaceStringCompare.md">LC844. Backspace String Compare</a>
-
+* <a href="DataStructure/LinearStructure/String/Matching/LC890FindAndReplacePattern.md">LC890. Find and Replace Pattern</a>
 
 
 >>>#### 2.1.5.5 Counting Letters
@@ -493,6 +501,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/LC670MaximumSwap.md">LC670. Maximum Swap</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC709ToLowerCase.md">LC709. To Lower Case</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC824GoatLatin.md">LC824. Goat Latin</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC859BuddyStrings.md">LC859. Buddy Strings</a>
+
 
 >>### 2.1.6 General List
 
@@ -517,6 +527,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC662MaximumWidthOfBinaryTree.md">LC662. Maximum Width of Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC814BinaryTreePruning.md">LC814. Binary Tree Pruning</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC872Leaf-SimilarTrees.md">LC872. Leaf-Similar Trees</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC897IncreasingOrderSearchTree.md">LC897. Increasing Order Search Tree</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC894AllPossibleFullBinaryTrees.md">LC894. All Possible Full Binary Trees</a>
 
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)

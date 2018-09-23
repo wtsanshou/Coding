@@ -69,9 +69,7 @@ class MyHashMap {
 
 ## Explanation
 
-Add 1 to each digit from right to left to the digit is less than `9`.
-
-Corner case: all digits are `9`.
+Using and array to hash.
 
 * **worst-case time complexity:** O(1)
 * **worst-case space complexity:** O(n), n is 1000001.
