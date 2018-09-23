@@ -184,6 +184,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
 * <a href="Mathematics/NumberTheory/OddAndEven/LC390EliminationGame.md">LC390. Elimination Game</a>
 
+>>### 1.2.12 Max and Min
+* <a href="Mathematics/NumberTheory/MaxMin/LC908SmallestRangeI.md">LC908. Smallest Range I</a>
+
 
 >## 1.3 Computational Geometry
 
