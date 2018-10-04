@@ -118,6 +118,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/GCD/CodilityChocolatesByNumbers.md">Codility. ChocolatesByNumbers</a>
 * <a href="Mathematics/NumberTheory/GCD/CodilityCommonPrimeDivisors.md">Codility. Common Prime Divisors</a>
 * <a href="Mathematics/NumberTheory/GCD/LC365WaterAndJugProblem.md">LC365. Water and Jug Problem</a>
+* <a href="Mathematics/NumberTheory/GCD/LC914XOfAKindInADeckOfCards.md">LC914. X of a Kind in a Deck of Cards</a>
 
 
 >>### 1.2.4 Least Common Demominator (LCD)
@@ -202,6 +203,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC566ReshapeTheMatrix.md">LC566. Reshape the Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC54SpiralMatrix.md">LC54. Spiral Matrix</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC885SpiralMatrixIII.md">LC885. Spiral Matrix III</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC130SurroundedRegions.md">LC130. Surrounded Regions</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC598RangeAdditionII.md">LC598. Range Addition II</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/HrMatrixTracing.md">Hr. Matrix Tracing</a>
@@ -218,6 +220,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC840MagicSquaresInGrid.md">LC840. Magic Squares In Grid</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC892SurfaceAreaOf3DShapes.md">LC892. Surface Area of 3D Shapes</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC861ScoreAfterFlippingMatrix.md">LC861. Score After Flipping Matrix</a>
+
 
 
 >>>#### 1.3.1.2 Linear Equations
@@ -537,7 +540,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC669TrimABinarySearchTree.md">LC669. Trim a Binary Search Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC783MinimumDistanceBetweenBSTNodes.md">LC783. Minimum Distance Between BST Nodes</a> 
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC700SearchInABinarySearchTree.md">LC700. Search in a Binary Search Tree</a> 
-
+* <a href="DataStructure/NonlinearStructure/Tree/BST/LC701InsertIntoABinarySearchTree.md">LC701. Insert into a Binary Search Tree</a> 
 
 >>>#### 2.2.1.3 Balanced Binary Tree
 
