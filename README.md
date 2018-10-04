@@ -538,7 +538,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC669TrimABinarySearchTree.md">LC669. Trim a Binary Search Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC783MinimumDistanceBetweenBSTNodes.md">LC783. Minimum Distance Between BST Nodes</a> 
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC700SearchInABinarySearchTree.md">LC700. Search in a Binary Search Tree</a> 
-
+* <a href="DataStructure/NonlinearStructure/Tree/BST/LC701InsertIntoABinarySearchTree.md">LC701. Insert into a Binary Search Tree</a> 
 
 >>>#### 2.2.1.3 Balanced Binary Tree
 
