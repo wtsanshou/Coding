@@ -479,9 +479,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
 
 
-
-
 >>>#### 2.1.5.8 Parentheses
+
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC921MinimumAddToMakeParenthesesValid.md">LC921. Minimum Add to Make Parentheses Valid</a>
+
 
 >>>#### 2.1.5.9 Reverse
 * <a href="DataStructure/LinearStructure/String/Reverse/LC917ReverseOnlyLetters.md">LC917. Reverse Only Letters</a>
