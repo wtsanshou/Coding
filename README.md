@@ -444,6 +444,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Interval/LC667BeautifulArrangementII.md">LC667. Beautiful Arrangement II</a>
 * <a href="DataStructure/LinearStructure/Array/Interval/LC763PartitionLabels.md">LC763. Partition Labels</a>
 
+>>>#### 2.1.4.12 Multiple Array
+
+* <a href="DataStructure/LinearStructure/Array/MultipleArray/118PascalsTriangle.md">118. Pascal's Triangle</a>
+
+
 
 >>### 2.1.5 String
 
