@@ -16,6 +16,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/GraphTraversal/LC399EvaluateDivision.md">LC399. Evaluate Division</a>
 
+
+
 >>>#### 1.1.1.2 Minimum Spanning Tree (Prim, Kruskal)
 
 >>>#### 1.1.1.3 Shortest Path (Dijkstra, Floyd)
@@ -39,6 +41,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC684RedundantConnection.md">LC684. Redundant Connection</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC785IsGraphBipartite.md">LC785. Is Graph Bipartite?</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC841KeysAndRooms.md">LC841. Keys and Rooms</a>
 
 
 >>>>##### 1.1.1.7.2 Breadth First Search (BFS)  
@@ -181,9 +184,12 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.11 Odd and Even
 
+* <a href="DataStructure/LinearStructure/Array/MoveElements/LC922SortArrayByParityII.md">LC922. Sort Array By Parity II</a>
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
 * <a href="Mathematics/NumberTheory/OddAndEven/LC390EliminationGame.md">LC390. Elimination Game</a>
+
+
 
 >>### 1.2.12 Max and Min
 * <a href="Mathematics/NumberTheory/MaxMin/LC908SmallestRangeI.md">LC908. Smallest Range I</a>
@@ -399,6 +405,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/Array/MoveElements/LC27RemoveElement.md">LC27. Remove Element</a>
 * <a href="DataStructure/LinearStructure/Array/MoveElements/LC905SortArrayByParity.md">LC905. Sort Array By Parity</a>
+* <a href="DataStructure/LinearStructure/Array/MoveElements/LC922SortArrayByParityII.md">LC922. Sort Array By Parity II</a>
 
 
 >>>#### 2.1.4.7 Traversal
@@ -472,11 +479,14 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
 
 
-
-
 >>>#### 2.1.5.8 Parentheses
 
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC921MinimumAddToMakeParenthesesValid.md">LC921. Minimum Add to Make Parentheses Valid</a>
+
+
 >>>#### 2.1.5.9 Reverse
+* <a href="DataStructure/LinearStructure/String/Reverse/LC917ReverseOnlyLetters.md">LC917. Reverse Only Letters</a>
+
 
 >>>#### 2.1.5.10 SubString
 
