@@ -67,5 +67,5 @@ object Solution {
 
 The main question is to parse the local name. Just find the substring before the first `+`, then remove the `.`. Finally, using set to remove duplicate emails.
 
-* **worst-case time complexity:** O(NM), where `N` is the length of the array `emails` and `M` is the maximum length of the emails.
-* **worst-case space complexity:** O(NM), where `N` is the length of the array `emails` and `M` is the maximum length of the emails.
+* **worst-case time complexity:** O(N*M), where `N` is the length of the array `emails` and `M` is the maximum length of the emails.
+* **worst-case space complexity:** O(N*M), where `N` is the length of the array `emails` and `M` is the maximum length of the emails.

@@ -188,7 +188,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
 * <a href="Mathematics/NumberTheory/OddAndEven/LC390EliminationGame.md">LC390. Elimination Game</a>
-
+* <a href="Mathematics/NumberTheory/OddAndEven/LC754ReachANumber.md">LC754. Reach a Number</a>
 
 
 >>### 1.2.12 Max and Min
