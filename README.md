@@ -446,8 +446,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.12 Multiple Array
 
-* <a href="DataStructure/LinearStructure/Array/MultipleArray/118PascalsTriangle.md">118. Pascal's Triangle</a>
-
+* <a href="DataStructure/LinearStructure/Array/MultipleArray/LC118PascalsTriangle.md">118. Pascal's Triangle</a>
 
 
 >>### 2.1.5 String
@@ -465,6 +464,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Matching/LC616AddBoldTagInString.md">LC616. Add Bold Tag In String</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC844BackspaceStringCompare.md">LC844. Backspace String Compare</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC890FindAndReplacePattern.md">LC890. Find and Replace Pattern</a>
+* <a href="DataStructure/LinearStructure/String/Matching/LC929UniqueEmailAddresses.md">LC929. Unique Email Addresses</a>
 
 
 >>>#### 2.1.5.5 Counting Letters
