@@ -65,7 +65,7 @@ object Solution {
 
 Scala is not good at solving columns, so using transpose to change the columns to rows. Then filter the unsorted rows in.
 
-* **worst-case time complexity:** O(m * n),
-* **worst-case space complexity:** O(m * n)
+* **worst-case time complexity:** O(m * n), where `m` is the lenght of the Array, n is the lenght of the String in the array.
+* **worst-case space complexity:** O(m * n), where `m` is the lenght of the Array, n is the lenght of the String in the array.
 
 

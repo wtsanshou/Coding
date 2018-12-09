@@ -386,6 +386,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.3 Permutations
 
+* <a href="DataStructure/LinearStructure/Array/Permutations/LC942DIStringMatch.md">LC942. DI String Match</a>
+
+
 >>>#### 2.1.4.4 Stock Buy and Sell
 
 >>>#### 2.1.4.5 SubArray
