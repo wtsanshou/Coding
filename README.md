@@ -607,6 +607,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC760FindAnagramMappings.md">LC760. Find Anagram Mappings</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC811SubdomainVisitCount.md">LC811. Subdomain Visit Count</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC706DesignHashMap.md">LC706. Design HashMap</a>
+* <a href="DataStructure/NonlinearStructure/Map/HashMap/LC953VerifyingAnAlienDictionary.md">LC953. Verifying an Alien Dictionary</a>
 
 
 >>>#### 2.2.5.2 TreeMap
