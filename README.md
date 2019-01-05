@@ -454,6 +454,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/Array/MultipleArray/LC118PascalsTriangle.md">118. Pascal's Triangle</a>
 
+>>>#### 2.1.4.13 Partition
+* <a href="DataStructure/LinearStructure/Array/Partition/LC937ReorderLogFiles.md">LC937. Reorder Log Files</a>
+
 
 >>### 2.1.5 String
 
