@@ -474,6 +474,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Matching/LC844BackspaceStringCompare.md">LC844. Backspace String Compare</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC890FindAndReplacePattern.md">LC890. Find and Replace Pattern</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC929UniqueEmailAddresses.md">LC929. Unique Email Addresses</a>
+* <a href="DataStructure/LinearStructure/String/Matching/LC925LongPressedName.md">LC925. Long Pressed Name</a>
 
 
 >>>#### 2.1.5.5 Counting Letters
