@@ -68,7 +68,7 @@ class Solution {
 
 ## Explanation
 
-The stack is the best solution for this question.
+Count the number of each letter. The number of the name's letter should be less or equal than the number of typed's letter
 
 * **worst-case time complexity:** `O(max(N,M))`, where `N` and `M` are the lengths of the input String `name` and `typed`.
-* **worst-case space complexity:** `O(max(N,M))`, where `N` and `M` are the lengths of the input String `name` and `typed`.
+* **worst-case space complexity:** `O(1)`.
