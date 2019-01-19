@@ -666,6 +666,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC740DeleteAndEarn.md">LC740. Delete and Earn</a>
 * <a href="Algorithm/DynamicProgramming/LC718MaximumLengthOfRepeatedSubarray.md">LC718. Maximum Length of Repeated Subarray</a>
 * <a href="Algorithm/DynamicProgramming/LC688KnightProbabilityInChessboard.md">LC688. Knight Probability in Chessboard</a>
+* <a href="Algorithm/DynamicProgramming/LC743NetworkDelayTime.md">LC743. Network Delay Time</a>
 
 
 >## 3.5 Sort
