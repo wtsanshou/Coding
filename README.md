@@ -676,7 +676,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
 * <a href="Algorithm/Sort/CodilityCountApples.md">Codility. Count Apples</a>
 * <a href="Algorithm/Sort/LC791CustomSortString.md">LC791. Custom Sort String</a>
-
+* <a href="Algorithm/Sort/LC977SquaresOfASortedArray.md">LC977. Squares of a Sorted Array</a>
 
 >>### 3.5.1 Insert Sort
 
