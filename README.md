@@ -66,6 +66,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/CodilityCountInstances.md">Codility. Count Instances</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/LC795NumberOfSubarraysWithBoundedMaximum.md">LC795. Number of Subarrays with Bounded Maximum</a>
 
+>>### 1.1.3 Permutation
+
+* <a href="Algorithm/Recursion/BackTracking/LC784LetterCasePermutation.md">LC784. Letter Case Permutation</a>
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC949LargestTimeForGivenDigits.md">LC949. Largest Time for Given Digits</a>
+
 
 >## 1.2 Number Theory
 
@@ -261,11 +266,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/Random/LC382LinkedListRandomNode.md">LC382. Linked List Random Node</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/Random/LC398RandomPickIndex.md">LC398. Random Pick Index</a>
 
-
-
->>>#### 1.3.2.2 Permutation and Combination
-
-* <a href="Algorithm/Recursion/BackTracking/LC784LetterCasePermutation.md">LC784. Letter Case Permutation</a>
 
 >>### 1.3.3 Analytic Geometry
 
