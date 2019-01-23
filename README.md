@@ -743,6 +743,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="Algorithm/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">LC599. Minimum Index Sum Of Two Lists</a>
 
+>## 3.7 Simulation
+* <a href="Algorithm/Simulation/LC950RevealCardsInIncreasingOrder.md">LC950. Reveal Cards In Increasing Order</a>
+
+
 # 4. Others
 >## Iterator
 
