@@ -62,5 +62,5 @@ public int[] deckRevealedIncreasing(int[] deck) {
 
 Using a queue to simulate the process of the reveal the cards.
 
-* **worst-case time complexity:** O(Nlog(N)), where `N` is the length of the String `T`.
+* **worst-case time complexity:** O(Nlog(N)), where `N` is the length of the  `deck`.
 * **worst-case space complexity:** O(N)

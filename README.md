@@ -561,6 +561,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC897IncreasingOrderSearchTree.md">LC897. Increasing Order Search Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC894AllPossibleFullBinaryTrees.md">LC894. All Possible Full Binary Trees</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC965UnivaluedBinaryTree.md">LC965. Univalued Binary Tree</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC979DistributeCoinsinBinaryTree.md">LC979. Distribute Coins in Binary Tree</a>
 
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
