@@ -478,6 +478,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Matching/LC890FindAndReplacePattern.md">LC890. Find and Replace Pattern</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC929UniqueEmailAddresses.md">LC929. Unique Email Addresses</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC925LongPressedName.md">LC925. Long Pressed Name</a>
+* <a href="DataStructure/LinearStructure/String/Matching/LC984StringWithoutAAAorBBB.md">LC984. String Without AAA or BBB</a>
 
 
 >>>#### 2.1.5.5 Counting Letters
