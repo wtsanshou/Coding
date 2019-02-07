@@ -458,7 +458,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/Array/MultipleArray/LC118PascalsTriangle.md">LC118. Pascal's Triangle</a>
 * <a href="DataStructure/LinearStructure/Array/MultipleArray/LC119PascalsTriangleII.md">LC119. Pascal's Triangle II</a>
-
+* <a href="Algorithm/DynamicProgramming/LC120Triangle.md">LC120. Triangle</a>
 
 >>>#### 2.1.4.13 Partition
 * <a href="DataStructure/LinearStructure/Array/Partition/LC937ReorderLogFiles.md">LC937. Reorder Log Files</a>
@@ -677,6 +677,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC718MaximumLengthOfRepeatedSubarray.md">LC718. Maximum Length of Repeated Subarray</a>
 * <a href="Algorithm/DynamicProgramming/LC688KnightProbabilityInChessboard.md">LC688. Knight Probability in Chessboard</a>
 * <a href="Algorithm/DynamicProgramming/LC743NetworkDelayTime.md">LC743. Network Delay Time</a>
+* <a href="Algorithm/DynamicProgramming/LC120Triangle.md">LC120. Triangle</a>
 
 
 >## 3.5 Sort
