@@ -55,5 +55,5 @@ int minimumTotal(vector<vector<int>>& triangle) {
 
 Starting from the penultimate layer to the top layer, calculate the current layer's minimum sum based on the lower layer. 
 
-* **worst-case time complexity:** O(N<sup>2</supe>), , where `N` is the length of the input `triangle`.
+* **worst-case time complexity:** O(N<sup>2</sup>), , where `N` is the length of the input `triangle`.
 * **worst-case space complexity:** O(1).

@@ -386,6 +386,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC645SetMismatch.md">LC645. Set Mismatch</a>
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC888UncommonWordsFromTwoSentences.md">LC888. Uncommon Words from Two Sentences</a>
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC961N-RepeatedElementInSize2NArray.md">LC961. N-Repeated Element in Size 2N Array</a>
+* <a href="DataStructure/LinearStructure/Array/Duplicate/LC961N-LC26RemoveDuplicatesFromSortedArray.md">LC26. Remove Duplicates from Sorted Array</a>
 
 
 >>>#### 2.1.4.3 Permutations
