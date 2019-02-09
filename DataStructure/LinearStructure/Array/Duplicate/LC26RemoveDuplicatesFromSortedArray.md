@@ -97,5 +97,5 @@ public int removeDuplicates(int[] nums) {
 
 Using two pointers, one for finding the unique number, one for writing the unique number
 
-* **worst-case time complexity:** O(N), , where `N` is the length of the input `nums`.
+* **worst-case time complexity:** O(N), where `N` is the length of the input `nums`.
 * **worst-case space complexity:** O(1).
