@@ -356,7 +356,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/LC456-132Pattern.md">LC456. 132 Pattern</a>
 * <a href="DataStructure/LinearStructure/Stack/LC150EvaluateReversePolishNotation.md">LC150. Evaluate Reverse Polish Notation</a>
 * <a href="DataStructure/LinearStructure/Stack/LC402RemoveKDigits.md">LC402. Remove K Digits</a>
-
+* <a href="DataStructure/LinearStructure/Stack/LC946ValidateStackSequences.md">LC946. Validate Stack Sequences</a>
  
 
 >>### 2.1.3 Queue

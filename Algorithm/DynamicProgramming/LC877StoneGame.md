@@ -96,7 +96,7 @@ dp(i)(j) = Math.max(piles(i)-dp(i+1)(j), piles(j)-dp(i)(j-1))
 ```
 We start from smaller subarray and then we use that to calculate the bigger subarray.
 
-Finally, dp(0)(n-1) is the exactly the diffenerce of stones Alex get. If it's bigger than `0`, it means Alex get can get more stons than Lee.
+Finally, `dp(0)(n-1)` is the exactly the diffenerce of stones Alex get. If it's bigger than `0`, it means Alex get can get more stons than Lee.
 
 * **worst-case time complexity:** O(n<sup>2</sup>), where `n` is the number of the `piles`.
 * **worst-case space complexity:** O(n<sup>2</sup>), where `n` is the number of the `piles`.
