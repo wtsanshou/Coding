@@ -464,6 +464,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.13 Partition
 * <a href="DataStructure/LinearStructure/Array/Partition/LC937ReorderLogFiles.md">LC937. Reorder Log Files</a>
 
+>>>#### 2.1.4.14 Operation
+* <a href="DataStructure/LinearStructure/Array/Operation/LC989AddToArrayFormOfInteger.md">LC989. Add to Array-Form of Integer</a>
 
 
 
