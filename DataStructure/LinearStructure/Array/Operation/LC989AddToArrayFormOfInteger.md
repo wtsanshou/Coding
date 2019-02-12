@@ -85,7 +85,7 @@ object Solution {
 Convert the K to an array. Add the two arrays together.
 
 * **worst-case time complexity:** `O(N+M)`, where `N` is the length of `A`, `M` is the number of digit in `K`.
-* **worst-case space complexity:** `O(N*M)`, where `N` is the length of `A`, `M` is the number of digit in `K`.
+* **worst-case space complexity:** `O(N+M)`, where `N` is the length of `A`, `M` is the number of digit in `K`.
 
 ### Solution 2
 
@@ -110,4 +110,4 @@ def addToArrayForm(A: Array[Int], K: Int): List[Int] = {
 Similar idea as the solution 1, but using `K` itself as the `temp`.
 
 * **worst-case time complexity:** `O(N+M)`, where `N` is the length of `A`, `M` is the number of digit in `K`.
-* **worst-case space complexity:** `O(N*M)`, where `N` is the length of `A`, `M` is the number of digit in `K`.
+* **worst-case space complexity:** `O(N+M)`, where `N` is the length of `A`, `M` is the number of digit in `K`.
