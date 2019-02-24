@@ -404,6 +404,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC674LongestContinuousIncreasingSubsequence.md">LC674. Longest Continuous Increasing Subsequence</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC769MaxChunksToMakeSorted.md">LC769. Max Chunks To Make Sorted</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC303RangeSumQueryImmutable.md">LC303. Range Sum Query – Immutable</a>
+* <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC307RangeSumQueryMutable.md">LC307. Range Sum Query – Mutable</a>
 
 
 >>>>##### 2.1.4.5.2 Uncontinuous
@@ -553,6 +554,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.2.1.1 Binary Tree
 
+* <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC307RangeSumQueryMutable.md">LC307. Range Sum Query – Mutable</a>
 * <a href="DataStructure/LinearStructure/Queue/Queue/LC637AverageOfLevelsInBinaryTree.md">LC637. Average of Levels in Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC606ConstructStringFromBinaryTree.md">LC606. Construct String From Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC617MergeTwoBinaryTrees.md">LC617. Merge Two Binary Trees</a>
