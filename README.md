@@ -202,6 +202,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.12 Max and Min
 * <a href="Mathematics/NumberTheory/MaxMin/LC908SmallestRangeI.md">LC908. Smallest Range I</a>
 
+>>### 1.2.12 Median
+* <a href="Mathematics/NumberTheory/Median/LC462MinimumMovesToEqualArrayElementsII.md">LC462. Minimum Moves to Equal Array Elements II</a>
+
 
 >## 1.3 Computational Geometry
 
