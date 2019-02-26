@@ -41,5 +41,5 @@ The idea is that we can get the power of 2 times of divisor by `divisor<<1`. So 
 1. divisor == 0, result is infinitely great.
 2. dividend==-2147483648 && divisor==1, return is 2147483648 which is outside of the `INT_MAX`.
 
-* **worst-case time complexity:** O(log(n))
-* **worst-case space complexity:** O(1)
+* **worst-case time complexity:** `O(log(n))`, where `n` is divisor.
+* **worst-case space complexity:** `O(1)`

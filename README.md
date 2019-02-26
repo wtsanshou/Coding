@@ -768,3 +768,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Others/Iterator/LC604DesignCompressedStringIterator.md">LC604. Design Compressed String Iterator</a>
 
+>## Reverse Thinking
+* <a href="Others/ReverseThinking/LC453MinimumMovesToEqualArrayElements.md">LC453. Minimum Moves to Equal Array Elements</a>
+
+
