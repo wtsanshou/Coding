@@ -473,6 +473,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.14 Operation
 * <a href="DataStructure/LinearStructure/Array/Operation/LC989AddToArrayFormOfInteger.md">LC989. Add to Array-Form of Integer</a>
 
+>>>#### 2.1.4.15 Shuffle
+
+* <a href="DataStructure/LinearStructure/Array/Shuffle/LC384ShuffleAnArray.md">LC384. Shuffle an Array</a>
 
 
 >>### 2.1.5 String
