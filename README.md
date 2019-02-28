@@ -382,7 +382,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.1 Rotation
 
 * <a href="DataStructure/LinearStructure/Array/Rotation/LC796RotateString.md">LC796. Rotate String</a>
- 
+* <a href="DataStructure/LinearStructure/Array/Rotation/LC189RotateArray.md">LC189. Rotate Array</a>
+
 
 >>>#### 2.1.4.2 Duplicate
 
