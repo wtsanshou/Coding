@@ -383,6 +383,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/Array/Rotation/LC796RotateString.md">LC796. Rotate String</a>
 * <a href="DataStructure/LinearStructure/Array/Rotation/LC189RotateArray.md">LC189. Rotate Array</a>
+* <a href="DataStructure/LinearStructure/Array/Rotation/LC396RotateFunction.md">LC396. Rotate Function</a>
 
 
 >>>#### 2.1.4.2 Duplicate

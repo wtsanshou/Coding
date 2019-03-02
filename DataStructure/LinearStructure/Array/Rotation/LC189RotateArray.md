@@ -1,6 +1,6 @@
 # LC189. Rotate Array
 
-### LeetCode
+### LeetCode & Codility
 
 ## Question
 
