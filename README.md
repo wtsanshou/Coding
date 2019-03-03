@@ -394,6 +394,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC26RemoveDuplicatesFromSortedArray.md">LC26. Remove Duplicates from Sorted Array</a>
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC448FindAllNumbersDisappearedInAnArray.md">LC448. Find All Numbers Disappeared in an Array</a>
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC349IntersectionOfTwoArrays.md">LC349. Intersection of Two Arrays</a>
+* <a href="DataStructure/LinearStructure/Array/Duplicate/LC287FindTheDuplicateNumber.md">LC287. Find the Duplicate Number</a>
 
 
 >>>#### 2.1.4.3 Permutations
