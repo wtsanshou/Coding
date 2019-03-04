@@ -64,7 +64,9 @@ int findDuplicate(vector<int>& nums) {
 * **worst-case time complexity:** `O(N*log(N))`, where `N` is the size of the input `nums`.
 * **worst-case space complexity:** `O(1)`
 
-* C++ (0ms)
+### Solution 3
+
+* Java (0ms)
 ```
 public int findDuplicate(int[] nums) {
     int n = nums.length;
