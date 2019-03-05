@@ -87,6 +87,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.2 Bit
 
+* <a href="DataStructure/LinearStructure/Array/Duplicate/CodilityOddOccurrencesInArray.md">Codility. Odd Occurrences In Array</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC289GameOfLife.md">LC289. Game of Life</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC661ImageSmoother.md">LC661. Image Smoother</a>
 * <a href="Mathematics/NumberTheory/Bit/HrSpecialMultiple.md">Hr. Special Multiple</a>
@@ -399,6 +400,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC442FindAllDuplicatesInAnArray.md">LC442. Find All Duplicates in an Array</a>
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC217ContainsDuplicate.md">LC217. Contains Duplicate</a>
 * <a href="DataStructure/LinearStructure/Array/Duplicate/LC219ContainsDuplicateII.md">LC219. Contains Duplicate II</a>
+* <a href="DataStructure/LinearStructure/Array/Duplicate/CodilityOddOccurrencesInArray.md">Codility. Odd Occurrences In Array</a>
+
 
 >>>#### 2.1.4.3 Permutations
 
