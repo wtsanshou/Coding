@@ -70,7 +70,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Algorithm/Recursion/BackTracking/LC784LetterCasePermutation.md">LC784. Letter Case Permutation</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC949LargestTimeForGivenDigits.md">LC949. Largest Time for Given Digits</a>
-
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC46Permutations.md">LC46. Permutations</a>
 
 >## 1.2 Number Theory
 
@@ -404,8 +404,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Duplicate/CodilityOddOccurrencesInArray.md">Codility. Odd Occurrences In Array</a>
 
 
+
 >>>#### 2.1.4.3 Permutations
 
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC46Permutations.md">LC46. Permutations</a>
 * <a href="DataStructure/LinearStructure/Array/Permutations/LC942DIStringMatch.md">LC942. DI String Match</a>
 
 
@@ -671,6 +673,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 3.3.1 Back Tracking
 
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC46Permutations.md">LC46. Permutations</a>
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
 * <a href="Algorithm/Recursion/BackTracking/HrBuildingAList.md">Hr. Building A List</a>
 * <a href="Algorithm/Recursion/BackTracking/LC756PyramidTransitionMatrix.md">LC756. Pyramid Transition Matrix</a>
