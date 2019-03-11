@@ -35,6 +35,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 1.1.1.7.1 Depth First Search (DFS)
 
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC130SurroundedRegions.md">LC130. Surrounded Regions</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule I</a>
@@ -71,6 +72,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Recursion/BackTracking/LC784LetterCasePermutation.md">LC784. Letter Case Permutation</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC949LargestTimeForGivenDigits.md">LC949. Largest Time for Given Digits</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC46Permutations.md">LC46. Permutations</a>
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
+
 
 >## 1.2 Number Theory
 
@@ -770,6 +773,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 3.6.3 Enumeration
 
 >>### 3.6.4 DFS
+
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
 
 >>### 3.6.5 BFS
 
