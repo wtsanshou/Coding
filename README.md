@@ -73,6 +73,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC949LargestTimeForGivenDigits.md">LC949. Largest Time for Given Digits</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC46Permutations.md">LC46. Permutations</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
+* <a href="Mathematics/DiscreteMathematics/Permutation/CodilityPermCheck.md">Codility. Perm Check</a>
 
 
 >## 1.2 Number Theory
