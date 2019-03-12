@@ -67,6 +67,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/CodilityCountInstances.md">Codility. Count Instances</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/LC795NumberOfSubarraysWithBoundedMaximum.md">LC795. Number of Subarrays with Bounded Maximum</a>
 
+
 >>### 1.1.3 Permutation
 
 * <a href="Algorithm/Recursion/BackTracking/LC784LetterCasePermutation.md">LC784. Letter Case Permutation</a>
@@ -74,6 +75,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC46Permutations.md">LC46. Permutations</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/CodilityPermCheck.md">Codility. Perm Check</a>
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC31NextPermutation.md">LC31. Next Permutation</a>
 
 
 >## 1.2 Number Theory
