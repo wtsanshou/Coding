@@ -76,7 +76,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/CodilityPermCheck.md">Codility. Perm Check</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC31NextPermutation.md">LC31. Next Permutation</a>
-
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC496NextGreaterElementI.md">LC496. Next Greater Element I</a>
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC556NextGreaterElementIII.md">LC556. Next Greater Element III</a>
 
 >## 1.2 Number Theory
 
@@ -655,11 +656,12 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.2.5.1 HashMap
 
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC496NextGreaterElementI.md">LC496. Next Greater Element I</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC760FindAnagramMappings.md">LC760. Find Anagram Mappings</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC811SubdomainVisitCount.md">LC811. Subdomain Visit Count</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC706DesignHashMap.md">LC706. Design HashMap</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC953VerifyingAnAlienDictionary.md">LC953. Verifying an Alien Dictionary</a>
-* <a href="DataStructure/NonlinearStructure/Map/HashMap/LC496NextGreaterElementI.md">LC496. Next Greater Element I</a>
+
 
 
 >>>#### 2.2.5.2 TreeMap
