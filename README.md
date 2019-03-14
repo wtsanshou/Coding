@@ -78,6 +78,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC31NextPermutation.md">LC31. Next Permutation</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC496NextGreaterElementI.md">LC496. Next Greater Element I</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC556NextGreaterElementIII.md">LC556. Next Greater Element III</a>
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC60PermutationSequence.md">LC60. Permutation Sequence</a>
+
 
 >## 1.2 Number Theory
 
@@ -147,7 +149,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>### 1.2.6 Factorial
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC60PermutationSequence.md">LC60. Permutation Sequence</a>
 * <a href="Mathematics/NumberTheory/Factorial/LC172FactorialTrailingZeroes.md">LC172. Factorial Trailing Zeroes</a>
+
 
 
 >>### 1.2.7 Fibonacci
