@@ -81,6 +81,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC60PermutationSequence.md">LC60. Permutation Sequence</a>
 
 
+
 >## 1.2 Number Theory
 
 >>### 1.2.1 Prime
@@ -423,6 +424,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>>#### 2.1.4.4 Stock Buy and Sell
+
+* <a href="DataStructure/LinearStructure/Array/StockBuyAndSell/LC121BestTimeToBuyAndSellStock.md">LC121. Best Time to Buy and Sell Stock</a>
+
 
 >>>#### 2.1.4.5 SubArray
 
