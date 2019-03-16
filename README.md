@@ -423,10 +423,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Permutations/LC942DIStringMatch.md">LC942. DI String Match</a>
 
 
->>>#### 2.1.4.4 Stock Buy and Sell
-
-* <a href="DataStructure/LinearStructure/Array/StockBuyAndSell/LC121BestTimeToBuyAndSellStock.md">LC121. Best Time to Buy and Sell Stock</a>
-* <a href="DataStructure/LinearStructure/Array/StockBuyAndSell/LC122BestTimeToBuyAndSellStockII.md">LC122. Best Time to Buy and Sell Stock II</a>
+>>>#### 2.1.4.4 
 
 
 >>>#### 2.1.4.5 SubArray
@@ -708,23 +705,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Greedy/LC729MyCalendarI.md">LC729. My Calendar I</a>
 * <a href="Algorithm/Greedy/LC986IntervalListIntersections.md">LC986. Interval List Intersections</a>
 
->## 3.5 Dynamic Programming (DP)
-
-* <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
-* <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
-* <a href="Algorithm/DynamicProgramming/LC638ShoppingOffers.md">LC638. Shopping Offers</a>
-* <a href="Algorithm/DynamicProgramming/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
-* <a href="Algorithm/DynamicProgramming/LC62UniquePaths.md">LC62. Unique Paths</a>
-* <a href="Algorithm/DynamicProgramming/LC746MinCostClimbingStairs.md">LC746. Min Cost Climbing Stairs</a>
-* <a href="Algorithm/DynamicProgramming/LC712MinimumASCIIDeleteSumForTwoStrings.md">LC712. Minimum ASCII Delete Sum for Two Strings</a>
-* <a href="Algorithm/DynamicProgramming/LC650TwoKeysKeyboard.md">LC650. Two Keys Keyboard</a>
-* <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
-* <a href="Algorithm/DynamicProgramming/LC740DeleteAndEarn.md">LC740. Delete and Earn</a>
-* <a href="Algorithm/DynamicProgramming/LC718MaximumLengthOfRepeatedSubarray.md">LC718. Maximum Length of Repeated Subarray</a>
-* <a href="Algorithm/DynamicProgramming/LC688KnightProbabilityInChessboard.md">LC688. Knight Probability in Chessboard</a>
-* <a href="Algorithm/DynamicProgramming/LC743NetworkDelayTime.md">LC743. Network Delay Time</a>
-* <a href="Algorithm/DynamicProgramming/LC120Triangle.md">LC120. Triangle</a>
-* <a href="Algorithm/DynamicProgramming/LC877StoneGame.md">LC877. Stone Game</a>
 
 >## 3.5 Sort
 
@@ -803,6 +783,29 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.7 Simulation
 * <a href="Algorithm/Simulation/LC950RevealCardsInIncreasingOrder.md">LC950. Reveal Cards In Increasing Order</a>
+
+>## 3.8 Dynamic Programming (DP)
+
+* <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
+* <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
+* <a href="Algorithm/DynamicProgramming/LC638ShoppingOffers.md">LC638. Shopping Offers</a>
+* <a href="Algorithm/DynamicProgramming/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
+* <a href="Algorithm/DynamicProgramming/LC62UniquePaths.md">LC62. Unique Paths</a>
+* <a href="Algorithm/DynamicProgramming/LC746MinCostClimbingStairs.md">LC746. Min Cost Climbing Stairs</a>
+* <a href="Algorithm/DynamicProgramming/LC712MinimumASCIIDeleteSumForTwoStrings.md">LC712. Minimum ASCII Delete Sum for Two Strings</a>
+* <a href="Algorithm/DynamicProgramming/LC650TwoKeysKeyboard.md">LC650. Two Keys Keyboard</a>
+* <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
+* <a href="Algorithm/DynamicProgramming/LC740DeleteAndEarn.md">LC740. Delete and Earn</a>
+* <a href="Algorithm/DynamicProgramming/LC718MaximumLengthOfRepeatedSubarray.md">LC718. Maximum Length of Repeated Subarray</a>
+* <a href="Algorithm/DynamicProgramming/LC688KnightProbabilityInChessboard.md">LC688. Knight Probability in Chessboard</a>
+* <a href="Algorithm/DynamicProgramming/LC743NetworkDelayTime.md">LC743. Network Delay Time</a>
+* <a href="Algorithm/DynamicProgramming/LC120Triangle.md">LC120. Triangle</a>
+* <a href="Algorithm/DynamicProgramming/LC877StoneGame.md">LC877. Stone Game</a>
+
+>>### 3.8.1 Stock Buy and Sell
+* <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC121BestTimeToBuyAndSellStock.md">LC121. Best Time to Buy and Sell Stock</a>
+* <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC122BestTimeToBuyAndSellStockII.md">LC122. Best Time to Buy and Sell Stock II</a>
+* <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC309BestTimeToBuyAndSellStockWithCooldown.md">LC309. Best Time to Buy and Sell Stock with Cooldown</a>
 
 
 # 4. Others
