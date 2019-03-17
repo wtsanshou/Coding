@@ -430,6 +430,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 2.1.4.5.1 Continous
 
+* <a href="Algorithm/DynamicProgramming/LC53MaximumSubarray.md">LC53. Maximum Subarray</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC674LongestContinuousIncreasingSubsequence.md">LC674. Longest Continuous Increasing Subsequence</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC769MaxChunksToMakeSorted.md">LC769. Max Chunks To Make Sorted</a>
@@ -439,6 +440,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 2.1.4.5.2 Uncontinuous
 
+* <a href="Algorithm/Search/BinarySearch/LC300LongestIncreasingSubsequence.md">LC300. Longest Increasing Subsequence</a>
 * <a href="DataStructure/LinearStructure/Stack/LC456-132Pattern.md">LC456. 132 Pattern</a>
 
 >>>#### 2.1.4.6 Move elements
@@ -748,6 +750,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/BinarySearch/LC744FindSmallestLetterGreaterThanTarget.md">LC744. Find Smallest Letter Greater Than Target</a>
 * <a href="Algorithm/Search/BinarySearch/LC540SingleElementInASortedArray.md">LC540. Single Element in a Sorted Array</a>
 * <a href="Algorithm/Search/BinarySearch/LC704BinarySearch.md">LC704. Binary Search</a>
+* <a href="Algorithm/Search/BinarySearch/LC300LongestIncreasingSubsequence.md">LC300. Longest Increasing Subsequence</a>
 
 
 >>### 3.6.2 Tree Search
