@@ -204,6 +204,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.11 Odd and Even
 
+* <a href="DataStructure/LinearStructure/Array/Partition/LC561ArrayPartitionI.md">LC561. Array Partition I</a>
 * <a href="DataStructure/LinearStructure/Array/MoveElements/LC922SortArrayByParityII.md">LC922. Sort Array By Parity II</a>
 * <a href="Mathematics/NumberTheory/Power/HrEvenOddQuery.md">Hr. Even Odd Query</a>
 * <a href="Mathematics/NumberTheory/OddAndEven/HrHalloweenParty.md">Hr. Halloween Party</a>
@@ -501,6 +502,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.13 Partition
 * <a href="DataStructure/LinearStructure/Array/Partition/LC937ReorderLogFiles.md">LC937. Reorder Log Files</a>
+* <a href="DataStructure/LinearStructure/Array/Partition/LC561ArrayPartitionI.md">LC561. Array Partition I</a>
+
 
 >>>#### 2.1.4.14 Operation
 * <a href="DataStructure/LinearStructure/Array/Operation/LC989AddToArrayFormOfInteger.md">LC989. Add to Array-Form of Integer</a>
@@ -713,6 +716,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.5 Sort
 
+* <a href="DataStructure/LinearStructure/Array/Partition/LC561ArrayPartitionI.md">LC561. Array Partition I</a>
 * <a href="DataStructure/LinearStructure/String/SubString/LC893GroupsOfSpecial-EquivalentStrings.md">LC893. Groups of Special-Equivalent Strings</a> 
 * <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
 * <a href="Algorithm/Sort/LC625MinimumFactorization.md">LC625. Minimum Factorization</a>
