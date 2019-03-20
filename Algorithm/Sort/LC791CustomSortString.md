@@ -65,5 +65,5 @@ Then sort the String T.
 
 Change back all replaced characters in String `T`.
 
-* **worst-case time complexity:** O(Nlog(N)), where `N` is the length of the String `T`.
+* **worst-case time complexity:** O(N*log(N)), where `N` is the length of the String `T`.
 * **worst-case space complexity:** O(N)

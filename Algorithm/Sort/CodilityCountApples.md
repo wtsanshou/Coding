@@ -31,8 +31,8 @@ Add apple to `A[0]` from the lightest apple to heavest apple, and count the appl
 
 If add an apple and the total weight is more than 5000, jump out and return the result.
 
-* **worst-case time complexity:** O(n)
-* **worst-case space complexity:** O(n)
+* **worst-case time complexity:** `O(n*log(n))`
+* **worst-case space complexity:** `O(log(n))`
 
 ## Test cases
 

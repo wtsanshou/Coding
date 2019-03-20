@@ -26,7 +26,7 @@ Output: [4,9,9,49,121]
 
 ## Solutions
 
-* Java1
+* Scala
 ```
 def sortedSquares(A: Array[Int]): Array[Int] = {
     A.map(a => a*a).sorted
@@ -39,5 +39,5 @@ Just map and sort.
 
 Could cut the array to two arrays. Then merger the two arrays. It's `O(N)`.
 
-* **worst-case time complexity:** O(Nlog(N)), where `N` is the length of the String `T`.
-* **worst-case space complexity:** O(N)
+* **worst-case time complexity:** `O(N*log(N))`, where `N` is the length of the String `T`.
+* **worst-case space complexity:** `O(log(N))`
