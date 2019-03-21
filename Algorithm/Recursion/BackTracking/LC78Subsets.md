@@ -124,3 +124,37 @@ iteration way of `back tracking`.
 
 * **worst-case time complexity:** O(2<sup>n</sup>), where `n` is the length of the `nums`.
 * **worst-case space complexity:** O(2<sup>n</sup>), where `n` is the length of the `nums`.
+
+### Solution 3
+
+* C++
+```
+vector<vector<int>> subsets(vector<int>& nums) {
+    int n = nums.size(), p = 1 << n;
+    vector<vector<int>> subs(p);
+    for (int i = 0; i < p; i++) {
+        for (int j = 0; j < n; j++) {
+            if ((i >> j) & 1) {
+                subs[i].push_back(nums[j]);
+            }
+        }
+    }
+    return subs;
+}
+```
+
+Bit Manipulation
+
+To give all the possible subsets, we just need to exhaust all the possible combinations of the numbers. And each number has only two possibilities: either in or not in a subset. And this can be represented using a bit.
+
+Using [1, 2, 3] as an example, 1 appears once in every two consecutive subsets, 2 appears twice in every four consecutive subsets, and 3 appears four times in every eight subsets (initially all subsets are empty):
+
+```
+[], [ ], [ ], [    ], [ ], [    ], [    ], [       ]
+[], [1], [ ], [1   ], [ ], [1   ], [    ], [1      ]
+[], [1], [2], [1, 2], [ ], [1   ], [2   ], [1, 2   ]
+[], [1], [2], [1, 2], [3], [1, 3], [2, 3], [1, 2, 3]
+```
+
+* **worst-case time complexity:** O(2<sup>n</sup>), where `n` is the length of the `nums`.
+* **worst-case space complexity:** O(2<sup>n</sup>), where `n` is the length of the `nums`.
