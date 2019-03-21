@@ -64,7 +64,6 @@ class Solution {
 }
 ```
 
-
 ## Explanation
 
 Starting from node `0`, traverse the whole graph. Once found a path to the final node `N-1`, add it to the result.
@@ -73,5 +72,5 @@ Starting from node `0`, traverse the whole graph. Once found a path to the final
 
 back tracking for initial the `visit` and the `newPath`.
  
-* **worst-case time complexity:** O(M*N), where M is the maximum width of the input `int[][] graph`, N is the height the input `int[][] graph`.
-* **worst-case space complexity:** O(M*N), where M is the maximum width of the input `int[][] graph`, N is the height the input `int[][] graph`.
+* **worst-case time complexity:** O(2<sup>M</sup>*N), where M is the maximum width of the input `int[][] graph`, N is the height the input `int[][] graph`.
+* **worst-case space complexity:** O(2<sup>M</sup>*N), where M is the maximum width of the input `int[][] graph`, N is the height the input `int[][] graph`.

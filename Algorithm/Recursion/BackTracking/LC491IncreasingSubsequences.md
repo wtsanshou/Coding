@@ -55,6 +55,6 @@ Typical `Back tracking`, be careful the corner cases:
 1. Avoid duplicated sub array.
 2. The first element in the sub array.
 
-* **worst-case time complexity:** O(n<sup>2</sup>), where `n` is the length of the `nums`.
-* **worst-case space complexity:** O(n<sup>2</sup>), where `n` is the length of the `nums`.
+* **worst-case time complexity:** O(2<sup>n</sup>), where `n` is the length of the `nums`.
+* **worst-case space complexity:** O(2<sup>n</sup>), where `n` is the length of the `nums`.
 
