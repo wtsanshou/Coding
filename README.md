@@ -431,6 +431,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 2.1.4.5.1 Continous
 
+* <a href="Algorithm/Sort/LC581ShortestUnsortedContinuousSubarray.md">LC581. Shortest Unsorted Continuous Subarray</a>
 * <a href="Algorithm/DynamicProgramming/LC53MaximumSubarray.md">LC53. Maximum Subarray</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC674LongestContinuousIncreasingSubsequence.md">LC674. Longest Continuous Increasing Subsequence</a>
@@ -442,6 +443,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 2.1.4.5.2 Uncontinous
 
+* <a href="Algorithm/DynamicProgramming/LC494TargetSum.md">LC494. Target Sum</a>
 * <a href="Algorithm/Search/BinarySearch/LC300LongestIncreasingSubsequence.md">LC300. Longest Increasing Subsequence</a>
 * <a href="Algorithm/Recursion/BackTracking/LC491IncreasingSubsequences.md">LC491. Increasing Subsequences</a>
 * <a href="DataStructure/LinearStructure/Stack/LC456-132Pattern.md">LC456. 132 Pattern</a>
@@ -728,6 +730,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Sort/LC977SquaresOfASortedArray.md">LC977. Squares of a Sorted Array</a>
 * <a href="Algorithm/Sort/LC969PancakeSorting.md">LC969. Pancake Sorting</a>
 * <a href="Algorithm/Sort/LC324WiggleSortII.md">LC324. Wiggle Sort II</a>
+* <a href="Algorithm/Sort/LC581ShortestUnsortedContinuousSubarray.md">LC581. Shortest Unsorted Continuous Subarray</a>
 
 
 >>### 3.5.1 Insert Sort
@@ -817,6 +820,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC877StoneGame.md">LC877. Stone Game</a>
 * <a href="Algorithm/DynamicProgramming/LC53MaximumSubarray.md">LC53. Maximum Subarray</a>
 * <a href="Algorithm/DynamicProgramming/LC494TargetSum.md">LC494. Target Sum</a>
+
 
 >>### 3.8.1 Stock Buy and Sell
 * <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC121BestTimeToBuyAndSellStock.md">LC121. Best Time to Buy and Sell Stock</a>
