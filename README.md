@@ -431,6 +431,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 2.1.4.5.1 Continous
 
+* <a href="DataStructure/LinearStructure/Array/WindowSlice/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
 * <a href="Algorithm/Sort/LC581ShortestUnsortedContinuousSubarray.md">LC581. Shortest Unsorted Continuous Subarray</a>
 * <a href="Algorithm/DynamicProgramming/LC53MaximumSubarray.md">LC53. Maximum Subarray</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
@@ -488,6 +489,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>>#### 2.1.4.10 Window Slice
+* <a href="DataStructure/LinearStructure/Array/WindowSlice/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
+
 
 >>>#### 2.1.4.11 Interval
 
