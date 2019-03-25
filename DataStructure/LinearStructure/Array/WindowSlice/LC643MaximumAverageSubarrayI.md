@@ -55,8 +55,8 @@ public double findMaxAverage(int[] nums, int k) {
 
 We just need to get the sum of a window slice whith length `k`, and move it from left to end to find the contiguous subarray of given length k that has the maximum sum value.
 
-* **worst-case time complexity:** O(n), where `n` is the length of the `nums`.
-* **worst-case space complexity:** O(1)
+* **worst-case time complexity:** `O(n)`, where `n` is the length of the `nums`.
+* **worst-case space complexity:** `O(1)`
 
 ### Solution 2
 
@@ -80,5 +80,5 @@ The idea is to sum all left numbers of `nums[i]`, then it's very easy to get the
 
 Finally, we just need to find out the maximum `sum` and divided by `k`.
 
-* **worst-case time complexity:** O(n), where `n` is the length of the `nums`.
-* **worst-case space complexity:** O(1)
+* **worst-case time complexity:** `O(n)`, where `n` is the length of the `nums`.
+* **worst-case space complexity:** `O(1)`
