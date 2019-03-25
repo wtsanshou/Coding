@@ -252,6 +252,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC892SurfaceAreaOf3DShapes.md">LC892. Surface Area of 3D Shapes</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC861ScoreAfterFlippingMatrix.md">LC861. Score After Flipping Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC944DeleteColumnsToMakeSorted.md">LC944. Delete Columns to Make Sorted</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC498DiagonalTraverse.md">LC498. Diagonal Traverse</a>
 
 
 >>>#### 1.3.1.2 Linear Equations
