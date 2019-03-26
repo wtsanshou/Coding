@@ -377,6 +377,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/LC150EvaluateReversePolishNotation.md">LC150. Evaluate Reverse Polish Notation</a>
 * <a href="DataStructure/LinearStructure/Stack/LC402RemoveKDigits.md">LC402. Remove K Digits</a>
 * <a href="DataStructure/LinearStructure/Stack/LC946ValidateStackSequences.md">LC946. Validate Stack Sequences</a>
+* <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
  
 
 >>### 2.1.3 Queue
@@ -682,6 +683,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.2.5.1 HashMap
 
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC496NextGreaterElementI.md">LC496. Next Greater Element I</a>
+* <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC760FindAnagramMappings.md">LC760. Find Anagram Mappings</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC811SubdomainVisitCount.md">LC811. Subdomain Visit Count</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC706DesignHashMap.md">LC706. Design HashMap</a>
@@ -841,6 +843,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Others/Iterator/LC604DesignCompressedStringIterator.md">LC604. Design Compressed String Iterator</a>
 
 >## Reverse Thinking
+* <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
 * <a href="Others/ReverseThinking/LC453MinimumMovesToEqualArrayElements.md">LC453. Minimum Moves to Equal Array Elements</a>
 
 
