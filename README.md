@@ -234,6 +234,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC566ReshapeTheMatrix.md">LC566. Reshape the Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC54SpiralMatrix.md">LC54. Spiral Matrix</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC59SpiralMatrixII.md">LC59. Spiral Matrix II</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC885SpiralMatrixIII.md">LC885. Spiral Matrix III</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC130SurroundedRegions.md">LC130. Surrounded Regions</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC598RangeAdditionII.md">LC598. Range Addition II</a>
@@ -253,6 +254,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC861ScoreAfterFlippingMatrix.md">LC861. Score After Flipping Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC944DeleteColumnsToMakeSorted.md">LC944. Delete Columns to Make Sorted</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC498DiagonalTraverse.md">LC498. Diagonal Traverse</a>
+
 
 
 >>>#### 1.3.1.2 Linear Equations
