@@ -32,13 +32,17 @@ public:
     }
     int nextGreaterElement(int n) {
         string s = to_string(n);
+
         int i = s.length()-2;
         while(i>=0 && s[i]>=s[i+1]) i--;
         if(i==-1) return -1;
+
         int j=s.length()-1;
         while(s[i] >= s[j]) j--;
         swap(s[i], s[j]);
+
         reverse(s, i+1);
+        
         try{
             return stoi(s);
         }
@@ -51,7 +55,7 @@ public:
 };
 ```
 
-The same idea as <a href="LC496NextGreaterElementI.md">LC496. Next Greater Element I</a>
+The idea is similar with * <a href="LC31NextPermutation.md">LC31. Next Permutation</a>
 
 * **worst-case time complexity:** `O(1)`. 
 * **worst-case space complexity:** `O(1)`

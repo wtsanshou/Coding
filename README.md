@@ -77,6 +77,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Permutation/CodilityPermCheck.md">Codility. Perm Check</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC31NextPermutation.md">LC31. Next Permutation</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC496NextGreaterElementI.md">LC496. Next Greater Element I</a>
+* <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC556NextGreaterElementIII.md">LC556. Next Greater Element III</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC60PermutationSequence.md">LC60. Permutation Sequence</a>
 
@@ -476,7 +477,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC896MonotonicArray.md">LC896. Monotonic Array</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC941ValidMountainArray.md">LC941. Valid Mountain Array</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC238ProductOfArrayExceptSelf.md">LC238. Product of Array Except Self</a>
-
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC334IncreasingTripletSubsequence.md">LC334. Increasing Triplet Subsequence</a>
 
 >>>#### 2.1.4.8 Prefix Sums
 
@@ -683,7 +684,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.2.5.1 HashMap
 
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC496NextGreaterElementI.md">LC496. Next Greater Element I</a>
-* <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC760FindAnagramMappings.md">LC760. Find Anagram Mappings</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC811SubdomainVisitCount.md">LC811. Subdomain Visit Count</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC706DesignHashMap.md">LC706. Design HashMap</a>
