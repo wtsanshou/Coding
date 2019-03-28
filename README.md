@@ -220,6 +220,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 1.2.12 Median
 * <a href="Mathematics/NumberTheory/Median/LC462MinimumMovesToEqualArrayElementsII.md">LC462. Minimum Moves to Equal Array Elements II</a>
 
+>>### 1.2.13 Sum
+* <a href="Mathematics/NumberTheory/Sum/CodilityPermMissingElem.md">Codility. Perm Missing Elem</a>
+
 
 >## 1.3 Computational Geometry
 
