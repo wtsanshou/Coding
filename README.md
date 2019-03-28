@@ -222,7 +222,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.13 Sum
 * <a href="Mathematics/NumberTheory/Sum/CodilityPermMissingElem.md">Codility. Perm Missing Elem</a>
-
+* <a href="Mathematics/NumberTheory/Sum/CodilityTapeEquilibrium.md">Codility. Tape Equilibrium</a>
+ 
 
 >## 1.3 Computational Geometry
 
