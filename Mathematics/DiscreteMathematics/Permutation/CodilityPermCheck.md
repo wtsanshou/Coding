@@ -67,6 +67,10 @@ int solution(vector<int> &A) {
 }
 ```
 
+**Note:** 
+* A permutation is a sequence containing each element from 1 to N once. 
+* each element of array A is an integer within the range [1..1,000,000,000] is a miss leading information.
+
 Remember the appared numbers in an array `bucket`. Then check the `bucket` to see if any number missing.
 
 * **worst-case time complexity:** `O(N)`, where `N` is the length of the input `A`.

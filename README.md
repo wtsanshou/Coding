@@ -271,6 +271,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC292NimGame.md">LC292. Nim Game</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC258AddDigits.md">LC258. Add Digits</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC268MissingNumber.md">LC268. Missing Number</a>
+* <a href="Algorithm/Sort/BucketSort/CodilityMissingInteger.md">Codility. Missing Integer</a>
+* <a href="Mathematics/DiscreteMathematics/Permutation/CodilityPermCheck.md">Codility. Perm Check</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC202HappyNumber.md">LC202. Happy Number</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/LC537ComplexNumberMultiplication.md">LC537. Complex Number Multiplication</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/CodilityFrogJmp.md">Codility. Frog Jmp</a>
@@ -766,8 +768,12 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 3.5.6 Bucket Sort
 
 * <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC347TopKFrequentElements.md">LC347. Top K Frequent Elements</a>
-* <a href="Algorithm/Sort/BucketSort/CodilityMissingInteger.md">Codility. Missing Integer</a>
 * <a href="Algorithm/Sort/BucketSort/LC739DailyTemperatures.md">LC739. Daily Temperatures</a>
+
+>>### 3.5.7 Counting Sort
+
+* <a href="Algorithm/Sort/BucketSort/CodilityMissingInteger.md">Codility. Missing Integer</a>
+* <a href="Algorithm/Sort/BucketSort/CodilityFrogRiverOne.md">Codility. Frog River One</a>
 
 
 >## 3.6 Search
