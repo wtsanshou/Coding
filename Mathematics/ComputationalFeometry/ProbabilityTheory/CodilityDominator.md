@@ -80,6 +80,27 @@ int solution(vector<int> &A) {
 }
 ```
 
+* Java
+```
+public int solution(int[] A) {
+    // write your code in Java SE 8
+    Map<Integer, Integer[]> count = new HashMap<>();
+    int n = A.length;
+    for(int i=0; i<n; ++i){
+        if(!count.containsKey(A[i]))
+            count.put(A[i], new Integer[]{0,0});
+        Integer[] value = new Integer[] {count.get(A[i])[0]+1, i};
+        // value[0] = count.get(A[i])[0]+1;
+        // value[1] = i;
+        count.put(A[i], value);
+    }
+
+    for(Map.Entry<Integer, Integer[]> m : count.entrySet())
+        if(m.getValue()[0] > n/2) return m.getValue()[1];
+    return -1;
+}
+```
+
 ## Explanation
 
 Using Moore Voting algorithm to find the most appeared element, count the number of the most appeared element

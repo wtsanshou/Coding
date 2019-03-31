@@ -41,6 +41,23 @@ int solution(int N) {
 }
 ```
 
+* Java
+```
+public int solution(int N) {
+    // write your code in Java SE 8
+    if(N == 1) return 1;
+    int res = 0;
+    int n = (int)Math.sqrt((double)N);
+    for(int i=1; i<=n; i++){
+        if(N%i == 0){
+            res++;
+            if(N/i != i) res++;
+        } 
+    }
+    return res;
+}
+```
+
 ## Explanation
 
 corner cases: 

@@ -87,6 +87,43 @@ vector<int> solution(vector<int> &A) {
 }
 ```
 
+* Java
+```
+class Solution {
+    public int[] solution(int[] A) {
+        int n = A.length;
+        Map<Integer, Integer> map = new HashMap<>();
+        int[] res = new int[n];
+        
+        for(int a : A){
+            if(!map.containsKey(a))
+                map.put(a, 0);
+            map.put(a, map.get(a)+1);
+        }
+        
+        for(int i=0; i<n; i++){
+            int divisors = getDivisors(A[i], map);
+            res[i] = n - divisors;
+        }
+        return res;
+    }
+    
+    private int getDivisors(int a, Map<Integer, Integer> map){
+        int count = 0;
+        int n = (int)Math.sqrt((double)a);
+        for(int i=1; i<=n; i++){
+            if(a % i == 0){
+                if(map.containsKey(i)) count += map.get(i);
+                if(a/i != i && map.containsKey(a/i))
+                    count += map.get(a/i);
+            }
+        }
+        return count;
+    }
+}
+
+```
+
 ## Explanation
 
 1. count the amount of numbers and store them into a map

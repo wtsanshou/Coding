@@ -132,6 +132,53 @@ int solution(vector<int> &A) {
 }
 ```
 
+* Java
+```
+class Solution {
+    public int solution(int[] A) {
+        // write your code in Java SE 8
+        int leaderId = getLeaderId(A);
+        if(leaderId == -1) return 0;
+        int leader = A[leaderId];
+        int n = A.length;
+        int[] count = new int[n+1];
+        for(int i=1; i<=n; ++i){
+            if(A[i-1]==leader) count[i]++;
+            count[i] += count[i-1];
+        }
+        int res = 0;
+        for(int i=1; i<n; ++i){
+            if(count[i]>i/2 && count[n]-count[i]> (n-i)/2) res++;
+        }
+        return res;
+    }
+    
+    private int getLeaderId(int[] A){
+        int leader=0;
+        int count = 0;
+        int n = A.length;
+        for(int i=0; i<n; ++i){
+            if(count==0){
+                count++;
+                leader = A[i];
+            }
+            else if(A[i] == leader) count++;
+            else count--;
+        }
+        int leaderCount = 0;
+        for(int a : A)
+            if(a==leader) leaderCount++;
+        
+        if(leaderCount <= n/2) return -1;
+        
+        for(int i=0; i<n; ++i)
+            if(A[i] == leader) return i;
+        return -1;
+        
+    }
+}
+```
+
 ## Explanation
 
 The equi leader is the majority element of the array.

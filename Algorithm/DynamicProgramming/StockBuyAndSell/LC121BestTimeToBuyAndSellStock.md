@@ -48,6 +48,20 @@ Walk throug the `prices`, the maximum profit for each price is the current price
 
 ### Solution 2
 
+* Java
+```
+public int solution(int[] A) {
+    // write your code in Java SE 8
+    int buy=Integer.MAX_VALUE;
+    int sell = 0;
+    for(int a : A){
+        buy = Math.min(buy, a);
+        sell = Math.max(sell, a-buy);
+    }
+    return sell;
+}
+```
+
 * Java (2ms)
 ```
 public int maxProfit(int[] prices) {

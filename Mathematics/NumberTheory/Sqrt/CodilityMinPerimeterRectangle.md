@@ -46,6 +46,18 @@ int solution(int N) {
 }
 ```
 
+* Java
+```
+public int solution(int N) {
+    // write your code in Java SE 8
+    int n = (int)Math.sqrt((double)N);
+    for(int i=n; i>0; i--)
+        if(N%i == 0)
+            return 2 * (i + (N/i));
+    return 1;
+}
+```
+
 ## Testcase
 
 extreme_min  N = 1 test

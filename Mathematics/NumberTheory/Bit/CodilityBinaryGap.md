@@ -45,6 +45,20 @@ int solution(int N) {
 }
 ```
 
+* Java
+```
+public int solution(int N) {
+    int res = 0;
+    while(N % 2 == 0) N >>= 1;
+    for(int cur=0; N > 0; N>>=1){
+        if(N % 2 == 0) cur++;
+        else cur = 0;
+        res = Math.max(res, cur);
+    }
+    return res;
+}
+```
+
 ## Explanation
 
 Remember the previous 1's position in the number N. If found a `1` (except the first `1`), calculate a gap.

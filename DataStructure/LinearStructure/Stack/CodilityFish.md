@@ -22,16 +22,11 @@ We assume that all the fish are flowing at the same speed. That is, fish moving 
 
 For example, consider arrays A and B such that:
 ```
-A[0] = 4 
-B[0] = 0 
-A[1] = 3 
-B[1] = 1 
-A[2] = 2 
-B[2] = 0 
-A[3] = 1 
-B[3] = 0 
-A[4] = 5 
-B[4] = 0
+A[0] = 4    B[0] = 0 
+A[1] = 3    B[1] = 1 
+A[2] = 2    B[2] = 0 
+A[3] = 1    B[3] = 0 
+A[4] = 5    B[4] = 0
 ```
 
 Initially all the fish are alive and all except fish number 1 are moving upstream. Fish number 1 meets fish number 2 and eats it, then it meets fish number 3 and eats it too. Finally, it meets fish number 4 and is eaten by it. The remaining two fish, number 0 and 4, never meet and therefore stay alive.
@@ -58,6 +53,26 @@ For example, given the arrays shown above, the function should return 2, as expl
 Elements of input arrays can be modified.
 
 ## Solutions
+
+* Java
+```
+public int solution(int[] A, int[] B) {
+    Deque<Integer> stack = new LinkedList<>();
+    Deque<Integer> direction = new LinkedList<>();
+    for(int i=0; i<A.length; ++i){
+        while(!direction.isEmpty() && B[i]==0 && B[i] != direction.peek()){
+            if(A[i]<stack.peek()) break;
+            stack.pop();
+            direction.pop();
+        }
+        if(direction.isEmpty() || B[i] == direction.peek() || B[i]==1){
+            stack.push(A[i]);
+            direction.push(B[i]);
+        }
+    }
+    return stack.size();
+}
+```
 
 * C++1
 ```

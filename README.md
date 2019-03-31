@@ -17,7 +17,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/GraphTraversal/LC399EvaluateDivision.md">LC399. Evaluate Division</a>
 
 
-
 >>>#### 1.1.1.2 Minimum Spanning Tree (Prim, Kruskal)
 
 >>>#### 1.1.1.3 Shortest Path (Dijkstra, Floyd)
@@ -749,6 +748,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Sort/LC539MinimumTimeDifference.md">LC539. Minimum Time Difference</a>
 
 
+
 >>### 3.5.1 Insert Sort
 
 >>>#### 3.5.1.1 Directly Insert
@@ -843,6 +843,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>### 3.8.1 Stock Buy and Sell
+* <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
 * <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC121BestTimeToBuyAndSellStock.md">LC121. Best Time to Buy and Sell Stock</a>
 * <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC122BestTimeToBuyAndSellStockII.md">LC122. Best Time to Buy and Sell Stock II</a>
 * <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC309BestTimeToBuyAndSellStockWithCooldown.md">LC309. Best Time to Buy and Sell Stock with Cooldown</a>

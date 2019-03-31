@@ -19,7 +19,7 @@ string convertDecimalToHexspeak(string & s){
         int digit = num % 16;
         if(digit > 1 && digit <=9) return "ERROR";
         num /= 16;
-        if(digit == 0) res = "0" + res;
+        if(digit == 0) res = "O" + res;
         else if(digit == 1) res = "I" + res;
         else res = string(1, 'A'+(digit-10)) + res;
     }
