@@ -215,6 +215,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.12 Max and Min
 * <a href="Mathematics/NumberTheory/MaxMin/LC908SmallestRangeI.md">LC908. Smallest Range I</a>
+* <a href="Mathematics/NumberTheory/MaxMin/CodilityMaxCounters.md">Codility Max Counters</a>
+
 
 >>### 1.2.12 Median
 * <a href="Mathematics/NumberTheory/Median/LC462MinimumMovesToEqualArrayElementsII.md">LC462. Minimum Moves to Equal Array Elements II</a>
@@ -773,7 +775,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 3.5.7 Counting Sort
 
 * <a href="Algorithm/Sort/BucketSort/CodilityMissingInteger.md">Codility. Missing Integer</a>
-* <a href="Algorithm/Sort/BucketSort/CodilityFrogRiverOne.md">Codility. Frog River One</a>
+* <a href="Algorithm/Sort/Counting/CodilityFrogRiverOne.md">Codility. Frog River One</a>
 
 
 >## 3.6 Search
