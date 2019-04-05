@@ -44,7 +44,7 @@ public:
         Cell(int r, int c, int h) : row(r), col(c), height(h) {}
     };
     int trapRainWater(vector<vector<int>>& heightMap) {
-        auto myComp = []( Cell a, Cell b ) { return a.height > b.height; };
+        auto myComp = []( Cell a, Cell b ) { return a.height > b.height; }; //minimum Heap (different comparetor with Java)
         priority_queue<Cell, vector<Cell>, decltype(myComp)> pq(myComp); //the  cell with lowest height to appear as the top()
         int h = heightMap.size();
         int w = (h>0) ? heightMap[0].size() : 0;
@@ -63,7 +63,7 @@ public:
         }
         
         int res = 0;
-        int edges[4][2] = {{-1,0},{1,0},{0,-1},{0,1}};
+        int edges[4][2] = {{-1,0},{1,0},{0,-1},{0,1}}; //used to check top, bottom, left, and right
         while(!pq.empty())
         {
             Cell cell = pq.top();

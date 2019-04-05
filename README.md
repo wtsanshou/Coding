@@ -733,9 +733,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Greedy/LC665Non-decreasingArray.md">LC665. Non-decreasing Array</a>
 * <a href="Algorithm/Greedy/LC729MyCalendarI.md">LC729. My Calendar I</a>
 * <a href="Algorithm/Greedy/LC986IntervalListIntersections.md">LC986. Interval List Intersections</a>
-* <a href="Algorithm/Greedy/CodilityFloodDepth.md">Codility. Flood Depth</a>
 * <a href="Algorithm/Greedy/LC11ContainerWithMostWater.md">LC11. Container With Most Water</a>
-
+* <a href="DataStructure/LinearStructure/Queue/PriorityQueue/LC407TrappingRainWaterII.md">LC407. Trapping Rain Water II</a>
+* <a href="Algorithm/Greedy/CodilityFloodDepth.md">Codility. Flood Depth</a>
 
 >## 3.5 Sort
 
@@ -750,7 +750,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Sort/LC324WiggleSortII.md">LC324. Wiggle Sort II</a>
 * <a href="Algorithm/Sort/LC581ShortestUnsortedContinuousSubarray.md">LC581. Shortest Unsorted Continuous Subarray</a>
 * <a href="Algorithm/Sort/LC539MinimumTimeDifference.md">LC539. Minimum Time Difference</a>
-
+* <a href="Algorithm/Sort/LC75SortColors.md">LC75. Sort Colors</a>
 
 
 >>### 3.5.1 Insert Sort
