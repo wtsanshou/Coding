@@ -260,7 +260,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC861ScoreAfterFlippingMatrix.md">LC861. Score After Flipping Matrix</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC944DeleteColumnsToMakeSorted.md">LC944. Delete Columns to Make Sorted</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC498DiagonalTraverse.md">LC498. Diagonal Traverse</a>
-
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC73SetMatrixZeroes.md">LC73. Set Matrix Zeroes</a>
 
 
 >>>#### 1.3.1.2 Linear Equations
