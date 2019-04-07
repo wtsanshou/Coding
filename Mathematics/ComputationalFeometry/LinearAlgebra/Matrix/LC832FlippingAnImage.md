@@ -55,6 +55,14 @@ class Solution {
 }
 ```
 
+* Java (344 ms,  58.1 MB)
+```
+def flipAndInvertImage(A: Array[Array[Int]]): Array[Array[Int]] = {
+    val flip = A.map(a => a.reverse)
+    flip.map(F => F.map(f => f^1))
+}
+```
+
 ## Explanation
 
 Invert both elements when fliping them. 

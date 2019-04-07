@@ -51,6 +51,20 @@ def diStringMatch(S: String): Array[Int] = {
 }
 ```
 
+* Java
+```
+public int[] diStringMatch(String S) {
+    int n = S.length();
+    int[] res = new int[n+1];
+    int i=0, d=n;
+    for(int s=0; s<n; s++)
+        res[s] = (S.charAt(s) == 'I') ? i++ : d--;
+    
+    res[n] = i;
+    return res;
+}
+```
+
 ## Explanation
 
 From left to right of the input:

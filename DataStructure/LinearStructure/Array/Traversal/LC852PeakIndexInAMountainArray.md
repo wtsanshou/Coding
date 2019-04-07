@@ -41,6 +41,15 @@ public int peakIndexInMountainArray(int[] A) {
 }
 ```
 
+* Scala
+```
+def peakIndexInMountainArray(A: Array[Int]): Int = {
+    for(i <- 1 until A.length-1)
+        if(((A(i)-A(i-1)).toLong * (A(i)-A(i+1)).toLong) > 0) return i
+    1
+}
+```
+
 ## Explanation
 
 * **worst-case time complexity:** O(n)

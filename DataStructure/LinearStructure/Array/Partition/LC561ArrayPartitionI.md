@@ -35,6 +35,17 @@ int arrayPairSum(vector<int>& nums) {
 }
 ```
 
+* Java
+```
+public int arrayPairSum(int[] nums) {
+    Arrays.sort(nums);
+    int res = 0;
+    for(int i=0; i<nums.length; i+=2)
+        res += nums[i];
+    return res;
+}
+```
+
 To get the maximum sum of pairs min(ai, bi), the largest integer is not possible selected, but the second largest integer is very helpful to maximum the result. Therefore, we pair the (largest, second largest). For the rest integers, we adopt the same strategy, always select the second largest integer.
 
 So the result is to select the even `i` position's `nums[i]` in the sorted `nums`.

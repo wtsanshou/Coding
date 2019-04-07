@@ -95,6 +95,26 @@ class RecentCounter() {
 }
 ```
 
+* Java
+```
+class RecentCounter {
+
+    private Queue<Integer> queue;
+    private static final int INTERVAL = 3000;
+    
+    public RecentCounter() {
+        queue = new LinkedList<>();
+    }
+    
+    public int ping(int t) {
+        queue.offer(t);
+        while(t-queue.peek() > INTERVAL)
+            queue.poll();
+        return queue.size();
+    }
+}
+```
+
 ## Explanation
 
 The first two solutions use binary Serarch. The worst-case time complexity is O(N*log(N)) which is Time Limit Exceeded.

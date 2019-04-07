@@ -61,6 +61,23 @@ object Solution {
 }
 ```
 
+* Java
+```
+public int minDeletionSize(String[] A) {
+    int n = A.length;
+    int len = A[0].length();
+    int res = 0;
+    for(int j=0; j<len; j++)
+        for(int i=0; i<n-1; i++)
+            if(A[i].charAt(j) > A[i+1].charAt(j)){
+                res++;
+                break;
+            }
+    
+    return res;
+}
+```
+
 ## Explanation
 
 Scala is not good at solving columns, so using transpose to change the columns to rows. Then filter the unsorted rows in.

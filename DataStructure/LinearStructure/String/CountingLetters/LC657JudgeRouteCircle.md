@@ -36,6 +36,13 @@ bool judgeCircle(string moves) {
 }
 ```
 
+* Scala
+```
+def judgeCircle(moves: String): Boolean = {
+    moves.count(_=='U') == moves.count(_=='D') && moves.count(_=='L') == moves.count(_=='R')
+}
+```
+
 ## Explanation
 
 Count the number of R (Right), L (Left), U (Up) and D (down). If the number of R (Right) and L (Left) are equal, and the number of U (Up) and D (down) are equal, the robot moves back to the original place.
