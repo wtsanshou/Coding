@@ -145,6 +145,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.5 Modulo
 
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/LinearEquations/CodilityCountDiv.md">Codility. Count Div</a>
 * <a href="Mathematics/NumberTheory/Modulo/LC168ExcelSheetColumnTitle.md">LC168. Excel Sheet Column Title</a>
 * <a href="Mathematics/NumberTheory/Modulo/LC728SelfDividingNumbers.md">LC728. Self Dividing Numbers</a>
 
@@ -494,6 +495,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>>#### 2.1.4.9 Count
+
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC605CanPlaceFlowers.md">LC605. Can Place Flowers</a>
 * <a href="DataStructure/LinearStructure/Array/Count/LC697DegreeOfAnArray.md">LC697. Degree of an Array</a>
 * <a href="DataStructure/LinearStructure/Array/Count/LC781RabbitsInForest.md">LC781. Rabbits in Forest</a>
 * <a href="DataStructure/LinearStructure/Array/Count/LC821ShortestDistanceToACharacter.md">LC821. Shortest Distance to a Character</a>
@@ -502,6 +505,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>>#### 2.1.4.10 Window Slice
+
 * <a href="DataStructure/LinearStructure/Array/WindowSlice/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
 
 

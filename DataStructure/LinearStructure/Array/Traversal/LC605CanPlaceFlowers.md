@@ -59,6 +59,9 @@ bool canPlaceFlowers(vector<int>& flowerbed, int n) {
 
 ## Explanation
 
-Traversing the array. if find a empty flowerbed, check it's front and back flowerbed. If both of them are empty or outside of the array, plant a new flower in it.
+Following the no-adjacent-flowers rule, plant flowers in the `flowerbed`. Count how many flowers can be planted. 
 
-Finally, check if we finished all of the n new folowers.
+**Note:** The first plot and the last polt.
+
+* **worst-case time complexity:** `O(N)`, where `N` is the length of the input `flowerbed`.
+* **worst-case space complexity:** `O(1)`

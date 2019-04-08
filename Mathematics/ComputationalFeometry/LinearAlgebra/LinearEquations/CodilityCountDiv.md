@@ -18,11 +18,6 @@ for A = 6, B = 11 and K = 2, your function should return 3, because there are th
 * K is an integer within the range [1..2,000,000,000];
 * A ≤ B.
 
-**Complexity:**
-
-* expected worst-case time complexity is O(1);
-* expected worst-case space complexity is O(1).
-
 ## Solutions
 
 * C++1
@@ -36,6 +31,15 @@ int solution(int A, int B, int K) {
 ## Explanation
 
 How many `K` between `A` and `B`. The same idea as the <a href="CodilityFrogJmp.md">Codility. FrogJmp</a>.
+
+It's like starting from `A`, finding the first number who can be divisible by `K`. Then add `K` until reach `B`
+
+**Note:** If `A%K==0`, the divisible number `A` was not count `- A/K`, so need to add it back `res+1`.
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(1)`
+* **worst-case space complexity:** `O(1)`
 
 ## Testcase
 
