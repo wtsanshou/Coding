@@ -379,6 +379,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/LC155MinStack.md">LC155. Min Stack</a>
 * <a href="DataStructure/LinearStructure/Stack/LC394DecodeString.md">LC394. Decode String</a>
 * <a href="DataStructure/LinearStructure/Stack/CodilityFish.md">Codility. Fish</a>
+* <a href="DataStructure/LinearStructure/Stack/CodilityPassingCars.md">Codility. Passing Cars</a>
 * <a href="DataStructure/LinearStructure/Stack/CodilityNesting.md">CodilityNesting</a>
 * <a href="DataStructure/LinearStructure/Stack/CodilityStoneWall.md">Codility. StoneWall</a>
 * <a href="DataStructure/LinearStructure/Stack/LC385MiniParser.md">LC385. Mini Parser</a>
