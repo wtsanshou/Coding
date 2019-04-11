@@ -490,7 +490,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.8 Prefix Sums
 
-
+* <a href="DataStructure/LinearStructure/Stack/CodilityPassingCars.md">Codility. Passing Cars</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityEqui.md">Codility. Equi</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/LC724FindPivotIndex.md">LC724. Find Pivot Index</a>
 
@@ -701,6 +701,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC706DesignHashMap.md">LC706. Design HashMap</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC953VerifyingAnAlienDictionary.md">LC953. Verifying an Alien Dictionary</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC594LongestHarmoniousSubsequence.md">LC594. Longest Harmonious Subsequence</a>
+* <a href="DataStructure/NonlinearStructure/Map/HashMap/CodilityNonDivisors.md">Codility. Non Divisors</a>
 
 
 >>>#### 2.2.5.2 TreeMap
@@ -864,6 +865,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Others/Iterator/LC604DesignCompressedStringIterator.md">LC604. Design Compressed String Iterator</a>
 
 >## Reverse Thinking
+* <a href="DataStructure/NonlinearStructure/Map/HashMap/CodilityNonDivisors.md">Codility. Non Divisors</a>
 * <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
 * <a href="Others/ReverseThinking/LC453MinimumMovesToEqualArrayElements.md">LC453. Minimum Moves to Equal Array Elements</a>
 

@@ -48,6 +48,21 @@ public int solution(int[] A) {
 }
 ```
 
+* Java
+```
+public int solution(int[] A) {
+    int n = A.length;
+    boolean[] visit = new boolean[n+1];
+    for(int a : A){
+        if(a>0 && a<=n)
+            visit[a] = true;
+    }
+    for(int i=1; i<=n; ++i)
+        if(!visit[i]) return i;
+    return n+1;
+}
+```
+
 ## Explanation
 
 Complexity limitation are `time complexity is O(N)`, `space complexity is O(N)`.
