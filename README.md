@@ -490,9 +490,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.8 Prefix Sums
 
+* <a href="DataStructure/LinearStructure/Array/Traversal/LC238ProductOfArrayExceptSelf.md">LC238. Product of Array Except Self</a>
 * <a href="DataStructure/LinearStructure/Stack/CodilityPassingCars.md">Codility. Passing Cars</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityEqui.md">Codility. Equi</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/LC724FindPivotIndex.md">LC724. Find Pivot Index</a>
+* <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityGenomicRangeQuery.md">Codility. Genomic Range Query</a>
 
 
 >>>#### 2.1.4.9 Count
