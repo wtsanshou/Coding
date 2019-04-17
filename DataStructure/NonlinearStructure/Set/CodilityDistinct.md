@@ -21,11 +21,6 @@ For example, given array A consisting of six elements such that:
 
 the function should return 3, because there are 3 distinct values appearing in array A, namely 1, 2 and 3.
 
-**Complexity:**
-
-* expected worst-case time complexity is O(N*log(N));
-* expected worst-case space complexity is O(N), beyond input storage (not counting the storage required for input arguments).
-
 Elements of input arrays can be modified.
 
 ## Solutions
@@ -44,6 +39,11 @@ int solution(vector<int> &A) {
 ```
 
 Set is the best datastructure to count the number of distinct elements.
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(N)`, where `N` is length of `A`.
+* **worst-case space complexity:** `O(N)`, where `N` is length of `A`.
 
 ## Testcase
 

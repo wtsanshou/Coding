@@ -108,8 +108,8 @@ To find the answer of `P` and `Q`, we just need to get the count number of `A`,Â
 
 **Complexity:**
 
-* **worst-case time complexity:** `O(N+M)`;, where `N` is length of `S`, `M` is the length of `P` or `Q`.
-* **worst-case space complexity:** `O(N)`.
+* **worst-case time complexity:** `O(N+M)`, where `N` is length of `S`, `M` is the length of `P` or `Q`.
+* **worst-case space complexity:** `O(N)`, where `N` is length of `S`.
 
 ## Testcase
 

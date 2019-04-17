@@ -694,7 +694,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Set/LC804UniqueMorseCodeWords.md">LC804. Unique Morse Code Words</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC705DesignHashSet.md">LC705. Design HashSet</a>
 * <a href="DataStructure/NonlinearStructure/Set/CodilityDistinct.md">Codility. Distinct</a>
-
+* <a href="DataStructure/NonlinearStructure/Set/CodilityAbsDistinct.md">Codility. Abs Distinct</a>
 
 >>### 2.2.5 Map
 
