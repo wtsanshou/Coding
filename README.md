@@ -696,6 +696,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Set/CodilityDistinct.md">Codility. Distinct</a>
 * <a href="DataStructure/NonlinearStructure/Set/CodilityAbsDistinct.md">Codility. Abs Distinct</a>
 
+
 >>### 2.2.5 Map
 
 >>>#### 2.2.5.1 HashMap
@@ -790,6 +791,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Algorithm/Sort/BucketSort/CodilityMissingInteger.md">Codility. Missing Integer</a>
 * <a href="Algorithm/Sort/Counting/CodilityFrogRiverOne.md">Codility. Frog River One</a>
+* <a href="Algorithm/Sort/Counting/LC299BullsAndCows.md">LC299. Bulls and Cows</a>
 
 
 >## 3.6 Search
