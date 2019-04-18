@@ -465,7 +465,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/SubArray/Uncontinous/LC376WiggleSubsequence.md">LC376. Wiggle Subsequence</a>
 
 
-
 >>>#### 2.1.4.6 Move elements
 
 * <a href="DataStructure/LinearStructure/Array/MoveElements/LC27RemoveElement.md">LC27. Remove Element</a>
@@ -497,6 +496,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityGenomicRangeQuery.md">Codility. Genomic Range Query</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityMinAvgTwoSlice.md">Codility. Min Avg Two Slice</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/LC554BrickWall.md">LC554. Brick Wall</a>
+* <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityMaxDoubleSliceSum.md">Codility. Max Double Slice Sum</a>
 
 
 >>>#### 2.1.4.9 Count

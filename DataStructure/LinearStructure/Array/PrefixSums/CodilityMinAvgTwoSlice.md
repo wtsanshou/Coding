@@ -73,7 +73,7 @@ Count the prefix sum of each element in the `A`. (**Note:** the sum value could 
 
 Check all possible average to find the minimum average.
 
-* **worst-case time complexity:** O(N<sup>2</sup>);, where `N` is length of `A`.
+* **worst-case time complexity:** O(N<sup>2</sup>), where `N` is length of `A`.
 * **worst-case space complexity:** `O(N)`.
 
 ### Solution 2
@@ -104,7 +104,7 @@ public int solution(int[] A) {
 
 Check only 2 or 3 number of average to find the minimum average.
 
-* **worst-case time complexity:** `O(N)`;, where `N` is length of `A`.
+* **worst-case time complexity:** `O(N)`, where `N` is length of `A`.
 * **worst-case space complexity:** `O(N)`.
 
 ### Solution 3
@@ -136,7 +136,7 @@ Only record the minimum of 2 or 3 number of average in each element in `A`.
 
 Then find the minimum average.
 
-* **worst-case time complexity:** `O(N)`;, where `N` is length of `A`.
+* **worst-case time complexity:** `O(N)`, where `N` is length of `A`.
 * **worst-case space complexity:** `O(N)`.
 
 ### Solution 4
@@ -165,7 +165,7 @@ Only check the minimum of 2 or 3 number of average in each element in `A`.
 
 Keep checking the minimum average.
 
-* **worst-case time complexity:** `O(N)`;, where `N` is length of `A`.
+* **worst-case time complexity:** `O(N)`, where `N` is length of `A`.
 * **worst-case space complexity:** `O(1)`.
 
 ## Testcase
