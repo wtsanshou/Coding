@@ -496,6 +496,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityGenomicRangeQuery.md">Codility. Genomic Range Query</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityMinAvgTwoSlice.md">Codility. Min Avg Two Slice</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/LC554BrickWall.md">LC554. Brick Wall</a>
+* <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityMaxSliceSum.md">Codility. Max Slice Sum</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityMaxDoubleSliceSum.md">Codility. Max Double Slice Sum</a>
 
 
