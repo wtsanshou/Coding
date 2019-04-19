@@ -709,6 +709,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC953VerifyingAnAlienDictionary.md">LC953. Verifying an Alien Dictionary</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC594LongestHarmoniousSubsequence.md">LC594. Longest Harmonious Subsequence</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/CodilityNonDivisors.md">Codility. Non Divisors</a>
+* <a href="DataStructure/NonlinearStructure/Map/HashMap/CodilityCountDistinctSlices.md">Codility. Count Distinct Slices</a>
 
 
 >>>#### 2.2.5.2 TreeMap
