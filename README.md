@@ -513,6 +513,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.10 Window Slice
 
 * <a href="DataStructure/LinearStructure/Array/WindowSlice/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
+* <a href="DataStructure/LinearStructure/Array/WindowSlice/LC480SlidingWindowMedian.md">LC480. Sliding Window Median</a>
 
 
 >>>#### 2.1.4.11 Interval
@@ -805,6 +806,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/BinarySearch/LC540SingleElementInASortedArray.md">LC540. Single Element in a Sorted Array</a>
 * <a href="Algorithm/Search/BinarySearch/LC704BinarySearch.md">LC704. Binary Search</a>
 * <a href="Algorithm/Search/BinarySearch/LC300LongestIncreasingSubsequence.md">LC300. Longest Increasing Subsequence</a>
+
 
 
 >>### 3.6.2 Tree Search
