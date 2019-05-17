@@ -335,7 +335,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/Foundation/HrCuttingPaperSquares.md">Hr. Cutting Paper Squares</a>
 * <a href="Mathematics/Foundation/LC738MonotoneIncreasingDigits.md">LC738. Monotone Increasing Digits</a>
 
-
 # 2. Data Structure
 >## 2.1 Linear Structure
 
@@ -489,6 +488,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.8 Prefix Sums
 
+* <a href="Algorithm/Search/BinarySearch/LC209MinimumSizeSubarraySum.md">LC209. Minimum Size Subarray Sum</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC238ProductOfArrayExceptSelf.md">LC238. Product of Array Except Self</a>
 * <a href="DataStructure/LinearStructure/Stack/CodilityPassingCars.md">Codility. Passing Cars</a>
 * <a href="DataStructure/LinearStructure/Array/PrefixSums/CodilityEqui.md">Codility. Equi</a>
@@ -806,7 +806,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/BinarySearch/LC540SingleElementInASortedArray.md">LC540. Single Element in a Sorted Array</a>
 * <a href="Algorithm/Search/BinarySearch/LC704BinarySearch.md">LC704. Binary Search</a>
 * <a href="Algorithm/Search/BinarySearch/LC300LongestIncreasingSubsequence.md">LC300. Longest Increasing Subsequence</a>
-
+* <a href="Algorithm/Search/BinarySearch/LC209MinimumSizeSubarraySum.md">LC209. Minimum Size Subarray Sum</a>
 
 
 >>### 3.6.2 Tree Search
