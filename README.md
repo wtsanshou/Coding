@@ -584,7 +584,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.8 Parentheses
 
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC921MinimumAddToMakeParenthesesValid.md">LC921. Minimum Add to Make Parentheses Valid</a>
-
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC1021RemoveOutermostParentheses.md">LC1021RemoveOutermostParentheses</a>
 
 >>>#### 2.1.5.9 Reverse
 * <a href="DataStructure/LinearStructure/String/Reverse/LC917ReverseOnlyLetters.md">LC917. Reverse Only Letters</a>
