@@ -880,6 +880,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/Hashing/LC532K-diffPairsInAnArray.md">LC532. K-diff Pairs in an Array</a>
 * <a href="Algorithm/Search/Hashing/LC525ContiguousArray.md">LC525. Contiguous Array</a>
 * <a href="Algorithm/Search/Hashing/LC355DesignTwitter.md">LC355. Design Twitter</a>
+* <a href="Algorithm/Search/Hashing/LC432AllOneDataStructure.md">LC432. All O`one Data Structure</a>
 
 
 >## 3.7 Simulation
