@@ -60,7 +60,7 @@ int findLHS(vector<int>& nums) {
 ### Solution 2
 
 1. You can use an unordered_map to count the elements in the `nums`.
-2. Just need to check `key+1` and `key-1` in the map.
+2. Just need to check `key+1` or `key-1` in the map.
 
 **Complexity:**
 

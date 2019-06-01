@@ -36,7 +36,9 @@ Output: False
 
 ## Solutions
 
-* C++1
+### Solution 1
+
+* C++
 ```
 bool findTargetIn(unordered_set<int>& set, TreeNode* root, int k)
     {
@@ -52,7 +54,7 @@ bool findTargetIn(unordered_set<int>& set, TreeNode* root, int k)
 }
 ```
 
-* Java1
+* Java
 ```public boolean findTarget(TreeNode root, int k) {
         Set<Integer> set = new HashSet<>();
         return findTargetIn(set, root, k);
@@ -72,5 +74,16 @@ Using a set to save up layers values could avoid judge if duplicate values in th
 
 Another way is to convert the BST to a sorted array, then see the question <a>LC167. Two Sum II - Input array is sorted</a>. But this way is not the purpose of this question.
 
-* **worst-case time complexity:** O(n)
-* **worst-case space complexity:** O(n)
+**Complexity:**
+
+* **worst-case time complexity:** `O(n)`, where `n` is the number of nodes in the tree `root`.
+* **worst-case space complexity:** `O(n)`, where `n` is the number of nodes in the tree `root`.
+
+### Solution 2
+
+Instead of using set, we can search the `k - root.val` in the BST.
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(n * log(n))`, where `n` is the number of nodes in the tree `root`.
+* **worst-case space complexity:** `O(1)`

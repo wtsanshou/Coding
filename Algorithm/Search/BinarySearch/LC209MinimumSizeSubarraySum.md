@@ -26,9 +26,9 @@ int minSubArrayLen(int s, vector<int>& nums) {
     int n = nums.size();
     if(n==0 || s==0) return 0;
     int res = n+1;
-    int sum = 0;
+    int sum = 0; //?
     for(int i=0; i<n; ++i)
-        sum[i+1] = sum[i]+nums[i];
+        sum[i+1] = sum[i]+nums[i]; //?
     for(int i=0; i<n; ++i)
     {
         int left = i+1;
@@ -118,6 +118,8 @@ Using `mid` to represent the size of checked window.
 If found a window with size `mid` who has `sum ≥ s`, then check the smaller size (from `i` to `j = mid - 1`).
 
 If not found a window with size `mid` who has `sum ≥ s`, then check the larger size (from `i = mid + 1` to `j`).
+
+**Complexity:**
 
 * **worst-case time complexity:** O(n*log(n)), where `n` is length of `nums`.
 * **worst-case space complexity:** `O(1)`.
