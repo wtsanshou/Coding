@@ -732,6 +732,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.2.6 Trie
 
 * <a href="DataStructure/NonlinearStructure/Trie/LC208ImplementTrie.md">LC208. Implement Trie</a>
+* <a href="DataStructure/NonlinearStructure/Trie/LC211AddAndSearchWord.md">LC211. Add and Search Word</a>
 
 
 # 3. Algorithm
@@ -741,7 +742,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/LinearList/LC148SortList.md">LC148. Sort List</a>
 
->## 3.3 Recursion Algorithm
+>## 3.3 Recursion
 
 
 >>### 3.3.1 Back Tracking
