@@ -872,6 +872,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">LC599. Minimum Index Sum Of Two Lists</a>
 * <a href="Algorithm/Search/Hashing/LC1TwoSum.md">LC1. Two Sum</a>
 * <a href="Algorithm/Search/Hashing/LC167TwoSumII-InputArrayIsSorted.md">LC167. Two Sum II - Input array is sorted</a>
+* <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
 * <a href="Algorithm/Search/Hashing/LC15ThreeSum.md">LC15. Three Sum</a>
 * <a href="Algorithm/Search/Hashing/LC16ThreeSumClosest.md">LC16. Three Sum Closest</a>
 * <a href="Algorithm/Search/Hashing/LC18FourSum.md">LC18. Four Sum</a>
@@ -881,6 +882,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/Hashing/LC525ContiguousArray.md">LC525. Contiguous Array</a>
 * <a href="Algorithm/Search/Hashing/LC355DesignTwitter.md">LC355. Design Twitter</a>
 * <a href="Algorithm/Search/Hashing/LC432AllOneDataStructure.md">LC432. All O`one Data Structure</a>
+* <a href="Algorithm/Search/Hashing/LC594LongestHarmoniousSubsequence.md">LC594. Longest Harmonious Subsequence</a>
 
 
 >## 3.7 Simulation
