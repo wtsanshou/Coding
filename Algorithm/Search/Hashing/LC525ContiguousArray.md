@@ -66,9 +66,9 @@ prefix   0   1   0   -1
 **Exampl 2**
 
 ```
-binary  1   1   0
-convert 1   1   -1
-prefix  1   2   1
+binary      1   1   0
+convert     1   1   -1
+prefix  0   1   2   1
 ```
 
 **Complexity:**
