@@ -878,6 +878,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/Hashing/LC454FourSumII.md">LC454. Four Sum II</a>
 * <a href="Algorithm/Search/Hashing/HR-SockMerchant.md">HR. Sock Merchant</a>
 * <a href="Algorithm/Search/Hashing/LC532K-diffPairsInAnArray.md">LC532. K-diff Pairs in an Array</a>
+* <a href="Algorithm/Search/Hashing/LC525ContiguousArray.md">LC525. Contiguous Array</a>
+
 
 >## 3.7 Simulation
 * <a href="Algorithm/Simulation/LC950RevealCardsInIncreasingOrder.md">LC950. Reveal Cards In Increasing Order</a>
