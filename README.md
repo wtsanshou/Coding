@@ -387,7 +387,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/LC402RemoveKDigits.md">LC402. Remove K Digits</a>
 * <a href="DataStructure/LinearStructure/Stack/LC946ValidateStackSequences.md">LC946. Validate Stack Sequences</a>
 * <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
- 
+* <a href="DataStructure/LinearStructure/Stack/LC71SimplifyPath.md">LC71. Simplify Path</a> 
+
 
 >>### 2.1.3 Queue
 
