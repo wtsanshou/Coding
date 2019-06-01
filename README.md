@@ -555,6 +555,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Anagrams/LC438FindAllAnagramsInString.md">LC438. Find All Anagrams in a String</a>
 * <a href="DataStructure/LinearStructure/String/Anagrams/LC49GroupAnagrams.md">LC49. Group Anagrams</a>
 * <a href="DataStructure/LinearStructure/String/Anagrams/LC567PermutationInString.md">LC567. Permutation in String</a>
+* <a href="DataStructure/LinearStructure/String/Anagrams/LC242ValidAnagram.md">LC242. Valid Anagram</a>
+
 
 >>>#### 2.1.5.3 Duplicate
 
@@ -622,6 +624,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/LC709ToLowerCase.md">LC709. To Lower Case</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC824GoatLatin.md">LC824. Goat Latin</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC859BuddyStrings.md">LC859. Buddy Strings</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC38CountAndSay.md">LC38. Count and Say</a>
 
 
 >>### 2.1.6 General List
