@@ -554,7 +554,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/String/Anagrams/LC438FindAllAnagramsInString.md">LC438. Find All Anagrams in a String</a>
 * <a href="DataStructure/LinearStructure/String/Anagrams/LC49GroupAnagrams.md">LC49. Group Anagrams</a>
-
+* <a href="DataStructure/LinearStructure/String/Anagrams/LC567PermutationInString.md">LC567. Permutation in String</a>
 
 >>>#### 2.1.5.3 Duplicate
 
