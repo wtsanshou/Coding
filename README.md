@@ -570,6 +570,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Matching/LC925LongPressedName.md">LC925. Long Pressed Name</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC984StringWithoutAAAorBBB.md">LC984. String Without AAA or BBB</a>
 * <a href="DataStructure/LinearStructure/String/Matching/HR-CountingValleys.md">HR. Counting Valleys</a>
+* <a href="DataStructure/LinearStructure/String/Matching/LC434NumberOfSegmentsInString.md">LC434. Number of Segments in a String</a>
 
 
 >>>#### 2.1.5.5 Counting Letters
