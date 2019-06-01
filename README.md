@@ -856,6 +856,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="Algorithm/Search/Hashing/LC599MinimumIndexSumOfTwoLists.md">LC599. Minimum Index Sum Of Two Lists</a>
 * <a href="Algorithm/Search/Hashing/LC1TwoSum.md">LC1. Two Sum</a>
+* <a href="Algorithm/Search/Hashing/LC167TwoSumII-InputArrayIsSorted.md">LC167. Two Sum II - Input array is sorted</a>
 
 
 >## 3.7 Simulation
