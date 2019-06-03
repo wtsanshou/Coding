@@ -149,6 +149,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Modulo/LC168ExcelSheetColumnTitle.md">LC168. Excel Sheet Column Title</a>
 * <a href="Mathematics/NumberTheory/Modulo/LC728SelfDividingNumbers.md">LC728. Self Dividing Numbers</a>
 * <a href="Mathematics/NumberTheory/Modulo/LC166FractionToRecurringDecimal.md">LC166. Fraction to Recurring Decimal</a>
+* <a href="Mathematics/NumberTheory/Modulo/WTGetModulo.md">WT. Get Modulo</a>
+
 
 >>### 1.2.6 Factorial
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC60PermutationSequence.md">LC60. Permutation Sequence</a>
