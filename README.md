@@ -910,6 +910,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC877StoneGame.md">LC877. Stone Game</a>
 * <a href="Algorithm/DynamicProgramming/LC53MaximumSubarray.md">LC53. Maximum Subarray</a>
 * <a href="Algorithm/DynamicProgramming/LC494TargetSum.md">LC494. Target Sum</a>
+* <a href="Algorithm/DynamicProgramming/LC338CountingBits.md">LC338. Counting Bits</a>
 
 
 >>### 3.8.1 Stock Buy and Sell

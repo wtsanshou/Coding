@@ -35,7 +35,7 @@ Could you do it in one-pass, using only O(1) extra memory and without modify
 
 ### Solution 1
 
-* C++ (6ms) O(mn)
+* C++ (6ms)
 ```
 int countBattleships(vector<vector<char>>& board) {
     int row=board.size();
