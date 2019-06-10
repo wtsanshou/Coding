@@ -58,6 +58,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.1.2 Combinatorics
 
+* <a href="Algorithm/DynamicProgramming/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
 * <a href="Mathematics/NumberTheory/Bit/LC401BinaryWatch.md">LC401. Binary Watch</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrDiwaliLights.md">Hr. Diwali Lights</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
@@ -911,6 +912,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC53MaximumSubarray.md">LC53. Maximum Subarray</a>
 * <a href="Algorithm/DynamicProgramming/LC494TargetSum.md">LC494. Target Sum</a>
 * <a href="Algorithm/DynamicProgramming/LC338CountingBits.md">LC338. Counting Bits</a>
+* <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
 
 
 >>### 3.8.1 Stock Buy and Sell
@@ -930,4 +932,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
 * <a href="Others/ReverseThinking/LC453MinimumMovesToEqualArrayElements.md">LC453. Minimum Moves to Equal Array Elements</a>
 
+>## Rule From Result
+
+* <a href="Algorithm/DynamicProgramming/LC338CountingBits.md">LC338. Counting Bits</a>
 
