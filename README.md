@@ -57,7 +57,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.1.1.12 Network Flow
 
 >>### 1.1.2 Combinatorics
-
+* <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
 * <a href="Algorithm/DynamicProgramming/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
 * <a href="Mathematics/NumberTheory/Bit/LC401BinaryWatch.md">LC401. Binary Watch</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrDiwaliLights.md">Hr. Diwali Lights</a>
@@ -670,7 +670,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
-
+* <a href="Algorithm/DynamicProgramming/LC96UniqueBinarySearchTrees.md">LC96. Unique Binary Search Trees</a>
 * <a href="DataStructure/NonlinearStructure/Set/LC653TwoSumIV-InputBST.md">LC653. Two Sum IV - Input is a BST</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC669TrimABinarySearchTree.md">LC669. Trim a Binary Search Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC783MinimumDistanceBetweenBSTNodes.md">LC783. Minimum Distance Between BST Nodes</a> 
@@ -913,6 +913,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC494TargetSum.md">LC494. Target Sum</a>
 * <a href="Algorithm/DynamicProgramming/LC338CountingBits.md">LC338. Counting Bits</a>
 * <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
+* <a href="Algorithm/DynamicProgramming/LC96UniqueBinarySearchTrees.md">LC96. Unique Binary Search Trees</a>
 
 
 >>### 3.8.1 Stock Buy and Sell
