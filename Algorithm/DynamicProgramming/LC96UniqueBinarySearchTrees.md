@@ -58,5 +58,7 @@ int numTrees(int n) {
 
 Using `dp[j]` to store the number of left child BST of node `i`, using `dp[i-j-1]` to store the number of right child BST of node `i`.
 
+**Complexity:**
+
 * **worst-case time complexity:** O(n<sup>2</sup>).
 * **worst-case space complexity:** `O(n)`.
