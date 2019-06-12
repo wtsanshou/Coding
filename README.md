@@ -97,7 +97,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>### 1.2.2 Bit
-
+* <a href="Algorithm/DynamicProgramming/LC416PartitionEqualSubsetSum.md">LC416. Partition Equal Subset Sum</a>
 * <a href="DataStructure/LinearStructure/Array/Duplicate/CodilityOddOccurrencesInArray.md">Codility. Odd Occurrences In Array</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC289GameOfLife.md">LC289. Game of Life</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC661ImageSmoother.md">LC661. Image Smoother</a>
@@ -915,6 +915,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
 * <a href="Algorithm/DynamicProgramming/LC96UniqueBinarySearchTrees.md">LC96. Unique Binary Search Trees</a>
 * <a href="Algorithm/DynamicProgramming/LC516LongestPalindromicSubsequence.md">LC516. Longest Palindromic Subsequence</a>
+* <a href="Algorithm/DynamicProgramming/LC416PartitionEqualSubsetSum.md">LC416. Partition Equal Subset Sum</a>
+
 
 
 >>### 3.8.1 Stock Buy and Sell
