@@ -916,7 +916,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC96UniqueBinarySearchTrees.md">LC96. Unique Binary Search Trees</a>
 * <a href="Algorithm/DynamicProgramming/LC516LongestPalindromicSubsequence.md">LC516. Longest Palindromic Subsequence</a>
 * <a href="Algorithm/DynamicProgramming/LC416PartitionEqualSubsetSum.md">LC416. Partition Equal Subset Sum</a>
-
+* <a href="Algorithm/DynamicProgramming/CodilityNumberSolitaire.md">Codility. Number Solitaire</a>
 
 
 >>### 3.8.1 Stock Buy and Sell
