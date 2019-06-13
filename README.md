@@ -918,6 +918,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC416PartitionEqualSubsetSum.md">LC416. Partition Equal Subset Sum</a>
 * <a href="Algorithm/DynamicProgramming/CodilityNumberSolitaire.md">Codility. Number Solitaire</a>
 * <a href="Algorithm/DynamicProgramming/LC64MinimumPathSum.md">LC64. Minimum Path Sum</a>
+* <a href="Algorithm/DynamicProgramming/LC474OnesAndZeroes.md">LC474. Ones and Zeroes</a>
+
 
 >>### 3.8.1 Stock Buy and Sell
 * <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
