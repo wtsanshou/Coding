@@ -919,6 +919,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/CodilityNumberSolitaire.md">Codility. Number Solitaire</a>
 * <a href="Algorithm/DynamicProgramming/LC64MinimumPathSum.md">LC64. Minimum Path Sum</a>
 * <a href="Algorithm/DynamicProgramming/LC474OnesAndZeroes.md">LC474. Ones and Zeroes</a>
+* <a href="Algorithm/DynamicProgramming/LC552StudentAttendanceRecordII.md">LC552. Student Attendance Record II</a>
 
 
 >>### 3.8.1 Stock Buy and Sell
