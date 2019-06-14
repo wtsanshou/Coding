@@ -923,7 +923,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC279PerfectSquares.md">LC279. Perfect Squares</a>
 * <a href="Algorithm/DynamicProgramming/LC388LongestAbsoluteFilePath.md">LC388. Longest Absolute File Path</a>
 * <a href="Algorithm/DynamicProgramming/LC375GuessNumberHigherOrLowerII.md">LC375. Guess Number Higher or Lower II</a>
-
+* <a href="Algorithm/DynamicProgramming/LC36ValidSudoku.md">LC36. Valid Sudoku</a>
 
 >>### 3.8.1 Stock Buy and Sell
 * <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
