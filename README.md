@@ -929,6 +929,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC43MultiplyStrings.md">LC43. Multiply Strings</a>
 * <a href="Algorithm/DynamicProgramming/LC322CoinChange.md">LC322. Coin Change</a>
 * <a href="Algorithm/DynamicProgramming/LC583DeleteOperationForTwoStrings.md">LC583. Delete Operation for Two Strings</a>
+* <a href="Algorithm/DynamicProgramming/LC546RemoveBoxes.md">LC546. Remove Boxes</a>
 
 
 >>### 3.8.1 Stock Buy and Sell
