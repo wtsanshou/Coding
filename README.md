@@ -894,7 +894,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Simulation/LC950RevealCardsInIncreasingOrder.md">LC950. Reveal Cards In Increasing Order</a>
 
 >## 3.8 Dynamic Programming (DP)
-
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
 * <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 * <a href="Algorithm/DynamicProgramming/LC638ShoppingOffers.md">LC638. Shopping Offers</a>
@@ -925,6 +925,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC388LongestAbsoluteFilePath.md">LC388. Longest Absolute File Path</a>
 * <a href="Algorithm/DynamicProgramming/LC375GuessNumberHigherOrLowerII.md">LC375. Guess Number Higher or Lower II</a>
 * <a href="Algorithm/DynamicProgramming/LC36ValidSudoku.md">LC36. Valid Sudoku</a>
+* <a href="Algorithm/DynamicProgramming/LC576OutOfBoundaryPaths.md">LC576. Out of Boundary Paths</a>
+
 
 >>### 3.8.1 Stock Buy and Sell
 * <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
