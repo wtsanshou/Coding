@@ -930,6 +930,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC322CoinChange.md">LC322. Coin Change</a>
 * <a href="Algorithm/DynamicProgramming/LC583DeleteOperationForTwoStrings.md">LC583. Delete Operation for Two Strings</a>
 * <a href="Algorithm/DynamicProgramming/LC546RemoveBoxes.md">LC546. Remove Boxes</a>
+* <a href="Algorithm/DynamicProgramming/LC568MaximumVacationDays.md">LC568. Maximum Vacation Days</a>
 
 
 >>### 3.8.1 Stock Buy and Sell
