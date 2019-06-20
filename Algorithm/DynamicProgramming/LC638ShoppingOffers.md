@@ -162,7 +162,7 @@ public class Solution {
 
 At the beginning, I was thinking to sort the special list by the sum of saved money of eahc offer. I even planned to put price of each item to the special list.
 
-Then, I awared a use case: a previous offer contains few items, if we use this offer, it may destroy the next offer which contains a lot of expensive items. Therefore, Sortting is no a solution of this question.
+Then, I awared a use case: a previous offer contains few items, if we use this offer, it may destroy the next offer which contains a lot of expensive items. Therefore, Sortting is not a solution of this question.
 
 I did try to use negative price in the input. It seems the algorithm will calculate it. Negative price is not possible in the real world. But it is not limited in the question.
 

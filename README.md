@@ -124,7 +124,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC307RangeSumQueryMutable.md">LC307. Range Sum Query – Mutable</a>
 * <a href="Mathematics/NumberTheory/Bit/LC29DivideTwoIntegers.md">LC29. Divide Two Integers</a>
 * <a href="Mathematics/NumberTheory/Bit/LC693BinaryNumberWithAlternatingBits.md">LC693. Binary Number with Alternating Bits</a>
-* <a href="Mathematics/NumberTheory/Bit/LC7171-bitAnd2-bitCharacters.md">LC717. 1-bit and 2-bit Characters</a>
+* <a href="Mathematics/NumberTheory/Bit/LC717-1-bitAnd2-bitCharacters.md">LC717. 1-bit and 2-bit Characters</a>
 * <a href="Mathematics/NumberTheory/Bit/LC762PrimeNumberOfSetBitsInBinaryRepresentatio.md">LC762. Prime Number of Set Bits in Binary Representation</a>
 * <a href="Mathematics/NumberTheory/Bit/LC868BinaryGap.md">LC868. Binary Gap</a>
 * <a href="Mathematics/NumberTheory/Bit/LC999AvailableCapturesForRook.md">LC999. Available Captures for Rook</a>
@@ -553,7 +553,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.1.5 String
 
 >>>#### 2.1.5.1 Path
-
+* <a href="DataStructure/LinearStructure/Stack/LC71SimplifyPath.md">LC71. Simplify Path</a> 
 * <a href="DataStructure/LinearStructure/String/Path/LC609FindDuplicateFileInSystem.md">LC609. Find Duplicate File In System</a>
 
 >>>#### 2.1.5.2 Anagrams
@@ -562,6 +562,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Anagrams/LC49GroupAnagrams.md">LC49. Group Anagrams</a>
 * <a href="DataStructure/LinearStructure/String/Anagrams/LC567PermutationInString.md">LC567. Permutation in String</a>
 * <a href="DataStructure/LinearStructure/String/Anagrams/LC242ValidAnagram.md">LC242. Valid Anagram</a>
+* <a href="DataStructure/LinearStructure/String/Anagrams/LC472ConcatenatedWords.md">LC472. Concatenated Words</a>
 
 
 >>>#### 2.1.5.3 Duplicate
