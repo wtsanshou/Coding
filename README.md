@@ -615,7 +615,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
 * <a href="DataStructure/LinearStructure/String/SubString/LC686RepeatedStringMatch.md">LC686. Repeated String Match</a> 
 * <a href="DataStructure/LinearStructure/String/SubString/LC893GroupsOfSpecial-EquivalentStrings.md">LC893. Groups of Special-Equivalent Strings</a> 
-
+* <a href="DataStructure/LinearStructure/String/SubString/LC14LongestCommonPrefix.md">LC14. Longest Common Prefix</a> 
 
 
 >>>#### 2.1.5.11 IP
