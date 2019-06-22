@@ -577,6 +577,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Matching/LC984StringWithoutAAAorBBB.md">LC984. String Without AAA or BBB</a>
 * <a href="DataStructure/LinearStructure/String/Matching/HR-CountingValleys.md">HR. Counting Valleys</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC434NumberOfSegmentsInString.md">LC434. Number of Segments in a String</a>
+* <a href="DataStructure/LinearStructure/String/Matching/LC520DetectCapital.md">LC520. Detect Capital</a>
 
 
 >>>#### 2.1.5.5 Counting Letters
