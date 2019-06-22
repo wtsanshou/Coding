@@ -59,5 +59,5 @@ public:
 
 The input will be in range of [-1e7, 1e7], don't need to worry -2147483648.
 
-* **worst-case time complexity:** O(log<sub>7</sub>(n))
+* **worst-case time complexity:** O(log<sub>7</sub>(n)), where `n` is `num`.
 * **worst-case space complexity:** O(1)
