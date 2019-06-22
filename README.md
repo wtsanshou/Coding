@@ -823,7 +823,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Sort/LC539MinimumTimeDifference.md">LC539. Minimum Time Difference</a>
 * <a href="Algorithm/Sort/LC75SortColors.md">LC75. Sort Colors</a>
 * <a href="Algorithm/Sort/CodilityMaxProductOfThree.md">Codility. Max Product Of Three</a>
-
+* <a href="Algorithm/Sort/LC524LongestWordInDictionaryThroughDeleting.md">LC524. Longest Word in Dictionary through Deleting</a>
 
 >>### 3.5.1 Insert Sort
 
