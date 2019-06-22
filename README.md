@@ -579,7 +579,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Matching/LC434NumberOfSegmentsInString.md">LC434. Number of Segments in a String</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC520DetectCapital.md">LC520. Detect Capital</a>
 * <a href="DataStructure/LinearStructure/String/Matching/LC392IsSubsequence.md">LC392. Is Subsequence</a>
-* <a href="DataStructure/LinearStructure/String/Matching/LC13IntegerToRoman.md">LC13. Integer to Roman</a>
+
 
 
 >>>#### 2.1.5.5 Counting Letters
@@ -591,6 +591,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC806NumberOfLinesToWriteString.md">LC806. Number of Lines To Write String</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC819MostCommonWord.md">LC819. Most Common Word</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC830PositionsOfLargeGroups.md">LC830. Positions of Large Groups</a>
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC423ReconstructOriginalDigitsFromEnglish.md">LC423. Reconstruct Original Digits from English</a>
+
 
 >>>#### 2.1.5.7 Palindrom
 * <a href="Algorithm/DynamicProgramming/LC516LongestPalindromicSubsequence.md">LC516. Longest Palindromic Subsequence</a>
@@ -640,7 +642,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/LC824GoatLatin.md">LC824. Goat Latin</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC859BuddyStrings.md">LC859. Buddy Strings</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC38CountAndSay.md">LC38. Count and Say</a>
-
+* <a href="DataStructure/LinearStructure/String/Conversion/LC13IntegerToRoman.md">LC13. Integer to Roman</a>
 
 >>### 2.1.6 General List
 
