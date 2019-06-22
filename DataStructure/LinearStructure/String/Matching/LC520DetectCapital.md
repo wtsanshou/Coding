@@ -69,8 +69,8 @@ def detectCapitalUse(self, word):
 ```
 
 1. Capital start:
-1.1. All uppercase following return true, otherwise, return false
-1.2. All lowercase following return true, otherwise, return false
+1.1. All uppercase following return true, otherwise, return false;
+1.2. All lowercase following return true, otherwise, return false.
 
 2. Lowercase start, all lowercase following return true, otherwise, return false
 
