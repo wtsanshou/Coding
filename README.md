@@ -644,7 +644,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/LC824GoatLatin.md">LC824. Goat Latin</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC859BuddyStrings.md">LC859. Buddy Strings</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC38CountAndSay.md">LC38. Count and Say</a>
-* <a href="DataStructure/LinearStructure/String/Conversion/LC13IntegerToRoman.md">LC13. Integer to Roman</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC12IntegerToRoman.md">LC12. Integer to Roman</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC13RomanToInteger.md">LC13. Roman to Integer</a>
+
 
 >>### 2.1.6 General List
 
