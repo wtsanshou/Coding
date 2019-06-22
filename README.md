@@ -647,6 +647,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/LC38CountAndSay.md">LC38. Count and Say</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC12IntegerToRoman.md">LC12. Integer to Roman</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC13RomanToInteger.md">LC13. Roman to Integer</a>
+* <a href="DataStructure/LinearStructure/String/Conversion/LC535EncodeAndDecodeTinyURL.md">LC535. Encode and Decode TinyURL</a>
 
 
 >>### 2.1.6 General List
