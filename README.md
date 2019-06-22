@@ -593,6 +593,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC819MostCommonWord.md">LC819. Most Common Word</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC830PositionsOfLargeGroups.md">LC830. Positions of Large Groups</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC423ReconstructOriginalDigitsFromEnglish.md">LC423. Reconstruct Original Digits from English</a>
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC383RansomNote.md">LC383. Ransom Note</a>
 
 
 >>>#### 2.1.5.7 Palindrom
