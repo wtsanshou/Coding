@@ -373,7 +373,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>### 2.1.2 Stack
-
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC20ValidParentheses.md">LC20. Valid Parentheses</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC341FlattenNestedListIterator.md">LC341. Flatten Nested List Iterator</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
 * <a href="DataStructure/LinearStructure/Stack/LC682BaseballGame.md">LC682. Baseball Game</a>
@@ -600,6 +600,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC921MinimumAddToMakeParenthesesValid.md">LC921. Minimum Add to Make Parentheses Valid</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC1021RemoveOutermostParentheses.md">LC1021RemoveOutermostParentheses</a>
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC20ValidParentheses.md">LC20. Valid Parentheses</a>
+
 
 >>>#### 2.1.5.9 Reverse
 * <a href="DataStructure/LinearStructure/String/Reverse/LC917ReverseOnlyLetters.md">LC917. Reverse Only Letters</a>
