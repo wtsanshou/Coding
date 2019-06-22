@@ -34,4 +34,6 @@ public:
 
 Here the `shortened URL` is the index of the `original URL` in the array `res`.
 
+**Complexity:**
+
 * **worst-case time complexity:** `O(1)`.
