@@ -152,6 +152,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Modulo/LC728SelfDividingNumbers.md">LC728. Self Dividing Numbers</a>
 * <a href="Mathematics/NumberTheory/Modulo/LC166FractionToRecurringDecimal.md">LC166. Fraction to Recurring Decimal</a>
 * <a href="Mathematics/NumberTheory/Modulo/WTGetModulo.md">WT. Get Modulo</a>
+* <a href="Mathematics/NumberTheory/Modulo/LC412FizzBuzz.md">LC412. Fizz Buzz</a>
 
 
 >>### 1.2.6 Factorial
@@ -907,6 +908,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Simulation/LC950RevealCardsInIncreasingOrder.md">LC950. Reveal Cards In Increasing Order</a>
 
 >## 3.8 Dynamic Programming (DP)
+* <a href="Mathematics/NumberTheory/Fibonacci/CodilityCountStepsToFibonacci.md">Codility. Count Steps to Fibonacci</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
 * <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>

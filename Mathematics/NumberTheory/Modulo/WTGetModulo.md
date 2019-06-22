@@ -38,3 +38,18 @@ Doulbe `b` until it's larger than or equal `a`. In each recurse, is the modulo i
 
 * **worst-case time complexity:** `O(log(a))`.
 * **worst-case space complexity:** `O(log(a))`.
+
+### Solution 2
+
+* Java 
+```
+public int modulo(int a, int b){
+    while(a>=b) a-=b;
+    return a;
+}
+```
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(a)`.
+* **worst-case space complexity:** `O(1)`.
