@@ -600,6 +600,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/CodilityLongestPassword.md">Codility. Longest Password</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC58LengthOfLastWord.md">LC58. Length of Last Word</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC387FirstUniqueCharacterInString.md">LC387. First Unique Character in a String</a>
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC451SortCharactersByFrequency.md">LC451. Sort Characters By Frequency</a>
 
 
 >>>#### 2.1.5.7 Palindrom
@@ -815,7 +816,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >## 3.5 Sort
-
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC451SortCharactersByFrequency.md">LC451. Sort Characters By Frequency</a>
 * <a href="DataStructure/LinearStructure/Array/Partition/LC561ArrayPartitionI.md">LC561. Array Partition I</a>
 * <a href="DataStructure/LinearStructure/String/SubString/LC893GroupsOfSpecial-EquivalentStrings.md">LC893. Groups of Special-Equivalent Strings</a> 
 * <a href="DataStructure/LinearStructure/String/SubString/LC720LongestWordInDictionary.md">LC720. Longest Word in Dictionary</a>
