@@ -601,6 +601,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC58LengthOfLastWord.md">LC58. Length of Last Word</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC387FirstUniqueCharacterInString.md">LC387. First Unique Character in a String</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC451SortCharactersByFrequency.md">LC451. Sort Characters By Frequency</a>
+* <a href="DataStructure/LinearStructure/String/CountingLetters/Codility-SocksLaundering.md">Codility. Socks Laundering</a>
 
 
 >>>#### 2.1.5.7 Palindrom
