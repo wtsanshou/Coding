@@ -595,6 +595,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC423ReconstructOriginalDigitsFromEnglish.md">LC423. Reconstruct Original Digits from English</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC383RansomNote.md">LC383. Ransom Note</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/CodilityLongestPassword.md">Codility. Longest Password</a>
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC58LengthOfLastWord.md">LC58. Length of Last Word</a>
 
 
 >>>#### 2.1.5.7 Palindrom
