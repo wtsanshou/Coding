@@ -109,6 +109,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC477TotalHammingDistance.md">LC477. Total Hamming Distance</a>
 * <a href="Mathematics/NumberTheory/Bit/LC476NumberComplement.md">LC476. Number Complement</a>
 * <a href="Mathematics/NumberTheory/Bit/LC338CountingBits.md">LC338. Counting Bits</a>
+* <a href="Mathematics/NumberTheory/Bit/LC389FindTheDifference.md">LC389. Find the Difference</a>
 * <a href="Mathematics/NumberTheory/Bit/LC136SingleNumber.md">LC136. Single Number I</a>
 * <a href="Mathematics/NumberTheory/Bit/LC137SingleNumberII.md">LC137. Single Number II</a>
 * <a href="Mathematics/NumberTheory/Bit/LC260SingleNumberIII.md">LC260. Single Number III</a>
@@ -585,7 +586,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>>#### 2.1.5.5 Counting Letters
-
+* <a href="Mathematics/NumberTheory/Bit/LC389FindTheDifference.md">LC389. Find the Difference</a>
+* <a href="DataStructure/LinearStructure/Array/WindowSlice/LC424LongestRepeatingCharacterReplacement.md">LC424. Longest Repeating Character Replacement</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC657JudgeRouteCircle.md">LC657. Judge Route Circle</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC443StringCompression.md">LC443. String Compression</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC748ShortestCompletingWord.md">LC748. Shortest Completing Word</a>
