@@ -657,6 +657,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Conversion/LC535EncodeAndDecodeTinyURL.md">LC535. Encode and Decode TinyURL</a>
 * <a href="DataStructure/LinearStructure/String/Conversion/LC481MagicalString.md">LC481. Magical String</a>
 
+>>>#### 2.1.5.14 Format
+* <a href="DataStructure/LinearStructure/String/Format/LC482LicenseKeyFormatting.md">LC482. License Key Formatting</a>
+
 
 >>### 2.1.6 General List
 
