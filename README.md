@@ -521,6 +521,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/Array/WindowSlice/LC643MaximumAverageSubarrayI.md">LC643. Maximum Average Subarray I</a>
 * <a href="DataStructure/LinearStructure/Array/WindowSlice/LC480SlidingWindowMedian.md">LC480. Sliding Window Median</a>
+* <a href="DataStructure/LinearStructure/Array/WindowSlice/LC424LongestRepeatingCharacterReplacement.md">LC424. Longest Repeating Character Replacement</a>
 
 
 >>>#### 2.1.4.11 Interval
