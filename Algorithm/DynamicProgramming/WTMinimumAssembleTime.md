@@ -1,4 +1,4 @@
-# WT. Minimum Possible Time
+# WT. Minimum Assemble Time
 
 ## Question
 
@@ -105,7 +105,7 @@ Let's see the example again, and add more information:
 
 ```
 8,4,6,12 
-8, 10,12 -> 0+0 +10   = dp[1][1] + dp[2][2] + sum[1][2] = dp[1][2] = 10
+8, 10,12 -> 0+0 +  10 = dp[1][1] + dp[2][2] + sum[1][2] = dp[1][2] = 10
 18,   12 -> 0+10 + 18 = dp[0][0] + dp[1][2] + sum[0][2] = dp[0][2] = 28
     30   -> 28+0 + 30 = dp[0][2] + dp[3][3] + sum[0][3] = dp[0][2] = 58
 ```

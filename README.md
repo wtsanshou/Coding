@@ -602,7 +602,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC387FirstUniqueCharacterInString.md">LC387. First Unique Character in a String</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC451SortCharactersByFrequency.md">LC451. Sort Characters By Frequency</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/Codility-SocksLaundering.md">Codility. Socks Laundering</a>
-
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC551StudentAttendanceRecordI.md">LC551. Student Attendance Record I</a>
 
 >>>#### 2.1.5.7 Palindrom
 * <a href="Algorithm/DynamicProgramming/LC516LongestPalindromicSubsequence.md">LC516. Longest Palindromic Subsequence</a>
@@ -952,6 +952,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/CodilityNumberSolitaire.md">Codility. Number Solitaire</a>
 * <a href="Algorithm/DynamicProgramming/LC64MinimumPathSum.md">LC64. Minimum Path Sum</a>
 * <a href="Algorithm/DynamicProgramming/LC474OnesAndZeroes.md">LC474. Ones and Zeroes</a>
+* <a href="DataStructure/LinearStructure/String/CountingLetters/LC551StudentAttendanceRecordI.md">LC551. Student Attendance Record I</a>
 * <a href="Algorithm/DynamicProgramming/LC552StudentAttendanceRecordII.md">LC552. Student Attendance Record II</a>
 * <a href="Algorithm/DynamicProgramming/LC279PerfectSquares.md">LC279. Perfect Squares</a>
 * <a href="Algorithm/DynamicProgramming/LC388LongestAbsoluteFilePath.md">LC388. Longest Absolute File Path</a>
@@ -966,7 +967,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC467UniqueSubstringsInWraparoundString.md">LC467. Unique Substrings in Wraparound String</a>
 * <a href="Algorithm/DynamicProgramming/LC139WordBreak.md">LC139. Word Break</a>
 * <a href="Algorithm/DynamicProgramming/LC91DecodeWays.md">LC91. Decode Ways</a>
-* <a href="Algorithm/DynamicProgramming/WTMinimumPossibleTime.md">WTMinimumPossibleTime</a>
+* <a href="Algorithm/DynamicProgramming/WTMinimumAssembleTime.md">WT. Minimum Assemble Time</a>
 
 
 >>### 3.8.1 Stock Buy and Sell
