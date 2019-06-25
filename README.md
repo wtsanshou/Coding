@@ -101,7 +101,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC416PartitionEqualSubsetSum.md">LC416. Partition Equal Subset Sum</a>
 * <a href="DataStructure/LinearStructure/Array/Duplicate/CodilityOddOccurrencesInArray.md">Codility. Odd Occurrences In Array</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC289GameOfLife.md">LC289. Game of Life</a>
-* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/WT-EightHousesStates.md">WT. Eight Houses States</a>
+* <a href="Mathematics/NumberTheory/Bit/WT-EightHousesStates.md">WT. Eight Houses States</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC661ImageSmoother.md">LC661. Image Smoother</a>
 * <a href="Mathematics/NumberTheory/Bit/HrSpecialMultiple.md">Hr. Special Multiple</a>
 * <a href="Mathematics/NumberTheory/Bit/LC190ReverseBits.md">LC190. Reverse Bits</a>
@@ -130,6 +130,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC762PrimeNumberOfSetBitsInBinaryRepresentatio.md">LC762. Prime Number of Set Bits in Binary Representation</a>
 * <a href="Mathematics/NumberTheory/Bit/LC868BinaryGap.md">LC868. Binary Gap</a>
 * <a href="Mathematics/NumberTheory/Bit/LC999AvailableCapturesForRook.md">LC999. Available Captures for Rook</a>
+* <a href="Mathematics/NumberTheory/Bit/LC67AddBinary.md">LC67. Add Binary</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)

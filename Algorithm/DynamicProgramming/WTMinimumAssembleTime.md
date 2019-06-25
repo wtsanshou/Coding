@@ -11,7 +11,7 @@ Your task is to find the minimum possible time to combine all components togethe
 **Note**
 
 * 2<= `n` <= 10<sup>6</sup>
-* 0 < `input[i]` <= 10<sup>6</sup>
+* 0 < `input[i]` <= 10<sup>3</sup>
 
 **Example 1**
 

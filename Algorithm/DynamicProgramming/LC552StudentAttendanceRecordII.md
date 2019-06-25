@@ -45,7 +45,7 @@ int checkRecord(int n) {
         {
             for(int L=0; L<3; ++L)
             {
-                int val = dp[p-1][a][2];
+                int val = dp[p-1][a][2]; //here 2 means at most 2 ending "L"
                 if(a>0) val = (val + dp[p-1][a-1][2]) % mod;
                 if(L>0) val = (val + dp[p-1][a][L-1]) % mod;
                 dp[p][a][L] = val;
@@ -56,7 +56,7 @@ int checkRecord(int n) {
 }
 ```
 
-`dp[n][i][j]` means `n` records contain `i` times `Absent` and `j` times `Late`.
+`dp[n][i][j]` means the number of all possible attendance records with at most `n` times `Present`, at most `i` times `Absent`, and at most `j` ending `Late`.
 
 **Complexity:**
 
