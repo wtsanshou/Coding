@@ -613,7 +613,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC516LongestPalindromicSubsequence.md">LC516. Longest Palindromic Subsequence</a>
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC479LargestPalindromeProduct.md">LC479. Largest Palindrome Product</a>
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC647PalindromicSubstrings.md">LC647. Palindromic Substrings</a>
+* <a href="DataStructure/LinearStructure/String/Palindrom/LC125ValidPalindrome.md">LC125. Valid Palindrome</a>
 * <a href="DataStructure/LinearStructure/String/Palindrom/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
+
 
 
 >>>#### 2.1.5.8 Parentheses

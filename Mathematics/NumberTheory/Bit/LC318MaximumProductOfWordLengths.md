@@ -73,7 +73,7 @@ When I see this question, the most straight forward idea is to compare all possi
 
 ### Solution 2
 
-* C++ (69ms) O(mn)
+* C++ (69ms)
 ```
 int maxProduct(vector<string>& words) {
     unordered_map<int, int> maxLen;
@@ -140,7 +140,9 @@ Because each word will contain only lower case letters, we can use an integer to
 
 When we have the integers which use bit to represent the words, we can use bit AND operation to check if two integers have `1` in the same location, in the problem it means if two words have common letters.
 
+**Corner case** Note there could have words have the same letters but with different length.
+
 **Complexity:**
 
-* **worst-case time complexity:** O(n<sup>2</sup>), where `n` is the length of the input `words`. 
+* **worst-case time complexity:** O(max(n<sup>2</sup>, n*w)), where `n` is the length of the input `words`, `w` is the length of the longest word in the `words`.  
 * **worst-case space complexity:** `O(n)`, where `n` is the length of the input `words`
