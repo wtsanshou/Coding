@@ -58,7 +58,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.1.1.12 Network Flow
 
 >>### 1.1.2 Combinatorics
-* <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC22GenerateParentheses.md">LC22. Generate Parentheses</a>
+ <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
 * <a href="Algorithm/DynamicProgramming/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
 * <a href="Mathematics/NumberTheory/Bit/LC401BinaryWatch.md">LC401. Binary Watch</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrDiwaliLights.md">Hr. Diwali Lights</a>
@@ -609,13 +610,13 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/Codility-SocksLaundering.md">Codility. Socks Laundering</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC551StudentAttendanceRecordI.md">LC551. Student Attendance Record I</a>
 
->>>#### 2.1.5.7 Palindrom
+>>>#### 2.1.5.7 Palindrome
 * <a href="Algorithm/DynamicProgramming/LC516LongestPalindromicSubsequence.md">LC516. Longest Palindromic Subsequence</a>
-* <a href="DataStructure/LinearStructure/String/Palindrom/LC479LargestPalindromeProduct.md">LC479. Largest Palindrome Product</a>
-* <a href="DataStructure/LinearStructure/String/Palindrom/LC647PalindromicSubstrings.md">LC647. Palindromic Substrings</a>
-* <a href="DataStructure/LinearStructure/String/Palindrom/LC125ValidPalindrome.md">LC125. Valid Palindrome</a>
-* <a href="DataStructure/LinearStructure/String/Palindrom/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
-* <a href="DataStructure/LinearStructure/String/Palindrom/LC409LongestPalindrome.md">LC409. Longest Palindrome</a>
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC479LargestPalindromeProduct.md">LC479. Largest Palindrome Product</a>
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC647PalindromicSubstrings.md">LC647. Palindromic Substrings</a>
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC125ValidPalindrome.md">LC125. Valid Palindrome</a>
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC409LongestPalindrome.md">LC409. Longest Palindrome</a>
 
 
 >>>#### 2.1.5.8 Parentheses
@@ -623,6 +624,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC921MinimumAddToMakeParenthesesValid.md">LC921. Minimum Add to Make Parentheses Valid</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC1021RemoveOutermostParentheses.md">LC1021RemoveOutermostParentheses</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC20ValidParentheses.md">LC20. Valid Parentheses</a>
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC22GenerateParentheses.md">LC22. Generate Parentheses</a>
 
 
 >>>#### 2.1.5.9 Reverse
@@ -800,7 +802,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>### 3.3.1 Back Tracking
-
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC22GenerateParentheses.md">LC22. Generate Parentheses</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC46Permutations.md">LC46. Permutations</a>
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>
 * <a href="Algorithm/Recursion/BackTracking/HrBuildingAList.md">Hr. Building A List</a>
@@ -813,7 +815,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.4 Greedy Algorithm
 
-* <a href="DataStructure/LinearStructure/String/Palindrom/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
 * <a href="Algorithm/Greedy/LC646MaximumLengthOfPairChain.md">LC646. Maximum Length of Pair Chain</a>
 * <a href="Algorithm/Greedy/LC665Non-decreasingArray.md">LC665. Non-decreasing Array</a>
 * <a href="Algorithm/Greedy/LC729MyCalendarI.md">LC729. My Calendar I</a>
@@ -990,7 +992,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Others/Iterator/LC604DesignCompressedStringIterator.md">LC604. Design Compressed String Iterator</a>
 
 >## Reverse Thinking
-* <a href="DataStructure/LinearStructure/String/Palindrom/LC409LongestPalindrome.md">LC409. Longest Palindrome</a>
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC409LongestPalindrome.md">LC409. Longest Palindrome</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/CodilityNonDivisors.md">Codility. Non Divisors</a>
 * <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
 * <a href="Others/ReverseThinking/LC453MinimumMovesToEqualArrayElements.md">LC453. Minimum Moves to Equal Array Elements</a>

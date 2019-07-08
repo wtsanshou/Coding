@@ -145,4 +145,4 @@ When we have the integers which use bit to represent the words, we can use bit A
 **Complexity:**
 
 * **worst-case time complexity:** O(max(n<sup>2</sup>, n*w)), where `n` is the length of the input `words`, `w` is the length of the longest word in the `words`.  
-* **worst-case space complexity:** `O(n)`, where `n` is the length of the input `words`
+* **worst-case space complexity:** `O(n)`, where `n` is the length of the input `words`.

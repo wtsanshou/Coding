@@ -28,7 +28,9 @@ Explanation: Six palindromic strings: "a", "a", "a", "aa", "aa", "aaa".
 
 ## Solutions
 
-* C++1
+### Solution 1
+
+* C++
 ```
 class Solution {
 public:
@@ -50,14 +52,23 @@ public:
     
     int countSubstrings(string s) {
         int res = 0, n = s.length();
-        for(int i=1; i<n-1; ++i)
+        for(int i=1; i<n-1; ++i) // starting from 1, so you missed checking s[0]==s[1] we can start from 0!!! test it
             res += countPalindrom(i, s);
-        return n+res + ((n>0 && s[0]==s[1]) ? 1 : 0);
+        return n+res + ((n>0 && s[0]==s[1]) ? 1 : 0); 
     }
 };
 ```
 
-* Java1
+Each single letter is a palindrome, so `n` is part of the result. Then we just need to count palindrome with length of more than `1` starting from each character in the `s`.
+
+One corner case: 
+
+**Complexity:**
+
+* **worst-case time complexity:** O(n<sup>2</sup>), where `n` is the length of the input `x`.  
+* **worst-case space complexity:** `O(1)`.
+
+* Java
 ```
 public int countSubstrings(String s) {
         int res=0, n=s.length();
@@ -76,7 +87,7 @@ public int countSubstrings(String s) {
 }
 ```
 
-* Java2
+* Java
 ```public int countSubstrings(String s) {
         int res=0, n=s.length();
         char[] cs = s.toCharArray();
@@ -95,7 +106,9 @@ public int countSubstrings(String s) {
 }
 ```
 
-## Explanation
+
+
+
 
 * **worst-case time complexity:** O(n<sup>2</sup>)
 * **worst-case space complexity:** O(n)
