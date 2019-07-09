@@ -58,8 +58,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 1.1.1.12 Network Flow
 
 >>### 1.1.2 Combinatorics
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC131PalindromePartitioning.md">LC131. Palindrome Partitioning</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC22GenerateParentheses.md">LC22. Generate Parentheses</a>
- <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
+* <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
 * <a href="Algorithm/DynamicProgramming/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
 * <a href="Mathematics/NumberTheory/Bit/LC401BinaryWatch.md">LC401. Binary Watch</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrDiwaliLights.md">Hr. Diwali Lights</a>
@@ -617,6 +618,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Palindrome/LC125ValidPalindrome.md">LC125. Valid Palindrome</a>
 * <a href="DataStructure/LinearStructure/String/Palindrome/LC680ValidPalindromeII.md">LC680. Valid Palindrome II</a>
 * <a href="DataStructure/LinearStructure/String/Palindrome/LC409LongestPalindrome.md">LC409. Longest Palindrome</a>
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC131PalindromePartitioning.md">LC131. Palindrome Partitioning</a>
 
 
 >>>#### 2.1.5.8 Parentheses
@@ -802,6 +804,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>### 3.3.1 Back Tracking
+* <a href="DataStructure/LinearStructure/String/Palindrome/LC131PalindromePartitioning.md">LC131. Palindrome Partitioning</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC22GenerateParentheses.md">LC22. Generate Parentheses</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC46Permutations.md">LC46. Permutations</a>
 * <a href="Algorithm/Recursion/BackTracking/LC52N-QueensII.md">LC52. N-Queens II</a>

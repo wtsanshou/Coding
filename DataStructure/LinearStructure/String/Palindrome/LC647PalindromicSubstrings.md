@@ -52,11 +52,38 @@ public:
     
     int countSubstrings(string s) {
         int res = 0, n = s.length();
-        for(int i=1; i<n-1; ++i) // starting from 1, so you missed checking s[0]==s[1] we can start from 0!!! test it
+        for(int i=1; i<n-1; ++i) // starting from 1, so you missed checking s[0]==s[1] we can start from 0!!!
             res += countPalindrom(i, s);
         return n+res + ((n>0 && s[0]==s[1]) ? 1 : 0); 
     }
 };
+```
+
+* Java
+```
+class Solution {
+    public int countSubstrings(String s) {
+        int count=0;
+        char[] arr = s.toCharArray();
+        for(int i=0; i<arr.length; i++)
+            count += countPalindrome(arr, i);
+        return count;
+    }
+    
+    private int countPalindrome(char[] arr, int i){
+        int count=1;
+        count += countPalindromeFrom(arr, i-1, i+1);
+        count += countPalindromeFrom(arr, i, i+1);
+        return count;
+    }
+    
+    private int countPalindromeFrom(char[] arr, int i, int j){
+        int count = 0;
+        while(i>=0 && j<arr.length && arr[i--]==arr[j++])
+            count++;
+        return count;
+    }
+}
 ```
 
 Each single letter is a palindrome, so `n` is part of the result. Then we just need to count palindrome with length of more than `1` starting from each character in the `s`.
@@ -68,47 +95,49 @@ One corner case:
 * **worst-case time complexity:** O(n<sup>2</sup>), where `n` is the length of the input `x`.  
 * **worst-case space complexity:** `O(1)`.
 
+### Solution 2
+
 * Java
 ```
 public int countSubstrings(String s) {
-        int res=0, n=s.length();
-        for(int i=1; i<n-1; ++i){
-            int temp = 0;
-            int left=i-1, right=i+1;
-            while(left>=0 && right<n && s.charAt(left--)==s.charAt(right++))
-                temp++;
-            left=i;
-            right=i+1;
-            while(left>=0 && right<n && s.charAt(left--)==s.charAt(right++))
-                temp++;
-            res += temp;
-        }
-        return n+res + ((n>1 && s.charAt(0)==s.charAt(1)) ? 1 : 0);
+    int res=0, n=s.length();
+    for(int i=1; i<n-1; ++i){
+        int temp = 0;
+        int left=i-1, right=i+1;
+        while(left>=0 && right<n && s.charAt(left--)==s.charAt(right++))
+            temp++;
+        left=i;
+        right=i+1;
+        while(left>=0 && right<n && s.charAt(left--)==s.charAt(right++))
+            temp++;
+        res += temp;
+    }
+    return n+res + ((n>1 && s.charAt(0)==s.charAt(1)) ? 1 : 0);
 }
 ```
 
 * Java
 ```public int countSubstrings(String s) {
-        int res=0, n=s.length();
-        char[] cs = s.toCharArray();
-        for(int i=1; i<n-1; ++i){
-            int temp = 0;
-            int left=i-1, right=i+1;
-            while(left>=0 && right<n && cs[left--]==cs[right++])
-                temp++;
-            left=i;
-            right=i+1;
-            while(left>=0 && right<n && cs[left--]==cs[right++])
-                temp++;
-            res += temp;
-        }
-        return n+res + ((n>1 && cs[0]==cs[1]) ? 1 : 0);
+    int res=0, n=s.length();
+    char[] cs = s.toCharArray();
+    for(int i=1; i<n-1; ++i){
+        int temp = 0;
+        int left=i-1, right=i+1;
+        while(left>=0 && right<n && cs[left--]==cs[right++])
+            temp++;
+        left=i;
+        right=i+1;
+        while(left>=0 && right<n && cs[left--]==cs[right++])
+            temp++;
+        res += temp;
+    }
+    return n+res + ((n>1 && cs[0]==cs[1]) ? 1 : 0);
 }
 ```
 
+Using iteration to implement the solution.
 
-
-
+**Complexity:**
 
 * **worst-case time complexity:** O(n<sup>2</sup>)
 * **worst-case space complexity:** O(n)
