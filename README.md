@@ -628,6 +628,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC1021RemoveOutermostParentheses.md">LC1021RemoveOutermostParentheses</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC20ValidParentheses.md">LC20. Valid Parentheses</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC22GenerateParentheses.md">LC22. Generate Parentheses</a>
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC241DifferentWaysToAddParentheses.md">LC241. Different Ways to Add Parentheses</a>
 
 
 >>>#### 2.1.5.9 Reverse

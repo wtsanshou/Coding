@@ -21,9 +21,9 @@ The range of n is [1,8].
 * C++1
 ```
 int largestPalindrome(int n) {
-        int res[] = {9, 987, 123, 597, 677, 1218, 877, 475};
-        return res[n-1];
-    }
+    int res[] = {9, 987, 123, 597, 677, 1218, 877, 475};
+    return res[n-1];
+}
 ```
 
 ## Explanation
