@@ -83,6 +83,8 @@ public int strStr(String haystack, String needle) {
 
 Compare the subbstring of `haystack` with `needle`.
 
+**Note** do not ignore the last character in the `haystack`.
+
 **Complexity:**
 
 * **worst-case time complexity:** `O(m * n)`, where `n` is the length of `needle`, `m` is the length of the `haystack`.
