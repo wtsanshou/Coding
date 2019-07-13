@@ -47,3 +47,21 @@ def middleNode(head: ListNode): ListNode = {
 
 * **worst-case time complexity:** O(n), where n is the number of nodes of the listNode.
 * **worst-case space complexity:** O(1)
+
+## Follow Up
+
+1. what if the length of list is  even return the value of center left one.
+
+* Java
+```
+public ListNode middleNode(ListNode head) {
+    if(head == null) return head;
+    ListNode slow = head;
+    ListNode fast = head;
+    while(slow.next!=null && fast.next!=null && fast.next.next!=null){
+        slow = slow.next;
+        fast = fast.next.next;
+    }
+    return slow;
+}
+```

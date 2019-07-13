@@ -948,6 +948,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/Hashing/LC355DesignTwitter.md">LC355. Design Twitter</a>
 * <a href="Algorithm/Search/Hashing/LC432AllOneDataStructure.md">LC432. All O`one Data Structure</a>
 * <a href="Algorithm/Search/Hashing/LC594LongestHarmoniousSubsequence.md">LC594. Longest Harmonious Subsequence</a>
+* <a href="Algorithm/Search/Hashing/Lint386LongestSubstringWithAtMostKDistinctCharacters.md">Lint386. Longest Substring with At Most K Distinct Characters</a>
 
 
 >## 3.7 Simulation
