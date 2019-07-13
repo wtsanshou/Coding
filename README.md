@@ -379,7 +379,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/LinearList/LC138CopyListWithRandomPointer.md">LC138. Copy List with Random Pointer</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC61RotateList.md">LC61. Rotate List</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC876MiddleOfTheLinkedList.md">LC876. Middle of the Linked List</a>
-
+* <a href="DataStructure/LinearStructure/LinearList/Lint19InsertNodeInSortedLinkedList.md">Lint19. Insert Node in Sorted Linked List</a>
 
 
 >>### 2.1.2 Stack
