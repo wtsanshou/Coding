@@ -861,7 +861,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 3.5.1 Insert Sort
 * <a href="Algorithm/Sort/InsertSort/WTInsertSort.md">WT. Insert Sort</a>
-
+* <a href="Algorithm/Sort/InsertSort/Lint532ReversePairs.md">Lint532. Reverse Pairs</a>
 
 >>>#### 3.5.1.1 Directly Insert
 
