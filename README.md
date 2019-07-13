@@ -559,6 +559,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="DataStructure/LinearStructure/Array/Shuffle/LC384ShuffleAnArray.md">LC384. Shuffle an Array</a>
 
+>>>#### 2.1.4.16 Two Pointers
+
+* <a href="DataStructure/LinearStructure/Array/TwoPointers/Lint31PartitionArray.md">Lint31. Partition Array</a>
 
 >>### 2.1.5 String
 
