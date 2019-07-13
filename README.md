@@ -858,6 +858,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Sort/LC524LongestWordInDictionaryThroughDeleting.md">LC524. Longest Word in Dictionary through Deleting</a>
 
 >>### 3.5.1 Insert Sort
+* <a href="Algorithm/Sort/InsertSort/WTInsertSort.md">WT. Insert Sort</a>
+
 
 >>>#### 3.5.1.1 Directly Insert
 
