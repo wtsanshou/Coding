@@ -4,7 +4,6 @@
 
 Implement `Bubble Sort`
 
-
 **Example 1:**
 ```
 	Input:  [3, 2, 1, 4, 5]

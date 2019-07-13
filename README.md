@@ -868,6 +868,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 3.5.2 Exchange Sort
 
 >>### 3.5.3 Select Sort
+* <a href="Algorithm/Sort/SelectSort/WTSelectSort.md">WT. Select Sort</a>
+
 
 >>### 3.5.4 Merge Sort
 
