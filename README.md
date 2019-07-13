@@ -192,6 +192,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Power/LC50PowXN.md">LC50. Pow(x, n)</a>
 * <a href="Mathematics/NumberTheory/Power/LC458PoorPigs.md">LC458. Poor Pigs</a>
 * <a href="Mathematics/NumberTheory/Power/LC970PowerfulIntegers.md">LC970. Powerful Integers</a>
+* <a href="Mathematics/NumberTheory/Power/Lint147NarcissisticNumber.md">Lint147. Narcissistic Number</a>
 
 
 >>### 1.2.9 Base
