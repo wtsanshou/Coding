@@ -856,6 +856,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Sort/LC75SortColors.md">LC75. Sort Colors</a>
 * <a href="Algorithm/Sort/CodilityMaxProductOfThree.md">Codility. Max Product Of Three</a>
 * <a href="Algorithm/Sort/LC524LongestWordInDictionaryThroughDeleting.md">LC524. Longest Word in Dictionary through Deleting</a>
+* <a href="Algorithm/Sort/Lint846Multi-keywordSort.md">Lint846. Multi-keyword Sort</a>
 
 >>### 3.5.1 Insert Sort
 * <a href="Algorithm/Sort/InsertSort/WTInsertSort.md">WT. Insert Sort</a>
