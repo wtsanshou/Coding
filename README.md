@@ -630,12 +630,13 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >>>#### 2.1.5.8 Parentheses
-
+* <a href="DataStructure/LinearStructure/Stack/LC394DecodeString.md">LC394. Decode String</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC921MinimumAddToMakeParenthesesValid.md">LC921. Minimum Add to Make Parentheses Valid</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC1021RemoveOutermostParentheses.md">LC1021RemoveOutermostParentheses</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC20ValidParentheses.md">LC20. Valid Parentheses</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC22GenerateParentheses.md">LC22. Generate Parentheses</a>
 * <a href="DataStructure/LinearStructure/String/Parentheses/LC241DifferentWaysToAddParentheses.md">LC241. Different Ways to Add Parentheses</a>
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC553OptimalDivision.md">LC553. Optimal Division</a>
 
 
 >>>#### 2.1.5.9 Reverse
