@@ -660,9 +660,12 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.5.12 Operation
 
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC241DifferentWaysToAddParentheses.md">LC241. Different Ways to Add Parentheses</a>
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC553OptimalDivision.md">LC553. Optimal Division</a>
 * <a href="DataStructure/LinearStructure/Stack/LC150EvaluateReversePolishNotation.md">LC150. Evaluate Reverse Polish Notation</a>
 * <a href="DataStructure/LinearStructure/String/Operation/LC640SolveTheEquation.md">LC640. Solve the Equation</a> 
 * <a href="DataStructure/LinearStructure/String/Operation/LC415AddStrings.md">LC415. Add Strings</a> 
+* <a href="DataStructure/LinearStructure/String/Operation/LC227BasicCalculatorII.md">LC227. Basic Calculator II</a> 
 
 
 >>>#### 2.1.5.13 Conversion
