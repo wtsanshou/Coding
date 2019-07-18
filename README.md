@@ -552,7 +552,9 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC120Triangle.md">LC120. Triangle</a>
 
 >>>#### 2.1.4.13 Partition
+
 * <a href="DataStructure/LinearStructure/Array/Partition/LC937ReorderLogFiles.md">LC937. Reorder Log Files</a>
+* <a href="DataStructure/LinearStructure/Array/TwoPointers/Lint31PartitionArray.md">Lint31. Partition Array</a>
 * <a href="DataStructure/LinearStructure/Array/Partition/LC561ArrayPartitionI.md">LC561. Array Partition I</a>
 
 
@@ -566,6 +568,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.4.16 Two Pointers
 
 * <a href="DataStructure/LinearStructure/Array/TwoPointers/Lint31PartitionArray.md">Lint31. Partition Array</a>
+
 
 >>### 2.1.5 String
 
@@ -883,6 +886,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 3.5.3 Select Sort
 * <a href="Algorithm/Sort/SelectSort/WTSelectSort.md">WT. Select Sort</a>
+* <a href="Algorithm/Sort/SelectSort/Lint143SortColorsII.md">Lint143. Sort Colors II</a>
 
 
 >>### 3.5.4 Merge Sort
