@@ -69,6 +69,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/HrKCandyStore.md">Hr. K Candy Store</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/CodilityCountInstances.md">Codility. Count Instances</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/LC795NumberOfSubarraysWithBoundedMaximum.md">LC795. Number of Subarrays with Bounded Maximum</a>
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/Lint1667IntervalStatistics.md">Lint1667. Interval Statistics</a>
 
 
 >>### 1.1.3 Permutation
@@ -237,6 +238,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Median/LC462MinimumMovesToEqualArrayElementsII.md">LC462. Minimum Moves to Equal Array Elements II</a>
 
 >>### 1.2.13 Sum
+
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/Lint1667IntervalStatistics.md">Lint1667. Interval Statistics</a>
 * <a href="Mathematics/NumberTheory/Sum/CodilityPermMissingElem.md">Codility. Perm Missing Elem</a>
 * <a href="Mathematics/NumberTheory/Sum/CodilityTapeEquilibrium.md">Codility. Tape Equilibrium</a>
  
@@ -824,6 +827,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.3 Recursion
 
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/Lint1667IntervalStatistics.md">Lint1667. Interval Statistics</a>
 
 >>### 3.3.1 Back Tracking
 * <a href="DataStructure/LinearStructure/String/Palindrome/LC131PalindromePartitioning.md">LC131. Palindrome Partitioning</a>
@@ -1034,5 +1038,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## Rule From Result
 
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/Lint1667IntervalStatistics.md">Lint1667. Interval Statistics</a>
 * <a href="Algorithm/DynamicProgramming/LC338CountingBits.md">LC338. Counting Bits</a>
 
