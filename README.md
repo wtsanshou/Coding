@@ -932,6 +932,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/BinarySearch/Lint63SearchInRotatedSortedArrayII.md">Lint63. Search in Rotated Sorted Array II</a>
 * <a href="Algorithm/Search/BinarySearch/Lint74FirstBadVersion.md">Lint74. First Bad Version</a>
 * <a href="Algorithm/Search/BinarySearch/Lint159FindMinimumInRotatedSortedArray.md">Lint159. Find Minimum in Rotated Sorted Array</a>
+* <a href="Algorithm/Search/BinarySearch/Lint1753DoingHomework.md">Lint1753. Doing Homework</a>
 
 
 >>### 3.6.2 Tree Search
