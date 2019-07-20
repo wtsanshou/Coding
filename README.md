@@ -928,7 +928,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/BinarySearch/LC300LongestIncreasingSubsequence.md">LC300. Longest Increasing Subsequence</a>
 * <a href="Algorithm/Search/BinarySearch/LC209MinimumSizeSubarraySum.md">LC209. Minimum Size Subarray Sum</a>
 * <a href="Algorithm/Search/BinarySearch/Lint75FindPeakElement.md">Lint75. Find Peak Element</a>
-
+* <a href="Algorithm/Search/BinarySearch/Lint61SearchForRange.md">Lint61. Search for a Range</a>
 
 >>### 3.6.2 Tree Search
 
