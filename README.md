@@ -541,6 +541,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.11 Interval
 
+* <a href="Algorithm/Greedy/Lint1668IntervalMinimumCoverage.md">Lint1668. Interval Minimum Coverage</a>
 * <a href="DataStructure/LinearStructure/Array/Interval/LC624MaximumDistanceInArrays.md">LC624. Maximum Distance In Arrays</a>
 * <a href="DataStructure/LinearStructure/Array/Interval/LC621TaskScheduler.md">LC621. Task Scheduler</a>
 * <a href="DataStructure/LinearStructure/Array/Interval/LC667BeautifulArrangementII.md">LC667. Beautiful Arrangement II</a>
@@ -856,6 +857,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Greedy/LC134GasStation.md">LC134. Gas Station</a>
 * <a href="Algorithm/Greedy/LC419BattleshipsInBoard.md">LC419. Battleships in a Board</a>
 * <a href="Algorithm/Greedy/Lint920MeetingRooms.md">Lint920. Meeting Rooms</a>
+* <a href="Algorithm/Greedy/Lint1668IntervalMinimumCoverage.md">Lint1668. Interval Minimum Coverage</a>
 
 
 >## 3.5 Sort
