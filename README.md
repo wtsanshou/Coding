@@ -239,6 +239,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.2.13 Sum
 
+* <a href="Algorithm/Greedy/Lint1670TurnBasedGame.md">Lint1670. Turn-Based Game</a>
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/Lint1667IntervalStatistics.md">Lint1667. Interval Statistics</a>
 * <a href="Mathematics/NumberTheory/Sum/CodilityPermMissingElem.md">Codility. Perm Missing Elem</a>
 * <a href="Mathematics/NumberTheory/Sum/CodilityTapeEquilibrium.md">Codility. Tape Equilibrium</a>
@@ -541,6 +542,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 2.1.4.11 Interval
 
+* <a href="Mathematics/DiscreteMathematics/Combinatorics/Lint1667IntervalStatistics.md">Lint1667. Interval Statistics</a>
 * <a href="Algorithm/Greedy/Lint1668IntervalMinimumCoverage.md">Lint1668. Interval Minimum Coverage</a>
 * <a href="DataStructure/LinearStructure/Array/Interval/LC624MaximumDistanceInArrays.md">LC624. Maximum Distance In Arrays</a>
 * <a href="DataStructure/LinearStructure/Array/Interval/LC621TaskScheduler.md">LC621. Task Scheduler</a>
@@ -858,9 +860,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Greedy/LC419BattleshipsInBoard.md">LC419. Battleships in a Board</a>
 * <a href="Algorithm/Greedy/Lint920MeetingRooms.md">Lint920. Meeting Rooms</a>
 * <a href="Algorithm/Greedy/Lint1668IntervalMinimumCoverage.md">Lint1668. Interval Minimum Coverage</a>
-
+* <a href="Algorithm/Greedy/Lint1670TurnBasedGame.md">Lint1670. Turn-Based Game</a>
 
 >## 3.5 Sort
+
+* <a href="Algorithm/Greedy/Lint1670TurnBasedGame.md">Lint1670. Turn-Based Game</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC451SortCharactersByFrequency.md">LC451. Sort Characters By Frequency</a>
 * <a href="DataStructure/LinearStructure/Array/Partition/LC561ArrayPartitionI.md">LC561. Array Partition I</a>
 * <a href="DataStructure/LinearStructure/String/SubString/LC893GroupsOfSpecial-EquivalentStrings.md">LC893. Groups of Special-Equivalent Strings</a> 
