@@ -98,5 +98,7 @@ public int findPeak(int[] A) {
 
 To reach `O(log(n))`, we need to use binary search. The peek point must be a bigger number than it's neighbours. So we just need to narrow the `i` and `j` range to always include the bigger number.
 
+**Complexity:**
+
 * **worst-case time complexity:** `O(log(n))`, where `n` is the length of the input `A`.
 * **worst-case space complexity:** `O(1)`.
