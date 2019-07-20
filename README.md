@@ -930,6 +930,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/BinarySearch/Lint75FindPeakElement.md">Lint75. Find Peak Element</a>
 * <a href="Algorithm/Search/BinarySearch/Lint61SearchForRange.md">Lint61. Search for a Range</a>
 * <a href="Algorithm/Search/BinarySearch/Lint63SearchInRotatedSortedArrayII.md">Lint63. Search in Rotated Sorted Array II</a>
+* <a href="Algorithm/Search/BinarySearch/Lint74FirstBadVersion.md">Lint74. First Bad Version</a>
 
 
 >>### 3.6.2 Tree Search
