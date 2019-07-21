@@ -884,6 +884,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Sort/Lint846Multi-keywordSort.md">Lint846. Multi-keyword Sort</a>
 
 >>### 3.5.1 Insert Sort
+
 * <a href="Algorithm/Sort/InsertSort/WTInsertSort.md">WT. Insert Sort</a>
 * <a href="Algorithm/Sort/InsertSort/Lint532ReversePairs.md">Lint532. Reverse Pairs</a>
 
@@ -1050,6 +1051,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/CodilityNonDivisors.md">Codility. Non Divisors</a>
 * <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
 * <a href="Others/ReverseThinking/LC453MinimumMovesToEqualArrayElements.md">LC453. Minimum Moves to Equal Array Elements</a>
+* <a href="Others/ReverseThinking/Lint945TaskScheduler.md">Lint945. Task Scheduler</a>
 
 >## Rule From Result
 
