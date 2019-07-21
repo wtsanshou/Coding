@@ -406,6 +406,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Stack/LC946ValidateStackSequences.md">LC946. Validate Stack Sequences</a>
 * <a href="DataStructure/LinearStructure/Stack/LC503NextGreaterElementII.md">LC503. Next Greater Element II</a>
 * <a href="DataStructure/LinearStructure/Stack/LC71SimplifyPath.md">LC71. Simplify Path</a> 
+* <a href="DataStructure/LinearStructure/Stack/Lint229StackSorting.md">Lint229. Stack Sorting</a> 
 
 
 >>### 2.1.3 Queue
@@ -895,6 +896,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 3.5.2 Exchange Sort
 
 >>### 3.5.3 Select Sort
+
+* <a href="DataStructure/LinearStructure/Stack/Lint229StackSorting.md">Lint229. Stack Sorting</a> 
 * <a href="Algorithm/Sort/SelectSort/WTSelectSort.md">WT. Select Sort</a>
 * <a href="Algorithm/Sort/SelectSort/Lint143SortColorsII.md">Lint143. Sort Colors II</a>
 
