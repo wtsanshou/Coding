@@ -55,6 +55,34 @@ object Solution {
 }
 ```
 
+* Java
+```
+public class Solution {
+    /**
+     * @param target: the destination
+     * @return: the minimum number of steps
+     */
+    public int reachNumber(int target) {
+        int n = Math.abs(target);
+        int res = (int)(Math.sqrt((double)n * 2 + 0.25) - 0.5);
+        int sum = sumTo(res);
+        if (sum == n) return res;
+        
+        res++;
+        while ((sumTo(res) - n) % 2 != 0) {
+            res++;
+        }
+        
+        return res;
+    }
+    
+    private int sumTo(int n) {
+        return n * (n + 1) / 2;
+    }
+    
+}
+```
+
 ## Explanation
 
 To solve this kind of question, we need to list some input and output to find some clue.
@@ -68,6 +96,15 @@ To solve this kind of question, we need to list some input and output to find so
 `*` mark all the maximum distance of n-move.
 
 To reach a positive number `n`, we need to `sum(+-0, +-1, +-2, +-3, ..., +-n)`. The minimum number of steps requires only one `-` in the `sum`; Inversely, To reach a negative number `n`, the minimum number of steps requires only one `+` in the `sum`.
+
+For example
+
+```
+  1 + 2 + 3 + ... -x + (x+1) + ... + n
+= n*(n+1)/2  -x   -x
+= n*(n+1)/2 - 2*x
+= target
+```
 
 The result is `n*(n+1)/2 - 2*x`, where `x` is the number with reversed sign. Therefore `n*(n+1)/2 - target` == `2*x` == `even`.
 

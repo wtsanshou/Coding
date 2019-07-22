@@ -47,6 +47,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>>##### 1.1.1.7.2 Breadth First Search (BFS)  
 
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/Lint242ConvertBinaryTreeToLinkedListsByDepth.md">Lint242. Convert Binary Tree to Linked Lists by Depth</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule I</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/BFS/LC127WordLadder.md">LC127. Word Ladder</a>
@@ -734,6 +735,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC508MostFrequentSubtreeSum.md">LC508. Most Frequent Subtree Sum</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC236LowestCommonAncestorOfABinaryTree.md">LC236. Lowest Common Ancestor of a Binary Tree</a>
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/Lint175InvertBinaryTree.md">Lint175. Invert Binary Tree</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/Lint242ConvertBinaryTreeToLinkedListsByDepth.md">Lint242. Convert Binary Tree to Linked Lists by Depth</a>
 
 
 >>>#### 2.2.1.2 Binary Search Tree (BST)
