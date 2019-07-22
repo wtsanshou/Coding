@@ -699,6 +699,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>>#### 2.1.5.14 Format
 * <a href="DataStructure/LinearStructure/String/Format/LC482LicenseKeyFormatting.md">LC482. License Key Formatting</a>
 * <a href="DataStructure/LinearStructure/String/Format/Lint1658LegalIdentifier.md">Lint1658. Legal Identifier</a>
+* <a href="DataStructure/LinearStructure/String/Format/Lint1650LegalArticle.md">Lint1650. Legal Article</a>
 
 
 >>### 2.1.6 General List
