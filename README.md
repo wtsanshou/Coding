@@ -136,7 +136,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC999AvailableCapturesForRook.md">LC999. Available Captures for Rook</a>
 * <a href="Mathematics/NumberTheory/Bit/LC67AddBinary.md">LC67. Add Binary</a>
 * <a href="Mathematics/NumberTheory/Bit/LC318MaximumProductOfWordLengths.md">LC318. Maximum Product of Word Lengths</a>
-
+* <a href="Mathematics/NumberTheory/Bit/Lint1651IntervalXOR-I.md">Lint1651. Interval XOR I</a>
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
@@ -1042,7 +1042,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC121BestTimeToBuyAndSellStock.md">LC121. Best Time to Buy and Sell Stock</a>
 * <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC122BestTimeToBuyAndSellStockII.md">LC122. Best Time to Buy and Sell Stock II</a>
 * <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC309BestTimeToBuyAndSellStockWithCooldown.md">LC309. Best Time to Buy and Sell Stock with Cooldown</a>
- <a href="Algorithm/DynamicProgramming/StockBuyAndSell/Lint1691BestTimeToBuyAndSellStockV.md">Lint1691. Best Time to Buy and Sell Stock V</a>
+* <a href="Algorithm/DynamicProgramming/StockBuyAndSell/Lint1691BestTimeToBuyAndSellStockV.md">Lint1691. Best Time to Buy and Sell Stock V</a>
 
 # 4. Others
 >## Iterator
