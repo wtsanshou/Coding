@@ -48,10 +48,10 @@ public class Solution {
             List<TreeNode> rightChildren = generateBSTfrom(i + 1, end);
             for (TreeNode left : leftChildren) {
                 for (TreeNode right : rightChildren) {
-                    TreeNode head = new TreeNode(i);
-                    head.left = left;
-                    head.right = right;
-                    res.add(head);
+                    TreeNode root = new TreeNode(i);
+                    root.left = left;
+                    root.right = right;
+                    res.add(root);
                 }
             }
         }
@@ -66,5 +66,7 @@ I had the idea from the question **LC241. Different Ways to Add Parentheses**. W
 
 **Complexity:**
 
-* **worst-case time complexity:** O(2<sup>n</sup>).
-* **worst-case space complexity:** O(2<sup>n</sup>).
+* **worst-case time complexity:** O(2<sup>n*n*n</sup>).
+* **worst-case space complexity:** O(2<sup>n*n*n</sup>).
+
+I am not very sure if the complexity is correct. It's very high anyway.

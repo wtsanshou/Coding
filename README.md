@@ -755,6 +755,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC530MinimumAbsoluteDifferenceInBST.md">LC530. Minimum Absolute Difference in BST</a> 
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC450DeleteNodeInBST.md">LC450. Delete Node in a BST</a> 
 * <a href="DataStructure/NonlinearStructure/Tree/BST/Lint376BinaryTreePathSum.md">Lint376. Binary Tree Path Sum</a> 
+* <a href="DataStructure/NonlinearStructure/Tree/BST/LC96UniqueBinarySearchTrees.md">LC96. Unique Binary Search Trees</a> 
 * <a href="DataStructure/NonlinearStructure/Tree/BST/Lint164UniqueBinarySearchTreesII.md">Lint164. Unique Binary Search Trees II</a> 
 
 
