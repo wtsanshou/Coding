@@ -848,6 +848,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Recursion/BackTracking/LC491IncreasingSubsequences.md">LC491. Increasing Subsequences</a>
 * <a href="Algorithm/Recursion/BackTracking/LC78Subsets.md">LC78. Subsets</a>
 * <a href="Algorithm/Recursion/BackTracking/LC90SubsetsII.md">LC90. Subsets II</a>
+* <a href="Algorithm/Recursion/BackTracking/Lint90kSumII.md">Lint90. k Sum II</a>
+
 
 >## 3.4 Greedy Algorithm
 
@@ -979,6 +981,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/Hashing/LC16ThreeSumClosest.md">LC16. Three Sum Closest</a>
 * <a href="Algorithm/Search/Hashing/LC18FourSum.md">LC18. Four Sum</a>
 * <a href="Algorithm/Search/Hashing/LC454FourSumII.md">LC454. Four Sum II</a>
+* <a href="Algorithm/Recursion/BackTracking/Lint90kSumII.md">Lint90. k Sum II</a>
 * <a href="Algorithm/Search/Hashing/HR-SockMerchant.md">HR. Sock Merchant</a>
 * <a href="Algorithm/Search/Hashing/LC532K-diffPairsInAnArray.md">LC532. K-diff Pairs in an Array</a>
 * <a href="Algorithm/Search/Hashing/LC525ContiguousArray.md">LC525. Contiguous Array</a>
