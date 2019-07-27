@@ -69,4 +69,4 @@ I had the idea from the question **LC241. Different Ways to Add Parentheses**. W
 * **worst-case time complexity:** O(2<sup>n*n*n</sup>).
 * **worst-case space complexity:** O(2<sup>n*n*n</sup>).
 
-I am not very sure if the complexity is correct. It's very high anyway.
+I am not very sure if the complexity is correct. It's very high anyway. The maximum input is `11` in LintCode. Does this algorithm have practice meaning?
