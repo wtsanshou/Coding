@@ -109,6 +109,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Duplicate/CodilityOddOccurrencesInArray.md">Codility. Odd Occurrences In Array</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC289GameOfLife.md">LC289. Game of Life</a>
 * <a href="Mathematics/NumberTheory/Bit/WT-EightHousesStates.md">WT. Eight Houses States</a>
+* <a href="Algorithm/Simulation/Lint1683KillMonster.md">Lint1683. Kill Monster</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC661ImageSmoother.md">LC661. Image Smoother</a>
 * <a href="Mathematics/NumberTheory/Bit/HrSpecialMultiple.md">Hr. Special Multiple</a>
 * <a href="Mathematics/NumberTheory/Bit/LC190ReverseBits.md">LC190. Reverse Bits</a>
@@ -515,6 +516,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC941ValidMountainArray.md">LC941. Valid Mountain Array</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC238ProductOfArrayExceptSelf.md">LC238. Product of Array Except Self</a>
 * <a href="DataStructure/LinearStructure/Array/Traversal/LC334IncreasingTripletSubsequence.md">LC334. Increasing Triplet Subsequence</a>
+
+
 
 >>>#### 2.1.4.8 Prefix Sums
 
@@ -1006,9 +1009,13 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 
 >## 3.7 Simulation
+
 * <a href="Algorithm/Simulation/LC950RevealCardsInIncreasingOrder.md">LC950. Reveal Cards In Increasing Order</a>
+* <a href="Algorithm/Simulation/Lint1683KillMonster.md">Lint1683. Kill Monster</a>
+
 
 >## 3.8 Dynamic Programming (DP)
+
 * <a href="Mathematics/NumberTheory/Fibonacci/CodilityCountStepsToFibonacci.md">Codility. Count Steps to Fibonacci</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
 * <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
