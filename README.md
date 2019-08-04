@@ -367,7 +367,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC617MergeTwoBinaryTrees.md">LC617. Merge Two Binary Trees</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC21MergeTwoSortedLists.md">LC21. Merge Two Sorted Lists</a>
 * <a href="DataStructure/LinearStructure/LinearList/Lint486MergeKSortedArrays.md">Lint486. Merge K Sorted Arrays</a>
-
 * <a href="DataStructure/LinearStructure/LinearList/LC141LinkedListCycle.md">LC141. Linked List Cycle I</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC142LinkedListCycleII.md">LC142. Linked List Cycle II</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC160IntersectionOfTwoLinkedLists.md">LC160. Intersection of Two Linked Lists</a>
@@ -982,9 +981,26 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 3.6.4 DFS
 
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/GraphTraversal/LC399EvaluateDivision.md">LC399. Evaluate Division</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC130SurroundedRegions.md">LC130. Surrounded Regions</a>
+* <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC695MaxAreaOfIsland.md">LC695. Max Area of Island</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule I</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC684RedundantConnection.md">LC684. Redundant Connection</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC785IsGraphBipartite.md">LC785. Is Graph Bipartite?</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC841KeysAndRooms.md">LC841. Keys and Rooms</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC417PacificAtlanticWaterFlow.md">LC417. Pacific Atlantic Water Flow</a>
+* <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
+* <a href="Algorithm/Search/DFS/Lint1538CardGameII.md">Lint1538. Card Game II</a>
+
 
 >>### 3.6.5 BFS
+
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/Lint242ConvertBinaryTreeToLinkedListsByDepth.md">Lint242. Convert Binary Tree to Linked Lists by Depth</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule I</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
+* <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/BFS/LC127WordLadder.md">LC127. Word Ladder</a>
 
 >>### 3.6.6 Heuristic Search
 
