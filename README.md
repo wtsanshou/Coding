@@ -364,7 +364,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 2.1.1 Linear List
 
 * <a href="DataStructure/LinearStructure/LinearList/LC690EmployeeImportance.md">LC690. Employee Importance</a>
+* <a href="DataStructure/NonlinearStructure/Tree/BinaryTree/LC617MergeTwoBinaryTrees.md">LC617. Merge Two Binary Trees</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC21MergeTwoSortedLists.md">LC21. Merge Two Sorted Lists</a>
+* <a href="DataStructure/LinearStructure/LinearList/Lint486MergeKSortedArrays.md">Lint486. Merge K Sorted Arrays</a>
+
 * <a href="DataStructure/LinearStructure/LinearList/LC141LinkedListCycle.md">LC141. Linked List Cycle I</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC142LinkedListCycleII.md">LC142. Linked List Cycle II</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC160IntersectionOfTwoLinkedLists.md">LC160. Intersection of Two Linked Lists</a>
