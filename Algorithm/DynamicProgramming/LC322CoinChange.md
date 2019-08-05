@@ -99,5 +99,5 @@ We don't need to check every amount from `0` to `amount`. we just need to check 
 
 **Complexity:**
 
-* **worst-case time complexity:** O(m * n), where `n` is the number of `coins`, `m` is the `amount`.
+* **worst-case time complexity:** `O(m * n)`, where `n` is the number of `coins`, `m` is the `amount`.
 * **worst-case space complexity:** `O(m)`, where `m` is the `amount`.

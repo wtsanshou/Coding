@@ -1086,6 +1086,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/StockBuyAndSell/LC309BestTimeToBuyAndSellStockWithCooldown.md">LC309. Best Time to Buy and Sell Stock with Cooldown</a>
 * <a href="Algorithm/DynamicProgramming/StockBuyAndSell/Lint1691BestTimeToBuyAndSellStockV.md">Lint1691. Best Time to Buy and Sell Stock V</a>
 
+
+>## 3.9 MapReduce
+
+* <a href="Algorithm/MapReduce/Lint504InvertedIndex.md">Lint504. Inverted Index</a>
+
 # 4. Others
 >## Iterator
 
