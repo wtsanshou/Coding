@@ -76,10 +76,10 @@ Map all words in the content of the `Document value` to the id of `Document valu
 
 #### Reduce
 
-Collect all `id`s of a key (word). Note the id could have duplicates.
+Collect all `id` of a key (word). Note the id could have duplicates.
 
 * key: word
-* value: list of `id`s
+* value: list of `id`
 
 **Complexity:**
 
