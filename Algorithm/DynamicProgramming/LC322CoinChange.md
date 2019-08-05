@@ -60,17 +60,17 @@ Using recursive, each time use one coin and then recurse down.
 int coinChange(vector<int>& coins, int amount) {
     if(amount == 0) return 0;
     vector<int>dp(amount+1, INT_MAX);
-    for(int coin : coins)
-        if(coin<=amount)
+    for (int coin : coins)
+        if (coin <= amount)
             dp[coin] = 1;
-    for(int i=1; i<=amount; ++i)
+    for (int i = 1; i <= amount; ++i)
     {
-        if(dp[i] == 1) continue;
-        for(int j=i-1; j>=1; --j)
-            if(dp[j]!=INT_MAX && dp[i-j]!=INT_MAX) 
-                dp[i] = min(dp[i], dp[j]+dp[i-j]);
+        if (dp[i] == 1) continue;
+        for (int j = i-1; j >= 1; --j)
+            if (dp[j] != INT_MAX && dp[i-j] != INT_MAX) 
+                dp[i] = min(dp[i], dp[j] + dp[i - j]);
     }
-    return dp[amount]==INT_MAX ? -1 : dp[amount];
+    return dp[amount] == INT_MAX ? -1 : dp[amount];
 }
 ```
 
