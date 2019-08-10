@@ -228,5 +228,5 @@ for (int i = 0; i < n; i++) {
 
 **Complexity:**
 
-* **worst-case time complexity:** O(n), where `n` is length of `nums`.
+* **worst-case time complexity:** `O(n)`, where `n` is length of `nums`.
 * **worst-case space complexity:** `O(1)`.
