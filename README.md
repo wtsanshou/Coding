@@ -1122,4 +1122,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Conclude/TwoPointers/FrontPointers/Window/LC209MinimumSizeSubarraySum.md">LC209. Minimum Size Subarray Sum</a>
 * <a href="Conclude/TwoPointers/FrontPointers/Window/LC3LongestSubstringWithoutRepeatingCharacters.md">LC3. Longest Substring Without Repeating Characters</a>
 * <a href="Conclude/TwoPointers/FrontPointers/Window/LC76MinimumWindowSubstring.md">LC76. Minimum Window Substring</a>
+* <a href="Conclude/TwoPointers/FrontPointers/Window/LC19RemoveNthNodeFromEndOfList.md">LC19. Remove Nth Node From End of List</a>
+
 
