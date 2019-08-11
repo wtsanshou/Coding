@@ -1125,3 +1125,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Conclude/TwoPointers/FrontPointers/Window/LC19RemoveNthNodeFromEndOfList.md">LC19. Remove Nth Node From End of List</a>
 
 
+>## 4.2 <a href="Conclude/Kth/README.md">Kth</a>
+
+* <a href="Conclude/Kth/Lint1272KthSmallestElementInSortedMatrix.md">Lint1272. Kth Smallest Element in a Sorted Matrix</a>
