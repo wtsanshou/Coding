@@ -72,7 +72,7 @@ int minSubArrayLen(int s, vector<int>& nums) {
             sum -= nums[start++];
         }
     }
-    return minLen==INT_MAX ? 0:minLen;
+    return minLen==INT_MAX ? 0 : minLen;
 }
 ```
 
@@ -144,7 +144,7 @@ public int minimumSize(int[] nums, int s) {
         }
     }
     
-    return minSize == Integer.MAX_VALUE ? -1 : minSize;
+    return minSize == Integer.MAX_VALUE ? 0 : minSize;
 }
 ```
 
@@ -175,7 +175,7 @@ public int minimumSize(int[] nums, int s) {
         }
     }
     
-    return minSize == Integer.MAX_VALUE ? -1 : minSize;
+    return minSize == Integer.MAX_VALUE ? 0 : minSize;
 }
 ```
 
@@ -203,11 +203,13 @@ public int minimumSize(int[] nums, int s) {
         sum -= nums[i];
     }
     
-    return minSize == Integer.MAX_VALUE ? -1 : minSize;
+    return minSize == Integer.MAX_VALUE ? 0 : minSize;
 }
 ```
 
 Finally, we can find that there is no need to re-calculate the element from `i + 1` to `j`. We don't need to put `j` back.
+
+**NOTE** the corner case: cannot find the subarray.
 
 So, we can use the template:
 

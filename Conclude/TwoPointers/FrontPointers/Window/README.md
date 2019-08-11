@@ -21,7 +21,10 @@ for (int i = 0; i < n; i++) {
 
 1. Two loop
 2. No need to put `j` back.
+3. If checking repeating characters, think of hash map.
 
 ## Questions
 
 * <a href="LC209MinimumSizeSubarraySum.md">LC209. Minimum Size Subarray Sum</a>
+* <a href="LC3LongestSubstringWithoutRepeatingCharacters.md">LC3. Longest Substring Without Repeating Characters</a>
+* <a href="LC76MinimumWindowSubstring.md">LC76. Minimum Window Substring</a>
