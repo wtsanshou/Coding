@@ -9,3 +9,4 @@
 ## Questions
 
 * <a href="Lint1272KthSmallestElementInSortedMatrix.md">Lint1272. Kth Smallest Element in a Sorted Matrix</a>
+* <a href="LC668KthSmallestNumberInMultiplicationTable.md">LC668. Kth Smallest Number in Multiplication Table</a>
