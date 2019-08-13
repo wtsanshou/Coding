@@ -306,9 +306,6 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>### 1.3.2 Probability Theory
 
-* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC198HouseRobber.md">LC198. House Robber I</a>
-* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC213HouseRobberII.md">LC213. House Robber II</a>
-* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC337HouseRobberIII.md">LC337. House Robber III</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC169MajorityElement.md">LC169. Majority Element I</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC229MajorityElementII.md">LC229. Majority Element II</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/CodilityDominator.md">Codility. Dominator</a>
@@ -1137,3 +1134,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Tree/BST/LC230KthSmallestElementINaBST.md">LC230. Kth Smallest Element in a BST</a> 
 * <a href="Conclude/KthQuestion/Lint1272KthSmallestElementInSortedMatrix.md">Lint1272. Kth Smallest Element in a Sorted Matrix</a>
 * <a href="Conclude/KthQuestion/LC668KthSmallestNumberInMultiplicationTable.md">LC668. Kth Smallest Number in Multiplication Table</a>
+
+>## 4.3 Dynamic Programming
+
+>>### 4.3.1 Roll Optimize
+
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC198HouseRobber.md">LC198. House Robber</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC213HouseRobberII.md">LC213. House Robber II</a>
+* <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC337HouseRobberIII.md">LC337. House Robber III</a>
