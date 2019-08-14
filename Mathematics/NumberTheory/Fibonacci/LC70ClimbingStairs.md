@@ -65,8 +65,6 @@ public int climbStairs(int n) {
 
 **State**
 
-**State**
-
 `dp[i]` is the distinct ways you can climb to the stair `i`.
 
 **Function**
