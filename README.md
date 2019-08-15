@@ -989,7 +989,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC841KeysAndRooms.md">LC841. Keys and Rooms</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC417PacificAtlanticWaterFlow.md">LC417. Pacific Atlantic Water Flow</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
-* <a href="Algorithm/Search/DFS/Lint1538CardGameII.md">Lint1538. Card Game II</a>
+
 
 
 >>### 3.6.5 BFS
@@ -1034,8 +1034,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 * <a href="Mathematics/NumberTheory/Fibonacci/CodilityCountStepsToFibonacci.md">Codility. Count Steps to Fibonacci</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
-* <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
-* <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
+
 * <a href="Algorithm/DynamicProgramming/LC638ShoppingOffers.md">LC638. Shopping Offers</a>
 * <a href="Algorithm/DynamicProgramming/LC357CountNumbersWithUniqueDigits.md">LC357. Count Numbers with Unique Digits</a>
 * <a href="Algorithm/DynamicProgramming/LC62UniquePaths.md">LC62. Unique Paths</a>
@@ -1048,34 +1047,31 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC688KnightProbabilityInChessboard.md">LC688. Knight Probability in Chessboard</a>
 * <a href="Algorithm/DynamicProgramming/LC743NetworkDelayTime.md">LC743. Network Delay Time</a>
 * <a href="Algorithm/DynamicProgramming/LC120Triangle.md">LC120. Triangle</a>
-* <a href="Algorithm/DynamicProgramming/LC877StoneGame.md">LC877. Stone Game</a>
+
 * <a href="Algorithm/DynamicProgramming/LC53MaximumSubarray.md">LC53. Maximum Subarray</a>
 * <a href="Algorithm/DynamicProgramming/LC494TargetSum.md">LC494. Target Sum</a>
 * <a href="Algorithm/DynamicProgramming/LC338CountingBits.md">LC338. Counting Bits</a>
-* <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
+
 * <a href="Algorithm/DynamicProgramming/LC96UniqueBinarySearchTrees.md">LC96. Unique Binary Search Trees</a>
 * <a href="Algorithm/DynamicProgramming/LC516LongestPalindromicSubsequence.md">LC516. Longest Palindromic Subsequence</a>
-* <a href="Algorithm/DynamicProgramming/LC416PartitionEqualSubsetSum.md">LC416. Partition Equal Subset Sum</a>
-* <a href="Algorithm/DynamicProgramming/CodilityNumberSolitaire.md">Codility. Number Solitaire</a>
+
 * <a href="Algorithm/DynamicProgramming/LC64MinimumPathSum.md">LC64. Minimum Path Sum</a>
 * <a href="Algorithm/DynamicProgramming/LC474OnesAndZeroes.md">LC474. Ones and Zeroes</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC551StudentAttendanceRecordI.md">LC551. Student Attendance Record I</a>
 * <a href="Algorithm/DynamicProgramming/LC552StudentAttendanceRecordII.md">LC552. Student Attendance Record II</a>
-* <a href="Algorithm/DynamicProgramming/LC279PerfectSquares.md">LC279. Perfect Squares</a>
+
 * <a href="Algorithm/DynamicProgramming/LC388LongestAbsoluteFilePath.md">LC388. Longest Absolute File Path</a>
-* <a href="Algorithm/DynamicProgramming/LC375GuessNumberHigherOrLowerII.md">LC375. Guess Number Higher or Lower II</a>
+
 * <a href="Algorithm/DynamicProgramming/LC36ValidSudoku.md">LC36. Valid Sudoku</a>
 * <a href="Algorithm/DynamicProgramming/LC576OutOfBoundaryPaths.md">LC576. Out of Boundary Paths</a>
 * <a href="Algorithm/DynamicProgramming/LC43MultiplyStrings.md">LC43. Multiply Strings</a>
-* <a href="Algorithm/DynamicProgramming/LC322CoinChange.md">LC322. Coin Change</a>
+
 * <a href="Algorithm/DynamicProgramming/LC583DeleteOperationForTwoStrings.md">LC583. Delete Operation for Two Strings</a>
 * <a href="Algorithm/DynamicProgramming/LC546RemoveBoxes.md">LC546. Remove Boxes</a>
 * <a href="Algorithm/DynamicProgramming/LC568MaximumVacationDays.md">LC568. Maximum Vacation Days</a>
 * <a href="Algorithm/DynamicProgramming/LC467UniqueSubstringsInWraparoundString.md">LC467. Unique Substrings in Wraparound String</a>
-* <a href="Algorithm/DynamicProgramming/LC139WordBreak.md">LC139. Word Break</a>
 * <a href="Algorithm/DynamicProgramming/LC91DecodeWays.md">LC91. Decode Ways</a>
-* <a href="Algorithm/DynamicProgramming/WTMinimumAssembleTime.md">WT. Minimum Assemble Time</a>
-* <a href="Algorithm/DynamicProgramming/Lint92Backpack.md">Lint92. Backpack</a>
+
 
 >>### 3.8.1 Stock Buy and Sell
 * <a href="Algorithm/DynamicProgramming/LC714BestTimeToBuyAndSellStockWithTransaction.md">LC714. Best Time to Buy and Sell Stock with Transaction Fee</a>
@@ -1110,11 +1106,11 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 # 5. Conclude
 
->## 4.1 Two Pointers
+>## 5.1 Two Pointers
 
->>### 4.1.1 Front Pointers
+>>### 5.1.1 Front Pointers
 
->>>#### 4.1.1.1 <a href="Conclude/TwoPointers/FrontPointers/Window/README.md">Window</a>
+>>>#### 5.1.1.1 <a href="Conclude/TwoPointers/FrontPointers/Window/README.md">Window</a>
 
 * <a href="Conclude/TwoPointers/FrontPointers/Window/LC209MinimumSizeSubarraySum.md">LC209. Minimum Size Subarray Sum</a>
 * <a href="Conclude/TwoPointers/FrontPointers/Window/LC3LongestSubstringWithoutRepeatingCharacters.md">LC3. Longest Substring Without Repeating Characters</a>
@@ -1122,7 +1118,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Conclude/TwoPointers/FrontPointers/Window/LC19RemoveNthNodeFromEndOfList.md">LC19. Remove Nth Node From End of List</a>
 
 
->## 4.2 <a href="Conclude/KthQuestion/README.md">Kth</a>
+>## 5.2 <a href="Conclude/KthQuestion/README.md">Kth</a>
 
 * <a href="DataStructure/LinearStructure/Queue/PriorityQueue/Lint544TopKLargestNumbers.md">Lint544. Top k Largest Numbers</a>
 * <a href="DataStructure/LinearStructure/Queue/PriorityQueue/Lint545TopKLargestNumbersII.md">Lint545. Top k Largest Numbers II</a>
@@ -1135,17 +1131,45 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Conclude/KthQuestion/Lint1272KthSmallestElementInSortedMatrix.md">Lint1272. Kth Smallest Element in a Sorted Matrix</a>
 * <a href="Conclude/KthQuestion/LC668KthSmallestNumberInMultiplicationTable.md">LC668. Kth Smallest Number in Multiplication Table</a>
 
->## 4.3 <a href="Conclude/DynamicProgramming/README.md">Dynamic Programming</a>
+>## 5.3 <a href="Conclude/DynamicProgramming/README.md">Dynamic Programming</a>
 
->>### 4.3.1 <a href="Conclude/DynamicProgramming/RollOptimize/README.md">Roll Optimize</a>
+>>### 5.3.1 <a href="Conclude/DynamicProgramming/RollOptimize/README.md">Roll Optimize</a>
 
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC198HouseRobber.md">LC198. House Robber</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC213HouseRobberII.md">LC213. House Robber II</a>
 * <a href="Mathematics/ComputationalFeometry/ProbabilityTheory/LC337HouseRobberIII.md">LC337. House Robber III</a>
 * <a href="Mathematics/NumberTheory/Fibonacci/LC70ClimbingStairs.md">LC70. Climbing Stairs</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
+* <a href="Algorithm/DynamicProgramming/CodilityNumberSolitaire.md">Codility. Number Solitaire</a>
+* <a href="Algorithm/DynamicProgramming/HrSherlockAndPermutations.md">Hr. Sherlock And Permutations</a>
 
->>### 4.3.2 <a href="Conclude/DynamicProgramming/MemorySearch/README.md">Memory Serach</a>
+
+>>### 5.3.2 <a href="Conclude/DynamicProgramming/MemorySearch/README.md">Memory Serach</a>
 
 * <a href="Algorithm/Search/BinarySearch/LC300LongestIncreasingSubsequence.md">LC300. Longest Increasing Subsequence</a>
 
+>>### 5.3.3 <a href="Conclude/DynamicProgramming/Backpack/README.md">Backpack</a>
+
+>>>#### 5.3.3.1 Finite Number
+
+* <a href="Conclude/DynamicProgramming/Backpack/Lint92Backpack.md">Lint92. Backpack</a>
+* <a href="Algorithm/DynamicProgramming/LC139WordBreak.md">LC139. Word Break</a>
+* <a href="Algorithm/Search/DFS/Lint1538CardGameII.md">Lint1538. Card Game II</a>
+
+>>>#### 5.3.3.2 <a href="">Infinite Number</a>
+
+* <a href="Algorithm/DynamicProgramming/LC322CoinChange.md">LC322. Coin Change</a>
+* <a href="Algorithm/DynamicProgramming/LC377CombinationSumIV.md">LC377. Combination Sum IV</a>
+* <a href="Algorithm/DynamicProgramming/LC416PartitionEqualSubsetSum.md">LC416. Partition Equal Subset Sum</a>
+* <a href="Algorithm/DynamicProgramming/LC279PerfectSquares.md">LC279. Perfect Squares</a>
+
+
+>>### 5.3.4 Search Optimum in Window
+
+* <a href="Algorithm/DynamicProgramming/LC312BurstBalloons.md">LC312. Burst Balloons</a>
+* <a href="Algorithm/DynamicProgramming/WTMinimumAssembleTime.md">WT. Minimum Assemble Time</a>
+
+>>### 5.3.5 Game
+
+* <a href="Algorithm/DynamicProgramming/LC375GuessNumberHigherOrLowerII.md">LC375. Guess Number Higher or Lower II</a>
+* <a href="Algorithm/DynamicProgramming/LC877StoneGame.md">LC877. Stone Game</a>

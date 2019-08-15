@@ -75,5 +75,5 @@ Sorting the `nums`, so we can avoid checking `nums[j]` who is larger than `i`.
 
 **Complexity:**
 
-* **worst-case time complexity:** `O(t * n)`, where `t` is the target, `n` is the size of `nums`.
+* **worst-case time complexity:** `O(n * log(n) + t * n)`, where `t` is the target, `n` is the size of `nums`.
 * **worst-case space complexity:** `O(t)`, where `t` is the target.

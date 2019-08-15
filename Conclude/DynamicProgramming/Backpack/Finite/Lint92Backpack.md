@@ -88,7 +88,6 @@ public int backPack(int m, int[] A) {
                 dp[i][j] = dp[i - 1][j];
             else
                 dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - A[i - 1]] + A[i - 1]);
-            
         }
     }
     

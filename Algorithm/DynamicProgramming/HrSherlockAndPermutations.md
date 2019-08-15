@@ -43,6 +43,9 @@ For each test case, print the answer modulo (10<sup>9</sup>+7).
 * Test2: Out of all unique permutations ie. 00111 01011 01101 01110 10011 10101 10110 11001 11010 11100, only 10011 10101 10110 11001 11010 11100 satisfy. Hence, output is 6.
 
 ## Solutions
+
+### Solution 1
+
 * C++1
 ```
 int CountPermutations(int N, int x){
@@ -109,3 +112,45 @@ n! / (i!*(n-i)!)  =  (i*(n-1)!  +  (n-1)!*(n-i)) / (i!*(n-i-1)!*(n-i))
 n! / (i!*(n-i)!)  =       ((i + (n-i)) * (n-1)!) / (i! * (n-i)!)
 n! / (i!*(n-i)!)  =                           n! / (i!*(n-i)!)
 ```
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(N * M)`.
+* **worst-case space complexity:** `O(N * M)`.
+
+### Solution 2 (Roll Optimize)
+
+* Java
+```
+public class Solution {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int T = sc.nextInt();
+        int N, M;
+        for(int i=0; i<T; ++i){
+            N = sc.nextInt();
+            M = sc.nextInt();;
+            System.out.println(combination(N+M-1, Math.min(N, M-1)));
+        }
+    }
+    
+    private static final int MOD = 1000000007;
+    private static int combination(int N, int x){
+        int[][] dp = new int[2][x+1];
+        for(int i=1; i<=N; ++i){
+            for(int j=0; j<=x; ++j){
+                if(j==0 || i==j) dp[i % 2][j] = 1;
+                else if(i>j) dp[i % 2][j] = (dp[(i-1) % 2][j-1] + dp[(i-1) % 2][j]) % MOD;
+            }
+        }
+        return dp[N % 2][x];
+    }
+}
+
+```
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(N * M)`.
+* **worst-case space complexity:** `O(M)`.

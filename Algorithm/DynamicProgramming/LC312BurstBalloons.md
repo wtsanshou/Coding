@@ -41,6 +41,30 @@ int maxCoins(vector<int>& nums) {
 }
 ```
 
+* Java
+```
+public int maxCoins(int[] nums) {
+    int n = nums.length;
+    int[] input = new int[n + 2];
+    for (int i = 1; i <= n; i++)
+        input[i] = nums[i - 1];
+    input[0] = input[n + 1] = 1;
+    
+    int[][] dp = new int[n + 2][n + 2];
+    
+    for (int len = 1; len <= n; len++) {
+        for (int i = 1; i <= n - len + 1; i++) {
+            int j = i + len - 1;
+            for (int mid = i; mid <= j; mid++) {
+                dp[i][j] = Math.max(dp[i][j], dp[i][mid - 1] + dp[mid + 1][j] + input[i - 1] * input[mid] * input[j + 1]);
+            }
+        }
+    }
+    
+    return dp[1][n];
+}
+```
+
 `dp[i][j]` is to represent the maximum coins you can collect by bursting from i<sup>th</sup> to j<sup>th</sup> balloons.
 
 `len` is the width from i<sup>th</sup> to j<sup>th</sup> balloons.
@@ -48,4 +72,6 @@ int maxCoins(vector<int>& nums) {
 **Complexity:**
 
 * **worst-case time complexity:** O(n<sup>3</sup>), where `n` is the length of `nums`.
-* **worst-case space complexity:** `O(n)`, where `n` is the length of `nums`.
+* **worst-case space complexity:** O(n<sup>2</sup>), where `n` is the length of `nums`.
+
+

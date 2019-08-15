@@ -179,7 +179,7 @@ public class Solution {
 }
 ```
 
-From **Solution 2**, `max = Math.max(max, dfs(nums, i, nums[i], len + 1));` will be invoked many time starting from each element. To avoid the duplicated calculation, we can use a memory to remember the length of longest increasing subsequence starting from `i`.
+From **Solution 2**, `max = Math.max(max, dfs(nums, i, nums[i], len + 1));` will be invoked many times starting from each element. To avoid the duplicated calculation, we can use a memory to remember the length of longest increasing subsequence starting from `i`.
 
 **Complexity:**
 
