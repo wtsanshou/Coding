@@ -1145,4 +1145,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Fibonacci/LC70ClimbingStairs.md">LC70. Climbing Stairs</a>
 * <a href="Mathematics/ComputationalFeometry/LinearAlgebra/Matrix/LC221MaximalSquare.md">LC221. Maximal Square</a>
 
+>>### 4.3.2 <a href="Conclude/DynamicProgramming/MemorySearch/README.md">Memory Serach</a>
+
+* <a href="Algorithm/Search/BinarySearch/LC300LongestIncreasingSubsequence.md">LC300. Longest Increasing Subsequence</a>
 
