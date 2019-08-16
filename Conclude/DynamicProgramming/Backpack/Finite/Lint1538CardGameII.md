@@ -109,7 +109,24 @@ public static boolean cardGame(int[] cost, int[] damage, int totalMoney, int tot
 }
 ```
 
-Should be correct, but need more tests.
+* Java
+```
+public static boolean cardGame(int[] cost, int[] damage, int totalMoney, int totalDamage) {
+    int[] dp = new int[totalMoney + 1];
+
+    for (int i = 1; i < cost.length; i++) {
+        for (int money = totalMoney; money >= cost[i]; money--) {
+            dp[money] = Math.max(dp[money], dp[money - cost[i]] + damage[i]);
+            if (dp[money] >= totalDamage)
+                return true;
+        }
+    }
+
+    return false;
+}
+```
+
+Should be correct, but need more tests. For finite number of elements in the backpack, loop from big value (`totalMoney`) to small value (`cost[i]`). Or use another dimension to indicate the number of card.
 
 Finally, I had no time. So I came back to brute force solution. The idea is to use `DFS` starting from each card. 
 

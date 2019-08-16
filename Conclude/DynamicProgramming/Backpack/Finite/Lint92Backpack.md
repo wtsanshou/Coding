@@ -158,4 +158,46 @@ Based on **Solution 2**, we can see that only `dp[i - 1]` need to be remembered.
 * **worst-case time complexity:** `O(n * m)`, where `n` is the number of `A`.
 * **worst-case space complexity:**  `O(m)`.
 
+### Solution 4
+
+* Java
+```
+public int backPack(int m, int[] A) {
+    int n = A.length;
+    int[] dp = new int[m + 1];
+    int max = 0;
+    for (int a : A) {
+        for (int i = m; i >= a; i--) {
+            dp[i] = Math.max(dp[i], dp[i - a] + a);
+            max = Math.max(max, dp[i]);
+        }
+    }
+    
+    return max;
+}
+```
+
+For finite number of element, the second loop should search from big value (`m`) to small value (`a`).
+
+**NOTE** The result may not be in `dp[m]`, because the question is asking for less than or equasls to the backpack size.
+
+**State**
+
+`dp[i]` is the maximum sum size of items with backpack size `i`.
+
+**Function**
+
+`dp[i] = max(dp[i], dp[i - A[i]] + A[i])`
+
+**Initialization**
+
+
+**Result**
+
+`max(dp[i])`
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(n * m)`, where `n` is the number of `A`.
+* **worst-case space complexity:**  `O(m)`.
 

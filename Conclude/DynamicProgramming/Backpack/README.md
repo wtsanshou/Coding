@@ -10,8 +10,8 @@
 
 There are two type of Backpack question
 
-1. The number of each element in the Backpack is **limisted**. In this case, we need at lease 2D `DP`, one of index is to indicate the number of elements in the Backpack.
-2. The number of each element in the Backpack is **infinite**. In this case, we don't need to indicate how many elements we used to reach our target. So `1D` `DP` could work.
+1. The number of each element in the Backpack is **limisted**. In this case, we do the second loop from big value (`target`) to small value (`a element`).
+2. The number of each element in the Backpack is **infinite**. In this case, we do the second loop from small value (`a element`) to big value (`target`).
 
 ## Question
 
