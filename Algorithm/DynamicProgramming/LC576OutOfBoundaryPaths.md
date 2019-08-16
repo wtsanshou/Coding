@@ -104,7 +104,6 @@ public:
 
 Using DFS with DP. `dp[i][j][N]` is to represent the possible out of boundary given `N` steps starting from `(i, j)`. It reduces some re-calculating, but seems still too slow for the test cases.
 
-* **worst-case time complexity:** O(4<sup>N</sup>), where `N` is the most move times.
 * **worst-case space complexity:** `O(m * n * N)`, where `N` is the most move times.
 
 

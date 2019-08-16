@@ -41,6 +41,51 @@ public int maxSubArray(int[] nums) {
 * **worst-case time complexity:** `O(n)`, where `n` is the length of the `nums`.
 * **worst-case space complexity:** `O(n)`, where `n` is the length of the `nums`.
 
+* Java (Roll Optimize)
+```
+public int maxSubArray(int[] nums) {
+    int n = nums.length;
+    int dp[] = new int[2];
+    int curMax = dp[0] = nums[0];
+
+    for(int i = 1; i < n; ++i){
+        dp[i % 2] = Math.max(dp[(i - 1) % 2] + nums[i], nums[i]);
+        curMax = Math.max(curMax, dp[i % 2]);
+    }
+
+    return curMax;
+}
+```
+
+**State**
+
+`dp[i]` is the maximum sum of contiguous subarray left of `i`.
+
+**Function**
+
+```
+dp[i] = Math.max(dp[(i - 1)] + nums[i], nums[i])
+
+        ||
+        ||  Roll Optimize
+        \/
+
+dp[i % 2] = Math.max(dp[(i - 1) % 2] + nums[i], nums[i])
+```
+
+**Initialization**
+
+`dp[0] = nums[0]`
+
+**Result**
+
+`max(dp[i])`
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(n)`, where `n` is the length of the `nums`.
+* **worst-case space complexity:** `O(1)`.
+
 ### Solution 2
 
 * C++ (12ms)

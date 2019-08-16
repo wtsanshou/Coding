@@ -127,15 +127,7 @@ public class Solution {
         return shopping(price, special,needs, mem);
     }
     
-    private int sumPrice(List<Integer> price, List<Integer> needs)
-    {
-        int res = 0;
-        for(int i=0; i<price.size(); ++i)
-            res += price.get(i) * needs.get(i);
-        return res;
-    }
-    
-    int shopping(List<Integer> price, List<List<Integer>> special, List<Integer> needs, Map<List<Integer>, Integer> mem)
+    private int shopping(List<Integer> price, List<List<Integer>> special, List<Integer> needs, Map<List<Integer>, Integer> mem)
     {
         if(mem.containsKey(needs)) return mem.get(needs);
         
@@ -153,6 +145,14 @@ public class Solution {
                 res = Math.min(res, offer.get(i)+shopping(price, special, clone, mem));
         }
         mem.put(needs, res);
+        return res;
+    }
+
+    private int sumPrice(List<Integer> price, List<Integer> needs)
+    {
+        int res = 0;
+        for(int i=0; i<price.size(); ++i)
+            res += price.get(i) * needs.get(i);
         return res;
     }
 }

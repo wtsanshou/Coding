@@ -39,6 +39,32 @@ int numDecodings(string s) {
 }
 ```
 
+* Java
+```
+class Solution {
+    public int numDecodings(String s) {
+        int n = s.length();
+        if (n == 0) return 0;
+        int[] dp = new int[n + 1];
+        
+        dp[n] = 1;
+        dp[n - 1] = s.charAt(n - 1) == '0' ? 0 : 1;
+        
+        for (int i = n - 2; i >= 0; i--) {
+            if (s.charAt(i) != '0') {
+                dp[i] = isLetterRange(s.substring(i, i + 2)) ? dp[i + 1] + dp[i + 2] : dp[i + 1];
+            }
+        }
+        
+        return dp[0];
+    }
+    
+    private boolean isLetterRange(String num) {
+        return Integer.valueOf(num) <= 26;
+    }
+}
+```
+
 Using a `n+1` length `dp` to store the number of ways decoding. `dp[i]` is to store the number of ways decoding from index `i` to the end of the string `s`.
 
 From right to left, check two char each time, if it's less or equal than `26`, `dp[i] = dp[i+1]+dp[i+2]`.
@@ -51,3 +77,5 @@ From right to left, check two char each time, if it's less or equal than `26`, `
 
 * **worst-case time complexity:** `O(n)`, where `n` is the length of `s`.
 * **worst-case space complexity:** `O(n)`, where `n` is the length of `s`.
+
+

@@ -23,6 +23,54 @@ The repeated subarray with maximum length is [3, 2, 1].
 
 ## Solutions
 
+### Solution 1
+
+* Java
+```
+public int findLength(int[] A, int[] B) {
+    int n1 = A.length;
+    int n2 = B.length;
+    int max = 0;
+    int[][] dp = new int[n1 + 1][n2 + 1];
+    
+    for (int i = 1; i <= n1; i++) {
+        for (int j = 1; j <= n2; j++) {
+            if (A[i - 1] == B[j - 1])
+                dp[i][j] = dp[i - 1][j - 1] + 1;
+            else
+                dp[i][j] = 0;
+            max = Math.max(max, dp[i][j]);
+        }
+    }
+    
+    return max;
+}
+```
+
+### Solution 2
+
+* Java (Roll Optimize)
+```
+public int findLength(int[] A, int[] B) {
+    int n1 = A.length;
+    int n2 = B.length;
+    int max = 0;
+    int[][] dp = new int[2][n2 + 1];
+    
+    for (int i = 1; i <= n1; i++) {
+        for (int j = 1; j <= n2; j++) {
+            if (A[i - 1] == B[j - 1])
+                dp[i % 2][j] = dp[(i - 1) % 2][j - 1] + 1;
+            else
+                dp[i % 2][j] = 0;
+            max = Math.max(max, dp[i % 2][j]);
+        }
+    }
+    
+    return max;
+}
+```
+
 * Java1
 ```
 public int findLength(int[] A, int[] B) {

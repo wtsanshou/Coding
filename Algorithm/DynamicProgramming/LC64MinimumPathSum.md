@@ -31,6 +31,34 @@ int minPathSum(vector<vector<int>>& grid) {
 }
 ```
 
+* Java
+```
+public int minPathSum(int[][] grid) {
+    int h = grid.length;
+    int w = h > 0 ? grid[0].length : 0;
+    if (w == 0) return 0;
+    int[][] dp = new int[h + 1][w + 1];
+    
+    for (int i = 1; i <= h; i++) {
+        dp[i][0] = Integer.MAX_VALUE;
+    }
+    
+    for (int j = 1; j <= w; j++) {
+        dp[0][j] = Integer.MAX_VALUE;
+    }
+    
+    dp[0][1] = 0;
+    
+    for (int i = 1; i <= h; i++) {
+        for (int j = 1; j <= w; j++) {
+            dp[i][j] = Math.min(dp[i - 1][j], dp[i][j - 1]) + grid[i - 1][j - 1];
+        }
+    }
+    
+    return dp[h][w];
+}
+```
+
 Using a `(m+1) x (n+1)` 2D array to store the minimizes the sum of path `res[i][j]` from `[0, 0]` to `[i, j]`
 
 **Complexity:**
@@ -39,6 +67,31 @@ Using a `(m+1) x (n+1)` 2D array to store the minimizes the sum of path `res[
 * **worst-case space complexity:** `O(m * n)`, where `m` is the height of the input `grid`, `n` is the width of the input `grid`.
 
 ### Solution 2
+
+* Java (Roll Optimize)
+```
+public int minPathSum(int[][] grid) {
+    int h = grid.length;
+    int w = h > 0 ? grid[0].length : 0;
+    if (w == 0) return 0;
+    int[][] dp = new int[2][w + 1];
+    
+    for (int j = 0; j <= w; j++) {
+        dp[0][j] = Integer.MAX_VALUE;
+    }
+    
+    dp[0][1] = 0;
+    dp[1][0] = Integer.MAX_VALUE;
+    
+    for (int i = 1; i <= h; i++) {
+        for (int j = 1; j <= w; j++) {
+            dp[i % 2][j] = Math.min(dp[(i - 1) % 2][j], dp[i % 2][j - 1]) + grid[i - 1][j - 1];
+        }
+    }
+    
+    return dp[h % 2][w];
+}
+```
 
 * C++
 ```

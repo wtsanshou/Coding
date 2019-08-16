@@ -6,15 +6,19 @@
 
 Given two words word1 and word2, find the minimum number of steps required to make word1 and word2 the same, where in each step you can delete one character in either string.
 
-Example 1:
+**Example 1:**
 
+```
+Input: 
+"sea", "eat"
 
-Input: "sea", "eat"
-Output: 2
+Output: 
+2
+
 Explanation: You need one step to make "sea" to "ea" and another step to make "eat" to "ea".
+```
 
-
-Note:
+**Note:**
 
 1.	The length of given words won't exceed 500.
 2.	Characters in given words can only be lower-case letters.
@@ -124,6 +128,32 @@ int minDistance(string word1, string word2) {
 }
 ```
 
+* Java
+```
+public int minDistance(String word1, String word2) {
+    char[] w1 = word1.toCharArray();
+    char[] w2 = word2.toCharArray();
+    
+    int n1 = w1.length;
+    int n2 = w2.length;
+    
+    int[][] dp = new int[n1 + 1][n2 + 1];
+    
+    for (int i = 0; i <= n1; i++) {
+        for (int j = 0; j <= n2; j++) {
+            if (i == 0 || j == 0)
+                dp[i][j] = i + j;
+            else if (w1[i - 1] == w2[j - 1])
+                dp[i][j] = dp[i -1][j - 1];
+            else 
+                dp[i][j] = Math.min(dp[i - 1][j], dp[i][j - 1]) + 1;
+        }
+    }
+    
+    return dp[n1][n2];
+}
+```
+
 Here `dp[i1][i2]` is to directly store the minimum number of deletes for the `word1`'s substring `[0,i1]` and `word2`'s substring `[0,i2]`.
 
 **Complexity:**
@@ -132,6 +162,32 @@ Here `dp[i1][i2]` is to directly store the minimum number of deletes for the `wo
 * **worst-case space complexity:** `O(n1 * n2)`, where `n1` is the length of `word1`, `n2` is the length of `word2`.
 
 ### Solution 5
+
+* Java (Roll Optimize)
+```
+public int minDistance(String word1, String word2) {
+    char[] w1 = word1.toCharArray();
+    char[] w2 = word2.toCharArray();
+    
+    int n1 = w1.length;
+    int n2 = w2.length;
+    
+    int[][] dp = new int[2][n2 + 1];
+    
+    for (int i = 0; i <= n1; i++) {
+        for (int j = 0; j <= n2; j++) {
+            if (i == 0 || j == 0)
+                dp[i % 2][j] = i + j;
+            else if (w1[i - 1] == w2[j - 1])
+                dp[i % 2][j] = dp[(i -1) % 2][j - 1];
+            else 
+                dp[i % 2][j] = Math.min(dp[(i - 1) % 2][j], dp[i % 2][j - 1]) + 1;
+        }
+    }
+    
+    return dp[n1 % 2][n2];
+}
+```
 
 * C++
 ```
