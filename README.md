@@ -1138,8 +1138,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >>>#### 5.3.3.1 Finite Number
 
-* <a href="Conclude/DynamicProgramming/Backpack/Lint92Backpack.md">Lint92. Backpack</a>
-* <a href="Conclude/DynamicProgramming/Backpack/Lint798BackpackVII.md">Lint798. Backpack VII</a>
+* <a href="Conclude/DynamicProgramming/Backpack/Finite/Lint92Backpack.md">Lint92. Backpack</a>
+* <a href="Conclude/DynamicProgramming/Backpack/Finite/Lint798BackpackVII.md">Lint798. Backpack VII</a>
 * <a href="Algorithm/DynamicProgramming/LC139WordBreak.md">LC139. Word Break</a>
 * <a href="Algorithm/Search/DFS/Lint1538CardGameII.md">Lint1538. Card Game II</a>
 * <a href="Algorithm/DynamicProgramming/LC416PartitionEqualSubsetSum.md">LC416. Partition Equal Subset Sum</a>

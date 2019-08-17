@@ -46,6 +46,7 @@ public class Solution {
      */
     public int backPackVII(int n, int[] prices, int[] weight, int[] amounts) {
         int max = 0;
+
         for (int i = 0; i < prices.length; i++)
             max = Math.max(max, dfs(n, prices, weight, amounts, i, 0));
             
@@ -219,7 +220,7 @@ public int backPackVII(int n, int[] prices, int[] weight, int[] amounts) {
 }
 ```
 
-Finally, we get the `DP` version.
+Finally, we get the `DP` version. Because it finite number of amount, the second and third loop is from big to small.
 
 **State**
 

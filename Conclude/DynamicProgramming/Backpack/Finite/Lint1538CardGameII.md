@@ -77,6 +77,22 @@ At the beginning, I was thinking to sort the `cost` and `damage` by `damage / co
 
 I feel it could be solved by brute force, but I think it may be too slow.
 
+Finally, I had no time. So I came back to brute force solution. The idea is to use `DFS` starting from each card. 
+
+Should be solved by `Memory search`
+
+**Exit Points**
+
+1. `start >= cost.length`, all cards have been visited. If you can win at this point (`totalDamage <= 0 && totalMoney >= 0`), return true, else return false.
+2. `damage[i] >= totalDamage`, it means found a soltion to win.
+
+**Complexity:**
+
+* **worst-case time complexity:** O(2<sup>n</sup>), where `n` is the length of the input `cost`.
+* **worst-case space complexity:** `O(n)`, where `n` is the length of the input `cost`.
+
+### Solution 2
+
 Then, I was thinking to use `DP`, here is the code:
 
 * Java
@@ -94,6 +110,30 @@ public  boolean cardGame(int[] cost, int[] damage, int totalMoney, int totalDama
 }
 ```
 
+**State**
+
+`dp[i][j]` is the the maximum damage with the first `i` cards and `j` totalMoney.
+
+**Function**
+
+`dp[i][j] = Math.max(dp[i - 1][j], dp[i - 1][j - cost[i]] + damage[i])`
+
+**Initialization**
+
+`dp[i][j] = 0`
+
+**Result**
+
+`any (dp[i][j] >= totalDamage)`
+
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(n * m)`, where `n` is the length of the input `cost`, `m` is the `totalMoney`.
+* **worst-case space complexity:** `O(n * m)`, where `n` is the length of the input `cost`, `m` is the `totalMoney`.
+
+### Solution 3
+
 * Java (Roll Optimize)
 ```
 public static boolean cardGame(int[] cost, int[] damage, int totalMoney, int totalDamage) {
@@ -109,9 +149,16 @@ public static boolean cardGame(int[] cost, int[] damage, int totalMoney, int tot
 }
 ```
 
+**Complexity:**
+
+* **worst-case time complexity:** `O(n * m)`, where `n` is the length of the input `cost`, `m` is the `totalMoney`.
+* **worst-case space complexity:** `O(m)`, where `m` is the `totalMoney`.
+
+### Solution 4 (Finite Packpack)
+
 * Java
 ```
-public static boolean cardGame(int[] cost, int[] damage, int totalMoney, int totalDamage) {
+public boolean cardGame(int[] cost, int[] damage, int totalMoney, int totalDamage) {
     int[] dp = new int[totalMoney + 1];
 
     for (int i = 1; i < cost.length; i++) {
@@ -126,18 +173,9 @@ public static boolean cardGame(int[] cost, int[] damage, int totalMoney, int tot
 }
 ```
 
-Should be correct, but need more tests. For finite number of elements in the backpack, loop from big value (`totalMoney`) to small value (`cost[i]`). Or use another dimension to indicate the number of card.
-
-Finally, I had no time. So I came back to brute force solution. The idea is to use `DFS` starting from each card. 
-
-**Exit Points**
-
-1. `start >= cost.length`, all cards have been visited. If you can win at this point (`totalDamage <= 0 && totalMoney >= 0`), return true, else return false.
-2. `damage[i] >= totalDamage`, it means found a soltion to win.
+For finite number of elements in the backpack, loop from big value (`totalMoney`) to small value (`cost[i]`). Or use another dimension to indicate the number of card.
 
 **Complexity:**
 
-* **worst-case time complexity:** O(2<sup>n</sup>), where `n` is the length of the input `cost`.
-* **worst-case space complexity:** `O(n)`, where `n` is the length of the input `cost`.
-
-Backpack Quesiton
+* **worst-case time complexity:** `O(n * m)`, where `n` is the length of the input `cost`, `m` is the `totalMoney`.
+* **worst-case space complexity:** `O(m)`, where `m` is the `totalMoney`.
