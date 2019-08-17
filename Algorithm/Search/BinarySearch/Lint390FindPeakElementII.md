@@ -158,3 +158,8 @@ w + h/2 + w/2 + h/4 + w/4 + h/8 + w/8 + ... + h/(2^m) + w/(2^n)
 * 2<sup>n</sup> <= w
 * `(1/2 + 1/4 + 1/8 + ... + 1/(2^m))` < 1
 * 2<sup>m</sup> <= h
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(w + h)`, where `w` is the width of the `A`, `h` is the height of the `A`.
+* **worst-case space complexity:**  `O(1)`.
