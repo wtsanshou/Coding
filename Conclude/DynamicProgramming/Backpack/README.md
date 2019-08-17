@@ -18,6 +18,7 @@ There are two type of Backpack question
 ### Finite
 
 * <a href="Finite/Lint92Backpack.md">Lint92. Backpack</a>
+* <a href="Finite/Lint798BackpackVII.md">Lint798. Backpack VII</a>
 * <a href="Finite/Lint1538CardGameII.md">Lint1538. Card Game II</a>
 
 ### Infinite
