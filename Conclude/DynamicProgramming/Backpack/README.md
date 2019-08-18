@@ -25,4 +25,6 @@ There are two type of Backpack question
 ### Infinite
 
 * <a href="Infinite/LC322CoinChange.md">LC322. Coin Change</a>
+* <a href="Infinite/Lint562BackpackIV.md">Lint562. Backpack IV</a>
+
 

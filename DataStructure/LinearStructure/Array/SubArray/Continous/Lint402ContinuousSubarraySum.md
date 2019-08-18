@@ -64,6 +64,8 @@ Search all possible ranges, get the sum of this range, record indexes of the max
 * **worst-case time complexity:** O(n<sup>3</sup>), where `n` is the number of `A`.
 * **worst-case space complexity:**  `O(1)`.
 
+### Solution 2
+
 * Java
 ```
 private int[] continuousSubarraySum(int[] A) {
@@ -100,7 +102,7 @@ Using prefix sum could pre-calculate the sum of range, so that reduce one loop i
 * **worst-case space complexity:**  `O(n)`, where `n` is the number of `A`.
 
 
-### Solution 2
+### Solution 3
 
 * Java
 ```
