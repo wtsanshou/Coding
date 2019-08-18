@@ -482,7 +482,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC303RangeSumQueryImmutable.md">LC303. Range Sum Query – Immutable</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC307RangeSumQueryMutable.md">LC307. Range Sum Query – Mutable</a>
 * <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC523ContinuousSubarraySum.md">LC523. Continuous Subarray Sum</a>
-
+* <a href="DataStructure/LinearStructure/Array/SubArray/Continous/LC523ContinuousSubarraySum.md">Lint402. Continuous Subarray Sum</a>
 
 >>>>##### 2.1.4.5.2 Uncontinous
 
