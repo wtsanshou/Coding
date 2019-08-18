@@ -220,6 +220,26 @@ public int backPackVII(int n, int[] prices, int[] weight, int[] amounts) {
 }
 ```
 
+* Java (Refactor)
+```
+public int backPackVII(int n, int[] prices, int[] weight, int[] amounts) {
+    int max = 0;
+    int m = prices.length;
+    int[][] dp = new int[m + 1][n + 1];
+    
+    for (int i = 1; i <= prices.length; i++) {
+        for (int ta = amounts[i - 1]; ta >= 0; ta--) {
+            for (int j = n; j >= ta * prices[i - 1]; j--) {
+                dp[i][j] = Math.max(dp[i][j], dp[i - 1][j - ta * prices[i - 1]] + ta * weight[i - 1]);
+                max = Math.max(max, dp[i][j]);
+            }
+        }
+    }
+    
+    return max;
+}
+```
+
 Finally, we get the `DP` version. Because it finite number of amount, the second and third loop is from big to small.
 
 **State**
@@ -272,6 +292,26 @@ public int backPackVII(int n, int[] prices, int[] weight, int[] amounts) {
     }
 ```
 
+* Java (Refactor)
+```
+public int backPackVII(int n, int[] prices, int[] weight, int[] amounts) {
+    int max = 0;
+    int m = prices.length;
+    int[][] dp = new int[2][n + 1];
+    
+    for (int i = 1; i <= prices.length; i++) {
+        for (int ta = amounts[i - 1]; ta >= 0; ta--) {
+            for (int j = n; j >= ta * prices[i - 1]; j--) {
+                dp[i % 2][j] = Math.max(dp[i % 2][j], dp[(i - 1) % 2][j - ta * prices[i - 1]] + ta * weight[i - 1]);
+                max = Math.max(max, dp[i % 2][j]);
+            }
+        }
+    }
+    
+    return max;
+}
+```
+
 **Function**
 
 ```
@@ -286,3 +326,7 @@ dp[i % 2][j] = Math.max(dp[i % 2][j], dp[(i - 1) % 2][j - ta * prices[i]] + ta *
 
 * **worst-case time complexity:** `O(n * m * a)`, where `m` is the length of the input `prices`, `a` is the maximum value in `amount`, `n` is the balance.
 * **worst-case space complexity:**  `O(n)`, where `n` is the balance.
+
+### Solution 5 （Dimensionality Reduction)
+
+Is it possible?
