@@ -1162,6 +1162,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC551StudentAttendanceRecordI.md">LC551. Student Attendance Record I</a>
 * <a href="Algorithm/DynamicProgramming/LC552StudentAttendanceRecordII.md">LC552. Student Attendance Record II</a>
 * <a href="Algorithm/DynamicProgramming/LC638ShoppingOffers.md">LC638. Shopping Offers</a>
+* <a href="Conclude/DynamicProgramming/Backpack/Infinite/Lint440BackpackIII.md">Lint440. Backpack III</a>
 * <a href="Conclude/DynamicProgramming/Backpack/Infinite/Lint562BackpackIV.md">Lint562. Backpack IV</a>
 
 >>### 5.3.4 Search Optimum in Window
