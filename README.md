@@ -1128,6 +1128,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/DynamicProgramming/LC718MaximumLengthOfRepeatedSubarray.md">LC718. Maximum Length of Repeated Subarray</a>
 * <a href="Algorithm/DynamicProgramming/LC64MinimumPathSum.md">LC64. Minimum Path Sum</a>
 * <a href="Algorithm/DynamicProgramming/LC53MaximumSubarray.md">LC53. Maximum Subarray</a>
+* <a href="Conclude/DynamicProgramming/RollOptimize/LC1687PaveSquare.md">LC1687. Pave Square</a>
+
 
 >>### 5.3.2 <a href="Conclude/DynamicProgramming/MemorySearch/README.md">Memory Serach</a>
 
