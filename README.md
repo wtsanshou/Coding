@@ -993,7 +993,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC841KeysAndRooms.md">LC841. Keys and Rooms</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC417PacificAtlanticWaterFlow.md">LC417. Pacific Atlantic Water Flow</a>
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
-
+* <a href="Algorithm/Search/DFS/Lint1538CardGameII.md">Lint1538. Card Game II</a>
 
 
 >>### 3.6.5 BFS
@@ -1002,6 +1002,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC207CourseSchedule.md">LC207. Course Schedule I</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/BFS/LC127WordLadder.md">LC127. Word Ladder</a>
+* <a href="Algorithm/Search/BFS/Lint787TheMaze.md">Lint787. The Maze</a>
+
 
 >>### 3.6.6 Heuristic Search
 
