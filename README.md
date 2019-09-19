@@ -996,6 +996,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/Permutation/LC47PermutationsII.md">LC47. Permutations II</a>
 * <a href="Algorithm/Search/DFS/Lint1538CardGameII.md">Lint1538. Card Game II</a>
 * <a href="Algorithm/Search/DFS/Lint653ExpressionAddOperators.md">Lint653. Expression Add Operators</a>
+* <a href="Algorithm/Search/DFS/Lint780RemoveInvalidParentheses.md">Lint780. Remove Invalid Parentheses</a>
 
 
 >>### 3.6.5 BFS
