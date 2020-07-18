@@ -904,6 +904,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Sort/CodilityMaxProductOfThree.md">Codility. Max Product Of Three</a>
 * <a href="Algorithm/Sort/LC524LongestWordInDictionaryThroughDeleting.md">LC524. Longest Word in Dictionary through Deleting</a>
 * <a href="Algorithm/Sort/Lint846Multi-keywordSort.md">Lint846. Multi-keyword Sort</a>
+* <a href="Algorithm/Sort/LC1365HowManyNumbersAreSmallerThanTheCurrentNumber.md">LC1365. How Many Numbers Are Smaller Than the Current Number</a>
+
 
 >>### 3.5.1 Insert Sort
 
