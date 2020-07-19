@@ -543,6 +543,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/Array/Count/LC821ShortestDistanceToACharacter.md">LC821. Shortest Distance to a Character</a>
 * <a href="DataStructure/LinearStructure/Array/Count/LC849MaximizeDistanceToClosestPerson.md">LC849. Maximize Distance to Closest Person</a>
 * <a href="DataStructure/LinearStructure/Array/Count/LC485MaxConsecutiveOnes.md">LC485. Max Consecutive Ones</a>
+* <a href="DataStructure/LinearStructure/Array/Count/LC1313DecompressRun-LengthEncodedList.md">LC1313. Decompress Run-Length Encoded List</a>
+
 
 
 >>>#### 2.1.4.10 Window Slice
@@ -639,6 +641,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC451SortCharactersByFrequency.md">LC451. Sort Characters By Frequency</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/Codility-SocksLaundering.md">Codility. Socks Laundering</a>
 * <a href="DataStructure/LinearStructure/String/CountingLetters/LC551StudentAttendanceRecordI.md">LC551. Student Attendance Record I</a>
+
 
 >>>#### 2.1.5.7 Palindrome
 * <a href="Algorithm/DynamicProgramming/LC516LongestPalindromicSubsequence.md">LC516. Longest Palindromic Subsequence</a>
