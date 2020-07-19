@@ -830,6 +830,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC205IsomorphicStrings.md">LC205. Isomorphic Strings</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC290WordPattern.md">LC290. Word Pattern</a>
 * <a href="DataStructure/NonlinearStructure/Map/HashMap/LC500KeyboardRow.md">LC500. Keyboard Row</a>
+* <a href="DataStructure/NonlinearStructure/Map/HashMap/LC1389CreateTargetArrayInTheGivenOrder.md">LC1389. Create Target Array in the Given Order</a>
 
 
 >>>#### 2.2.5.2 TreeMap
