@@ -48,4 +48,10 @@ def decompressRLElist(self, nums: List[int]) -> List[int]:
     return result
 ```
 
+## Explanation
+
 Straightforward solution, no trick.
+
+* **worst-case time complexity:** `O(N * M)`, `N` is the length the list `nums`, `M` is the max value of `freq`.
+* **worst-case space complexity:** `O(N * M)`, `N` is the length the list `nums`, `M` is the max value of `freq`.
+

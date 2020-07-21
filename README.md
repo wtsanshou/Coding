@@ -141,6 +141,8 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/NumberTheory/Bit/LC67AddBinary.md">LC67. Add Binary</a>
 * <a href="Mathematics/NumberTheory/Bit/LC318MaximumProductOfWordLengths.md">LC318. Maximum Product of Word Lengths</a>
 * <a href="Mathematics/NumberTheory/Bit/Lint1651IntervalXOR-I.md">Lint1651. Interval XOR I</a>
+* <a href="Mathematics/NumberTheory/Bit/LC1290ConvertBinaryNumberInLinkedListToInteger.md">LC1290. Convert Binary Number in a Linked List to Integer</a>
+
 
 
 >>### 1.2.3 Greatest Common Divisor (GCD)
