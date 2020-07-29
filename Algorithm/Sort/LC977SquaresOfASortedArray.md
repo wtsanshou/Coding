@@ -33,7 +33,7 @@ def sortedSquares(A: Array[Int]): Array[Int] = {
 }
 ```
 
-## Explanation
+**Explanation**
 
 Just map and sort.
 

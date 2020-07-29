@@ -60,6 +60,8 @@ string findLongestWord(string s, vector<string>& d) {
 }
 ```
 
+**Explanation**
+
 **Note** `can be formed by deleting some characters of the given string` means the order should not be changed.
 
 1. Sort the directory by the lexicographical.
@@ -70,3 +72,39 @@ string findLongestWord(string s, vector<string>& d) {
 
 * **worst-case time complexity:** `O(m * n)`, where `m` is the length of `s`, `n` is the length of word in `d`.
 * **worst-case space complexity:** `O(log(n))`, where `n` is the length of word in `d`.
+
+### Solution 2
+
+* Python
+```
+def findLongestWord(self, s: str, d: List[str]) -> str:
+    result = ''
+    for word in d:
+        if len(word) < len(result) or (len(word) == len(result) and word > result):
+            continue
+        if self.can_match(s, word):
+            result = word
+    return result
+            
+        
+def can_match(self, s: str, word: str):
+    i = 0
+    j = 0
+    while i < len(word) and j < len(s):
+        if s[j] == word[i]:
+            i += 1
+        j += 1
+    return i == len(word)
+```
+
+
+**Explanation**
+
+No need to sort the words. Just ignore the short length or bigger lexicographical words.
+
+Using doulbe pointers to check ordered substring.
+
+**Complexity:**
+
+* **worst-case time complexity:** `O(m * n)`, where `m` is the length of `s`, `n` is the length of word in `d`.
+* **worst-case space complexity:** `O(1)`.
