@@ -139,6 +139,22 @@ for(Map.Entry<Integer, Integer> map : freqMap.entrySet())
 }
 ```
 
+* Python
+```
+def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+    count = {}
+    for num in nums:
+        count[num] = count.get(num, 0) + 1
+    
+    sorted_count = sorted(count.items(), key = lambda x: x[1], reverse = True)
+    result = []
+    for c in sorted_count:
+        if k > 0:
+            result.append(c[0])
+            k -= 1
+    return result
+```
+
 ## Explanation
 
 The most straight forward idea is to count the frequencies of the input numbers and sort it by their frequencies. But the algorithm's time complexity would be  `O(Nlog(N))`. It does not meet the condition of the question.
