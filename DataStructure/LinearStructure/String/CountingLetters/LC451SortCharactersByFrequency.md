@@ -176,6 +176,19 @@ public:
 
 Using `pair` in `c++` to represent the frequency of a character. 
 
+* Python
+```
+def frequencySort(self, s: str) -> str:
+    count = {}
+    for c in s:
+        count[c] = count.get(c, 0) + 1
+        
+    sorted_count = sorted(count.items(), key = lambda x : x[1], reverse = True)
+    letter_list = map(lambda x: x[0] * x[1], sorted_count)        
+        
+    return "".join(letter_list)
+```
+
 **Complexity:**
 
 * **worst-case time complexity:** `O(n)`, where `n` is the length of `s`.
