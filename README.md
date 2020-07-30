@@ -951,6 +951,10 @@ This Folder includes some programming contest questions. I am trying to summariz
 >>### 3.5.7 Bubble Sort
 * <a href="Algorithm/Sort/BubbleSort/WTBubbleSort.md">WT. Bubble Sort</a>
 
+>>### 3.5.8 Quick Sort
+* <a href="Algorithm/Sort/QuickSort/LC215KthLargestElementInAnArray.md">LC215. Kth Largest Element in an Array</a>
+
+
 >## 3.6 Search
 
 >>### 3.6.1 Binary Search
