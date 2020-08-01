@@ -1026,7 +1026,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/DFS/LC210CourseScheduleII.md">LC210. Course Schedule II</a>
 * <a href="Mathematics/DiscreteMathematics/GraphTheory/TopologicalSort-AOV-Network/BFS/LC127WordLadder.md">LC127. Word Ladder</a>
 * <a href="Algorithm/Search/BFS/Lint787TheMaze.md">Lint787. The Maze</a>
-
+* <a href="Algorithm/Search/BFS/LC1091ShortestPathInBinaryMatrix.md">LC1091. Shortest Path in Binary Matrix</a>
 
 >>### 3.6.6 Heuristic Search
 
