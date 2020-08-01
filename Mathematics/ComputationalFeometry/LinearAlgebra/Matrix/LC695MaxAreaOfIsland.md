@@ -55,6 +55,33 @@ public:
 };
 ```
 
+* Python
+```
+class Solution:
+    
+    IJ = [(0, -1), (-1, 0),  (0, 1), (1, 0)]
+    
+    def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
+        result = 0
+        row = len(grid)
+        col = len(grid[0]) if row > 0 else 0
+        for i in range(row):
+            for j in range(col):
+                if grid[i][j] == 1:
+                    result = max(result, self.check_island_size(grid, i, j, row, col))
+        return result
+    
+    def check_island_size(self, grid: List[List[int]], i: int, j: int, row: int, col: int) -> int:
+        result = 1
+        grid[i][j] = 0
+        for x, y in self.IJ:
+            a, b = i + x, j + y
+            if 0 <= a < row and 0 <= b < col and grid[a][b] == 1:
+                result += self.check_island_size(grid, a, b, row, col)
+        
+        return result
+```
+
 ## Explanation
 
 Use DFS to count the area of each island in the given 2D array.
