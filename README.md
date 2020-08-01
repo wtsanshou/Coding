@@ -978,6 +978,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 * <a href="Algorithm/Search/BinarySearch/Lint1753DoingHomework.md">Lint1753. Doing Homework</a>
 * <a href="Algorithm/Search/BinarySearch/Lint183WoodCut.md">Lint183. Wood Cut</a>
 * <a href="Algorithm/Search/BinarySearch/Lint1251SplitArrayLargestSum.md">Lint1251. Split Array Largest Sum</a>
+* <a href="Algorithm/Search/BinarySearch/LC69SqrtX.md">LC69. Sqrt X</a>
 
 
 >>### 3.6.2 Tree Search
