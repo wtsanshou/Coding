@@ -89,6 +89,66 @@ public List<Integer> diffWaysToCompute(String input) {
 }
 ```
 
+* Python
+```
+class Solution:
+    
+    OPERATORS = ['+', '-', '*']
+    
+    def diffWaysToCompute(self, input: str) -> List[int]:
+        if self.no_operation(input):
+            return [int(input)]
+        
+        result = []
+        for i in range(len(input)):
+            if input[i] == '*':
+                result += self.operation(self.diffWaysToCompute(input[:i]), self.diffWaysToCompute(input[i + 1:]), lambda x, y: x * y)
+            elif input[i] == '+':
+                result += self.operation(self.diffWaysToCompute(input[:i]), self.diffWaysToCompute(input[i + 1:]), lambda x, y: x + y)
+            elif input[i] == '-':
+                result += self.operation(self.diffWaysToCompute(input[:i]), self.diffWaysToCompute(input[i + 1:]), lambda x, y: x - y)
+        return result
+            
+    def no_operation(self, input: str) -> bool:
+        for c in input:
+            if c in self.OPERATORS:
+                return False
+        return True
+    
+    def operation(self, left:[], right:[], func) -> []:
+        result = []
+        for l in left:
+            for r in right:
+                result.append(func(l, r))
+        return result
+```
+
+* Python
+```
+class Solution:
+    
+    OPERATORS = ['+', '-', '*']
+    
+    def diffWaysToCompute(self, input: str) -> List[int]:
+        result = []
+        for i in range(len(input)):
+            if input[i] == '*':
+                result += self.operation(self.diffWaysToCompute(input[:i]), self.diffWaysToCompute(input[i + 1:]), lambda x, y: x * y)
+            elif input[i] == '+':
+                result += self.operation(self.diffWaysToCompute(input[:i]), self.diffWaysToCompute(input[i + 1:]), lambda x, y: x + y)
+            elif input[i] == '-':
+                result += self.operation(self.diffWaysToCompute(input[:i]), self.diffWaysToCompute(input[i + 1:]), lambda x, y: x - y)
+        
+        return result if result else [int(input)]
+            
+    def operation(self, left:[], right:[], func) -> []:
+        result = []
+        for l in left:
+            for r in right:
+                result.append(func(l, r))
+        return result
+```
+
 It use the `Divide and Conquer`. Suppose the left and right side sub-results of an operator have already obtained by the recursion of `diffWaysToCompute(String subInput)`, we can traversal the two sub-results to get the full-results.
 
 **Complexity:**

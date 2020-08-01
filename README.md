@@ -851,6 +851,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 
 >## 3.2 Divide and Conquer
 
+* <a href="DataStructure/LinearStructure/String/Parentheses/LC241DifferentWaysToAddParentheses.md">LC241. Different Ways to Add Parentheses</a>
 * <a href="DataStructure/LinearStructure/LinearList/LC148SortList.md">LC148. Sort List</a>
 
 >## 3.3 Recursion
