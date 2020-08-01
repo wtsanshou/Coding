@@ -75,6 +75,23 @@ public char NextGreatestLetter(char[] letters, char target) {
 }
 ```
 
+* Python
+```
+def nextGreatestLetter(self, letters: List[str], target: str) -> str:
+    n = len(letters)
+    if letters[n - 1] <= target:
+        return letters[0]
+    i = 0
+    j = n - 1
+    while i <= j:
+        mid = i + int((j - i) / 2)
+        if letters[mid] <= target:
+            i = mid + 1
+        else:
+            j = mid - 1
+    return letters[i]
+```
+
 ## Explanation
 
 Classic binary search.
