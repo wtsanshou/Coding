@@ -69,6 +69,53 @@ class Solution {
 }
 ```
 
+* Python (DFS)
+```
+class Solution:
+    def isBipartite(self, graph: List[List[int]]) -> bool:
+        n = len(graph)
+        a_or_b = [0] * n
+        for i in range(n):
+            if a_or_b[i] == 0 and not self.valid_bipartite(i, a_or_b, 1, graph):
+                return False
+        return True
+    
+    def valid_bipartite(self, i: int, a_or_b: [], color: int, graph: List[List[int]]):
+        if a_or_b[i] != 0:
+            return a_or_b[i] == color
+        
+        a_or_b[i] = color
+        for next in graph[i]:
+            if not self.valid_bipartite(next, a_or_b, -color, graph):
+                return False
+        return True
+```
+
+* Python
+
+```
+import queue
+
+class Solution:
+    def isBipartite(self, graph: List[List[int]]) -> bool:
+        n = len(graph)
+        a_or_b = [0] * n
+        for i in range(n):
+            if a_or_b[i] == 0:
+                a_or_b[i] = 1
+                q = queue.Queue()
+                q.put(i)
+                while not q.empty():
+                    node = q.get()
+                    for next in graph[node]:
+                        if a_or_b[next] == a_or_b[node]:
+                            return False
+                        if a_or_b[next] == 0:
+                            a_or_b[next] = -a_or_b[node]
+                            q.put(next)
+        return True
+```
+
 ## Explanation
 
 Because `The graph is undirected: if any element j is in graph[i], then i will be in graph[j]`, we can use `depth first search` to traverse each independent `network`. The `graph` might contain multiple `networks`, but independent `networks` won't affect each other.
