@@ -71,6 +71,17 @@ public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 }
 ```
 
+* Python
+```
+def getIntersectionNode(self, headA: ListNode, headB: ListNode) -> ListNode:
+    go_a = headA
+    go_b = headB
+    while go_a != go_b:
+        go_a = go_a.next if go_a else headB
+        go_b = go_b.next if go_b else headA
+    return go_a
+```
+
 ## Explanation
 
 Distance(a1, c3) + Distance(b1, b3) == Distance(b1, c3) + Distance(a1, a2)
