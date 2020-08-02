@@ -1,4 +1,4 @@
-# 566. Reshape the Matrix
+# LC566. Reshape the Matrix
 
 ### LeetCode
 
@@ -67,6 +67,25 @@ vector<vector<int>> matrixReshape(vector<vector<int>>& nums, int r, int c) {
             res[i][j] = nums[k/w][k%w];
     return res;
 }
+```
+
+* Python
+```
+def matrixReshape(self, nums: List[List[int]], r: int, c: int) -> List[List[int]]:
+    row = len(nums)
+    col = len(nums[0]) if row > 0 else 0
+    if row * col != r * c:
+        return nums
+    
+    one = []
+    for line in nums:
+        one += line
+        
+    result = []
+    for i in range(int(len(one) / c)):
+        result.append(one[i * c:i * c + c])
+    
+    return result
 ```
 
 ## Explanation
