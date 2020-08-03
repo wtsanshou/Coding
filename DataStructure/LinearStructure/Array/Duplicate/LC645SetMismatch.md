@@ -95,3 +95,31 @@ the missing number is `x` + `diff`
 
 * **worst-case time complexity:** `O(N)`, where `N` is the length of the input `nums`.
 * **worst-case space complexity:** `O(N)`, where `N` is the length of the input `nums`.
+
+### Solution 3
+
+* Python
+```
+class Solution:
+    def findErrorNums(self, nums: List[int]) -> List[int]:
+        for i in range(len(nums)):
+            while(nums[i] != i + 1 and nums[nums[i] - 1] != nums[i]):
+                self.swap(nums, i, nums[i] - 1)
+                
+        for i in range(len(nums)):
+            if nums[i] != i + 1:
+                return [nums[i], i + 1]
+            
+        return []
+    
+    def swap(self, nums: [], i: int, j: int):
+        temp = nums[i]
+        nums[i] = nums[j]
+        nums[j] = temp
+```
+
+Using swap to put the numbers in correct location in the array.
+
+
+* **worst-case time complexity:** `O(N)`, where `N` is the length of the input `nums`.
+* **worst-case space complexity:** `O(1)`.
