@@ -859,6 +859,7 @@ This Folder includes some programming contest questions. I am trying to summariz
 >## 3.3 Recursion
 
 * <a href="Mathematics/DiscreteMathematics/Combinatorics/Lint1667IntervalStatistics.md">Lint1667. Interval Statistics</a>
+ <a href="Algorithm/Recursion/HJ37CountRabbits.md">HJ37. Count Rabbits</a>
 
 >>### 3.3.1 Back Tracking
 * <a href="DataStructure/LinearStructure/String/Palindrome/LC131PalindromePartitioning.md">LC131. Palindrome Partitioning</a>
